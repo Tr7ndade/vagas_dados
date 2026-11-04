@@ -1,0 +1,146 @@
+# =====================================================================
+#  RADAR DE VAGAS DE DADOS — suas preferências
+#  Edite este arquivo para mudar o que o robô procura.
+#  Linhas que começam com # são comentários e são ignoradas.
+# =====================================================================
+
+# Níveis que você quer ver. Opções: estagio, trainee, junior, nao_informado
+#  - nao_informado = vagas sem nível no título e sem sinais de sênior/pleno
+#    na descrição (muitas vagas júnior na Gupy são assim). Tire da lista se
+#    quiser só vagas que dizem explicitamente "júnior".
+niveis: [junior, trainee, nao_informado]
+
+# Se a descrição pedir esta quantidade de anos de experiência OU MAIS,
+# a vaga é descartada (ex.: "3+ anos de experiência").
+max_anos_experiencia: 3
+
+# Só guarda vagas publicadas nos últimos N dias.
+janela_dias: 14
+
+# Vagas que somem das fontes ficam no painel por mais N dias, marcadas como "encerrada".
+manter_dias: 30
+
+# ---------------------------------------------------------------------
+# ONDE
+# ---------------------------------------------------------------------
+# Modalidades aceitas: remoto, hibrido, presencial
+modalidades: [remoto, hibrido, presencial]
+
+# Estados para vagas presenciais/híbridas (sigla). Lista vazia = Brasil todo.
+# Vagas remotas sempre passam. Exemplo: estados: [SP, RJ, MG]
+estados: []
+
+# Aceitar vagas remotas de empresas estrangeiras sem menção ao Brasil/LATAM?
+aceitar_remoto_exterior: false
+
+# ---------------------------------------------------------------------
+# O QUE É "VAGA DE DADOS"
+# Uma vaga entra se o TÍTULO tiver alguma palavra de `palavras_area`
+# e nenhuma de `excluir_area`. Acentos e maiúsculas não importam.
+# ---------------------------------------------------------------------
+palavras_area:
+  - dados
+  - data
+  - bi
+  - business intelligence
+  - analytics
+  - power bi
+  - sql
+  - etl
+  - machine learning
+  - ml
+  - mlops
+  - ciencia de dados
+  - inteligencia de mercado
+  - inteligencia artificial
+  - estatistico
+  - estatistica
+  - big data
+
+excluir_area:
+  - entrada de dados
+  - digitador
+  - digitacao
+  - data center
+  - datacenter
+  - protecao de dados
+  - privacidade
+  - lgpd
+  - cabeamento
+  - data entry
+
+# Palavras no TÍTULO que tiram a vaga (nível acima de júnior).
+# (Se o título também disser júnior, ex. "Jr/Pleno", a vaga fica.)
+excluir_senioridade:
+  - senior
+  - sr
+  - pleno
+  - pl
+  - especialista
+  - specialist
+  - lead
+  - lider
+  - tech lead
+  - coordenador
+  - coordenadora
+  - gerente
+  - manager
+  - head
+  - diretor
+  - diretora
+  - director
+  - principal
+  - staff
+  - supervisor
+  - supervisora
+  - consultor senior
+  - ii
+  - iii
+  - iv
+
+# Empresas que você nunca quer ver (nome como aparece na vaga).
+empresas_bloqueadas: []
+
+# ---------------------------------------------------------------------
+# FONTES
+# ---------------------------------------------------------------------
+gupy:
+  ativo: true
+  # Termos buscados no portal da Gupy (que reúne vagas de milhares de empresas).
+  termos:
+    - dados
+    - data
+    - bi
+    - business intelligence
+    - analytics
+    - power bi
+    - machine learning
+    - cientista de dados
+    - engenheiro de dados
+  max_paginas_por_termo: 10   # 50 vagas por página
+
+# Empresas que usam Greenhouse: o "token" é o que aparece em
+# boards.greenhouse.io/<token>. Adicione as que você quiser acompanhar.
+greenhouse:
+  ativo: true
+  empresas:
+    nubank: Nubank
+    stone: Stone
+    ebanx: EBANX
+    vtex: VTEX
+    gympass: Wellhub (Gympass)
+    c6bank: C6 Bank
+    xpinc: XP Inc.
+    quintoandar: QuintoAndar
+    inter: Banco Inter
+    wildlifestudios: Wildlife Studios
+    jusbrasil: Jusbrasil
+    rdstation: RD Station
+
+# Empresas que usam Lever: o identificador é o que aparece em jobs.lever.co/<id>.
+lever:
+  ativo: true
+  empresas:
+    ciandt: CI&T
+    neon: Neon
+    swile: Swile

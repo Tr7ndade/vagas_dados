@@ -1,0 +1,59 @@
+name: Coleta diária de vagas
+
+on:
+  schedule:
+    - cron: "17 10 * * *"   # todo dia às 07:17 (horário de Brasília)
+  workflow_dispatch:         # botão "Run workflow" para rodar na hora
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: coleta
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Testes dos filtros
+        run: python -m pytest -q
+
+      - name: Coletar vagas
+        id: coleta
+        continue-on-error: true
+        run: python -m radar
+
+      - name: Salvar resultado no repositório
+        run: |
+          git config user.name  "radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/vagas.json docs/vagas.js novas_hoje.md
+          git diff --cached --quiet || git commit -m "Vagas de $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Avisar vagas novas (issue)
+        if: vars.AVISAR_POR_ISSUE == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! head -1 novas_hoje.md | grep -q "^# 0 "; then
+            gh issue create --title "$(head -1 novas_hoje.md | sed 's/^# //')" --body-file novas_hoje.md
+          fi
+
+      - name: Falhar se alguma fonte quebrou (você recebe e-mail do GitHub)
+        if: steps.coleta.outcome == 'failure'
+        run: |
+          echo "::error::Alguma fonte falhou. Abra o log do passo 'Coletar vagas' para ver qual."
+          exit 1

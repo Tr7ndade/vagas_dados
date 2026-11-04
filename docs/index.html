@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar de vagas de dados</title>
+<style>
+  :root {
+    --bg: #f6f5f1; --card: #ffffff; --ink: #1c1d1f; --mute: #6b6e74; --line: #e3e1da;
+    --accent: #1f6f5c; --accent-soft: #e2f0eb; --warn: #a2471c; --warn-soft: #fbe9df;
+    --star: #9a6b00; --star-soft: #fbf1d6; --blue: #2b5a9e; --blue-soft: #e4ecf8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#141517; --card:#1d1f22; --ink:#ececea; --mute:#9a9da3; --line:#2e3135;
+      --accent:#5cc3a6; --accent-soft:#1d3a32; --warn:#f0936a; --warn-soft:#3d241a;
+      --star:#e8bf55; --star-soft:#3a2f12; --blue:#86aee8; --blue-soft:#1d2a3d; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+    font: 15px/1.45 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 28px 18px 80px; }
+  header h1 { font-size: 26px; margin: 0 0 4px; letter-spacing: -0.02em; }
+  header .sub { color: var(--mute); font-size: 13.5px; }
+  .fontes { display:flex; gap:6px; flex-wrap:wrap; margin-top:10px; }
+  .chip { font-size:12px; padding:2px 9px; border-radius:99px; border:1px solid var(--line); color:var(--mute); }
+  .chip.ok::before { content:"●"; color:var(--accent); margin-right:5px; }
+  .chip.bad { border-color:var(--warn); color:var(--warn); background:var(--warn-soft); }
+  .chip.bad::before { content:"●"; margin-right:5px; }
+  .banner { margin:16px 0 0; padding:10px 14px; border-radius:10px; background:var(--star-soft); color:var(--star); font-size:13.5px; }
+  .banner.err { background:var(--warn-soft); color:var(--warn); }
+  nav.tabs { display:flex; gap:4px; margin:22px 0 12px; border-bottom:1px solid var(--line); overflow-x:auto; }
+  nav.tabs button { background:none; border:0; padding:9px 12px; font:inherit; color:var(--mute); cursor:pointer;
+    border-bottom:2px solid transparent; margin-bottom:-1px; white-space:nowrap; }
+  nav.tabs button.on { color:var(--ink); border-bottom-color:var(--accent); font-weight:600; }
+  nav.tabs .n { font-size:12px; color:var(--mute); margin-left:4px; font-weight:400; }
+  .filtros { display:grid; grid-template-columns: 2fr repeat(4, 1fr); gap:8px; margin-bottom:10px; }
+  @media (max-width: 720px) { .filtros { grid-template-columns: 1fr 1fr; } .filtros input[type=search]{grid-column:1/-1;} }
+  input, select { font:inherit; font-size:14px; padding:8px 10px; border-radius:8px; border:1px solid var(--line);
+    background:var(--card); color:var(--ink); width:100%; }
+  .linha { display:flex; justify-content:space-between; align-items:center; gap:10px; color:var(--mute); font-size:13px; margin:6px 0 14px; flex-wrap:wrap; }
+  .linha label { display:flex; gap:6px; align-items:center; cursor:pointer; }
+  .linha input[type=checkbox] { width:auto; }
+  .vaga { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; margin-bottom:10px; }
+  .vaga.inativa { opacity:.55; }
+  .topo { display:flex; justify-content:space-between; gap:12px; align-items:flex-start; }
+  .vaga h3 { margin:0; font-size:16px; line-height:1.3; }
+  .vaga h3 a { color:inherit; text-decoration:none; }
+  .vaga h3 a:hover { text-decoration:underline; }
+  .emp { color:var(--mute); font-size:14px; margin-top:2px; }
+  .tags { display:flex; gap:6px; flex-wrap:wrap; margin-top:9px; }
+  .tag { font-size:12px; padding:2px 8px; border-radius:6px; background:var(--bg); color:var(--mute); }
+  .tag.nivel { background:var(--accent-soft); color:var(--accent); font-weight:600; }
+  .tag.nova { background:var(--blue-soft); color:var(--blue); font-weight:600; }
+  .tag.fim { background:var(--warn-soft); color:var(--warn); }
+  .acoes { display:flex; gap:4px; flex-shrink:0; }
+  .acoes button { font:inherit; font-size:12.5px; border:1px solid var(--line); background:var(--card); color:var(--mute);
+    border-radius:8px; padding:5px 9px; cursor:pointer; white-space:nowrap; }
+  .acoes button:hover { color:var(--ink); border-color:var(--mute); }
+  .acoes button.on.interessado { background:var(--star-soft); color:var(--star); border-color:transparent; }
+  .acoes button.on.apliquei { background:var(--accent-soft); color:var(--accent); border-color:transparent; }
+  .acoes button.on.descartada { background:var(--warn-soft); color:var(--warn); border-color:transparent; }
+  details { margin-top:8px; font-size:13.5px; color:var(--mute); }
+  details summary { cursor:pointer; }
+  details p { white-space:pre-line; margin:8px 0 0; max-height:260px; overflow:auto; }
+  .nota { margin-top:8px; }
+  .nota input { font-size:13px; padding:6px 9px; }
+  .vazio { text-align:center; color:var(--mute); padding:50px 0; }
+  footer { margin-top:30px; color:var(--mute); font-size:12.5px; display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+  footer button, footer label.btn { font:inherit; font-size:12.5px; border:1px solid var(--line); background:var(--card);
+    color:var(--ink); border-radius:8px; padding:5px 10px; cursor:pointer; }
+  @media (max-width: 600px) { .topo { flex-direction:column; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Radar de vagas de dados</h1>
+    <div class="sub" id="sub">carregando…</div>
+    <div class="fontes" id="fontes"></div>
+    <div id="avisos"></div>
+  </header>
+
+  <nav class="tabs" id="tabs"></nav>
+
+  <div class="filtros">
+    <input type="search" id="q" placeholder="Buscar por cargo, empresa, ferramenta (ex.: python, power bi)…">
+    <select id="fNivel"><option value="">Todos os níveis</option></select>
+    <select id="fMod"><option value="">Qualquer modalidade</option></select>
+    <select id="fUf"><option value="">Qualquer estado</option></select>
+    <select id="fFonte"><option value="">Todas as fontes</option></select>
+  </div>
+  <div class="linha">
+    <span id="contagem"></span>
+    <span style="display:flex;gap:14px;flex-wrap:wrap">
+      <label><input type="checkbox" id="soAtivas" checked> só vagas abertas</label>
+      <label>ordenar <select id="ordem" style="width:auto;padding:4px 8px">
+        <option value="chegada">mais recentes no radar</option>
+        <option value="publicada">data de publicação</option>
+        <option value="empresa">empresa (A–Z)</option>
+      </select></label>
+    </span>
+  </div>
+
+  <div id="lista"></div>
+
+  <footer>
+    <span>Suas marcações ficam salvas neste navegador.</span>
+    <button id="exportar">Exportar marcações</button>
+    <label class="btn">Importar marcações<input type="file" id="importar" accept=".json" hidden></label>
+  </footer>
+</div>
+
+<script src="vagas.js"></script>
+<script>
+(function () {
+  const NIVEL = { junior: "Júnior", estagio: "Estágio", trainee: "Trainee", nao_informado: "Nível não informado" };
+  const MOD = { remoto: "Remoto", hibrido: "Híbrido", presencial: "Presencial" };
+  const TABS = [
+    ["novas", "Para ver"], ["interessado", "Interessado"], ["apliquei", "Apliquei"],
+    ["descartada", "Descartadas"], ["todas", "Todas"],
+  ];
+  const CHAVE = "radar-vagas-status-v1";
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const norm = (s) => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+
+  let status = {};
+  let memoria = {};
+  try { status = JSON.parse(localStorage.getItem(CHAVE) || "{}"); } catch (e) { status = memoria; }
+  function salvar() { try { localStorage.setItem(CHAVE, JSON.stringify(status)); } catch (e) { /* sem armazenamento */ } }
+
+  const pacote = window.RADAR || { meta: {}, vagas: [] };
+  const meta = pacote.meta || {};
+  const vagas = pacote.vagas || [];
+  let aba = "novas";
+
+  // ---------- cabeçalho
+  function haQuanto(iso) {
+    if (!iso) return "";
+    const d = (Date.now() - new Date(iso).getTime()) / 36e5;
+    if (d < 1) return "há menos de 1 hora";
+    if (d < 24) return `há ${Math.round(d)} h`;
+    const dias = Math.round(d / 24);
+    return dias === 1 ? "ontem" : `há ${dias} dias`;
+  }
+  function diasDesde(data) {
+    if (!data) return null;
+    return Math.max(0, Math.round((Date.now() - new Date(data + "T12:00:00").getTime()) / 864e5));
+  }
+  $("sub").textContent = meta.atualizado_em
+    ? `Atualizado ${haQuanto(meta.atualizado_em)} · ${meta.novas_hoje ?? 0} novas na última coleta · ${vagas.filter(v => v.ativa).length} vagas abertas`
+    : "Ainda sem coleta.";
+  const fontes = meta.fontes || {};
+  $("fontes").innerHTML = Object.entries(fontes).map(([n, f]) =>
+    `<span class="chip ${f.ok ? "ok" : "bad"}" title="${esc(f.erro || "")}">${esc(n)}${f.ok ? ` · ${f.brutas ?? 0} lidas` : " · com problema"}</span>`).join("");
+  let avisos = "";
+  if (meta.demo) avisos += `<div class="banner">Estas são vagas de <b>exemplo</b>, para você ver como o painel funciona. Elas somem na primeira coleta real.</div>`;
+  const quebradas = Object.entries(fontes).filter(([, f]) => !f.ok);
+  if (quebradas.length) avisos += `<div class="banner err">A fonte ${quebradas.map(([n]) => "<b>" + esc(n) + "</b>").join(", ")} falhou na última coleta. Veja “Quando algo quebra” no README.</div>`;
+  $("avisos").innerHTML = avisos;
+
+  // ---------- opções dos filtros
+  function opcoes(sel, valores, rotulo) {
+    [...new Set(valores.filter(Boolean))].sort().forEach((v) => {
+      const o = document.createElement("option"); o.value = v; o.textContent = rotulo ? (rotulo[v] || v) : v; sel.appendChild(o);
+    });
+  }
+  opcoes($("fNivel"), vagas.map(v => v.nivel), NIVEL);
+  opcoes($("fMod"), vagas.map(v => v.modalidade), MOD);
+  opcoes($("fUf"), vagas.map(v => v.uf));
+  opcoes($("fFonte"), vagas.map(v => v.fonte));
+
+  // ---------- filtros e render
+  function estadoDe(v) { return (status[v.id] || {}).s || null; }
+  function passaFiltros(v) {
+    const q = norm($("q").value);
+    if (q && !norm([v.titulo, v.empresa, v.local, v.descricao].join(" ")).includes(q)) return false;
+    if ($("fNivel").value && v.nivel !== $("fNivel").value) return false;
+    if ($("fMod").value && v.modalidade !== $("fMod").value) return false;
+    if ($("fUf").value && v.uf !== $("fUf").value) return false;
+    if ($("fFonte").value && v.fonte !== $("fFonte").value) return false;
+    if ($("soAtivas").checked && !v.ativa && estadoDe(v) !== "apliquei") return false;
+    return true;
+  }
+  function naAba(v, a) {
+    const s = estadoDe(v);
+    if (a === "todas") return true;
+    if (a === "novas") return !s;
+    return s === a;
+  }
+  function ordenar(lista) {
+    const o = $("ordem").value;
+    const k = o === "publicada" ? (v) => v.publicada_em || "" : o === "empresa" ? null : (v) => v.primeira_vez || "";
+    if (!k) return lista.sort((a, b) => a.empresa.localeCompare(b.empresa, "pt-BR"));
+    return lista.sort((a, b) => k(b).localeCompare(k(a)));
+  }
+
+  function cartao(v) {
+    const s = estadoDe(v);
+    const nova = v.primeira_vez && (Date.now() - new Date(v.primeira_vez).getTime()) < 36 * 36e5 && !s;
+    const dias = diasDesde(v.publicada_em);
+    const pub = dias === null ? "" : dias === 0 ? "publicada hoje" : dias === 1 ? "publicada ontem" : `publicada há ${dias} dias`;
+    const st = status[v.id] || {};
+    const btn = (k, txt) => `<button class="${k}${s === k ? " on " + k : ""}" data-id="${esc(v.id)}" data-s="${k}">${txt}</button>`;
+    return `<article class="vaga${v.ativa ? "" : " inativa"}">
+      <div class="topo">
+        <div>
+          <h3><a href="${esc(v.link)}" target="_blank" rel="noopener">${esc(v.titulo)}</a></h3>
+          <div class="emp">${esc(v.empresa)}${v.local ? " · " + esc(v.local) : ""}</div>
+        </div>
+        <div class="acoes">
+          ${btn("interessado", "★ Interessado")}${btn("apliquei", "✓ Apliquei")}${btn("descartada", "✕")}
+        </div>
+      </div>
+      <div class="tags">
+        ${nova ? '<span class="tag nova">nova</span>' : ""}
+        ${v.ativa ? "" : '<span class="tag fim">encerrada</span>'}
+        <span class="tag nivel" title="${esc(v.motivo_nivel)}">${esc(NIVEL[v.nivel] || v.nivel)}</span>
+        <span class="tag">${esc(MOD[v.modalidade] || v.modalidade)}</span>
+        ${v.contrato ? `<span class="tag">${esc(v.contrato)}</span>` : ""}
+        <span class="tag">${esc(v.fonte)}</span>
+        ${pub ? `<span class="tag">${pub}</span>` : ""}
+        ${s === "apliquei" && st.em ? `<span class="tag">apliquei em ${new Date(st.em).toLocaleDateString("pt-BR")}</span>` : ""}
+      </div>
+      ${s === "apliquei" || s === "interessado" ? `<div class="nota"><input data-nota="${esc(v.id)}" placeholder="Anotação (ex.: falar com recrutador, etapa do processo)…" value="${esc(st.nota || "")}"></div>` : ""}
+      ${v.descricao ? `<details><summary>Ver descrição · <span title="Por que entrou">${esc(v.motivo_nivel)}</span></summary><p>${esc(v.descricao)}</p></details>` : ""}
+    </article>`;
+  }
+
+  function render() {
+    const filtradas = vagas.filter(passaFiltros);
+    $("tabs").innerHTML = TABS.map(([k, t]) =>
+      `<button data-aba="${k}" class="${k === aba ? "on" : ""}">${t}<span class="n">${filtradas.filter(v => naAba(v, k)).length}</span></button>`).join("");
+    const lista = ordenar(filtradas.filter(v => naAba(v, aba)));
+    $("contagem").textContent = `${lista.length} vaga${lista.length === 1 ? "" : "s"}`;
+    $("lista").innerHTML = lista.length ? lista.map(cartao).join("")
+      : `<div class="vazio">${aba === "novas" ? "Nada novo para ver por aqui. Volte amanhã!" : "Nenhuma vaga nesta lista."}</div>`;
+  }
+
+  document.addEventListener("click", (e) => {
+    const t = e.target.closest("button");
+    if (!t) return;
+    if (t.dataset.aba) { aba = t.dataset.aba; render(); return; }
+    if (t.dataset.s) {
+      const id = t.dataset.id, s = t.dataset.s;
+      if ((status[id] || {}).s === s) delete status[id];
+      else status[id] = { ...(status[id] || {}), s, em: new Date().toISOString() };
+      salvar(); render();
+    }
+  });
+  document.addEventListener("change", (e) => {
+    const id = e.target.dataset && e.target.dataset.nota;
+    if (id) { status[id] = { ...(status[id] || {}), nota: e.target.value }; salvar(); }
+  });
+  ["q", "fNivel", "fMod", "fUf", "fFonte", "soAtivas", "ordem"].forEach((id) => $(id).addEventListener("input", render));
+
+  $("exportar").addEventListener("click", () => {
+    const blob = new Blob([JSON.stringify(status, null, 1)], { type: "application/json" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `radar-marcacoes-${new Date().toISOString().slice(0, 10)}.json`;
+    a.click();
+  });
+  $("importar").addEventListener("change", async (e) => {
+    const f = e.target.files[0]; if (!f) return;
+    try { Object.assign(status, JSON.parse(await f.text())); salvar(); render(); }
+    catch (err) { $("avisos").insertAdjacentHTML("beforeend", '<div class="banner err">Arquivo de marcações inválido.</div>'); }
+  });
+
+  render();
+})();
+</script>
+</body>
+</html>

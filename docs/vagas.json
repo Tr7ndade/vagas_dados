@@ -1,35 +1,282 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-04T20:49:57+00:00",
+  "atualizado_em": "2026-11-05T18:00:43+00:00",
   "fontes": {
    "gupy": {
     "ok": true,
-    "brutas": 709,
+    "brutas": 713,
     "erros": 0
    },
    "greenhouse": {
     "ok": true,
-    "brutas": 1055,
+    "brutas": 1041,
     "empresas_com_erro": []
    },
    "lever": {
     "ok": true,
-    "brutas": 176,
+    "brutas": 183,
     "empresas_com_erro": []
    }
   },
-  "brutas": 1940,
-  "aceitas_hoje": 91,
-  "novas_hoje": 91,
+  "brutas": 1937,
+  "aceitas_hoje": 95,
+  "novas_hoje": 13,
   "descartes": {
-   "nível acima de júnior": 147,
-   "não é de dados": 1156,
-   "nível estagio desativado": 17,
-   "antiga": 526,
+   "nível acima de júnior": 138,
+   "não é de dados": 1155,
+   "nível estagio desativado": 12,
+   "antiga": 534,
    "local/modalidade": 3
   }
  },
  "vagas": [
+  {
+   "id": "gupy:12842141",
+   "fonte": "Gupy",
+   "titulo": "MOTIVA | ASSISTENTE ADMINISTRATIVO FACILITIES (DADOS E INDICADORES)",
+   "empresa": "Motiva",
+   "local": "Jundiaí, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-05",
+   "link": "https://motiva.gupy.io/job/eyJqb2JJZCI6MTI4NDIxNDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Quer mover a sua carreira na Motiva? A Motiva é o lugar certo para o seu talento, na qual você pode escolher o caminho que deseja seguir juntamente com uma empresa que promove a melhoria da qualidade de vida das pessoas por meio da mobilidade. Nos comprometemos em construir uma cultura cada vez mais diversa e valorizamos a inclusão de todas as pessoas independente de cor, etnia, religião, idade, identidade de gênero, orientação sexual ou deficiência, promovendo um ambiente inclusivo e com equidade de oportunidades.Responsabilidades e atribuições\nApoiar as rotinas administrativas da área, incluindo: organização de documentos e arquivos, acompanhamento de solicitações e chamados e tendimento a fornecedores e áreas internas.Manter planilhas e controles em Excel, garantindo: informações organizadas e atualizadas, uso de fórmulas, filtros e tabelas dinâmicas e padronização dos controles da área.Elaborar e atualizar relatórios e painéis em Power BI, promovendo: acompanhamento dos indicadores da área e informações claras para a tomada de decisão.Apoiar a automação de tarefas repetitivas com Power Automate.Elaborar documentos e apresentações em Word e PowerPoint.Apoiar o registro e a consulta de informações nos sistemas da empresa.Contribuir com a melhoria contínua dos processos da área, propondo formas de simplificar as rotinas e padronização de documentos e controles. \nRequisitos e qualificações\n✅ Ensino Médio Completo.\n✅ Conhecimento do Pacote Office, com Excel intermediário (fórmulas, filtros e tabelas dinâmicas).\n✅ Vivência em rotinas administrativas. \n✅ Desejável conhecimento emPower BI, Power Automate, SharePoint e SAP. \n✅ Disponibilidade para atuar em Jundiaí/SP.\nInformações adicionaisAo entrar para o nosso time integrado, você fará parte de uma empresa presente em 13 estados do país e que movimenta milhares de pessoas diariamente ao oferecer mobilidade de forma íntegra e que gera impacto positivo na sociedade. Aqui, você encontrará diversos benefícios para apoiar o seu desenvolvimento e dar mais movimento para a sua carreira.Confira os benefícios que oferecemos:🩺 Assistência Médica-Hospitalar;🦷 Assistência Odontológica;🤝 Seguro de Vida;🍝 Vale Refeição ou Alimentação;🚇 Vale Transporte ou Estacionamento no local;☂️Previdência Privada;🫄Licença Estendida: maternidade 180 dias e paternidade 20 dias;👶 Auxílio Creche;💪 Wellhub (Gympass);🎂 Day off aniversário (Folga);📈 PLR (Participação nos lucros ou resultados);⏰ Política de flexibilidade na jornada de trabalho, e muito mais!Quer melhorar a vida das pessoas através da mobilidade e contribuir para chegarmos ainda mais longe? Então, traga o seu talento para a Motiva.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12841327",
+   "fonte": "Gupy",
+   "titulo": "Cientista de Dados | Sede - Nova Petrópolis/RS",
+   "empresa": "Sicredi",
+   "local": "Nova Petrópolis, Rio Grande do Sul",
+   "uf": "RS",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-05",
+   "link": "https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI4NDEzMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Buscamos uma pessoa apaixonada por dados e tecnologia para transformar desafios de negócio em soluções inteligentes. Como Cientista de Dados, você atuará no desenvolvimento de modelos estatísticos e de Machine Learning, gerando insights, recomendações e automações que apoiem a tomada de decisão. Também será responsável por acompanhar o desempenho dos modelos, garantindo sua confiabilidade, evolução contínua e aderência às melhores práticas de governança e qualidade de dados.\nVenha contribuir para a evolução dos nossos processos, gerando eficiência e experiências cada vez melhores para nossos associados e equipes.#JUNTOSCONSTRUIMOSCOMUNIDADESMELHORES 💚Responsabilidades e atribuiçõesDesenvolver e implementar soluções de Ciência de Dados que transformem problemas de negócio em decisões e produtos mais inteligentes, garantindo transparência e explicabilidade nos modelos de Machine Learning;Gerenciar e aprimorar o ciclo de vida dos modelos estatísticos e de Machine Learning, assegurando desempenho, confiabilidade, documentação e governança adequados;Conectar as necessidades dos associados, do negócio e das operações às soluções de dados e tecnologia, aplicando Ciência de Dados para apoiar decisões, automatizar processos e gerar recomendações;Buscar desenvolvimento e constante atualização técnica e comportamental, alinhado à evolução do modelo de gestão.Requisitos e qualificaçõesRequisitos:Formação superior em Ciência de Dados, Estatística, Matemática, Engenharias, Tecnologia da Informação, Economia ou áreas correlatas;Domínio avançado de Python, SQL, PySpark e Databricks, aplicado a soluções analíticas e modelos de alta complexidade;Sólida base em estatística, experimentação e Machine Learning, incluindo validação, explicabilidade e avaliação de desempenho;Experiência com Git, MLflow e MLOps no versionamento, implantação, monitoramento e evolução de modelos;Experiência com grandes volumes de dados e integração de soluções analíticas por APIs REST;Conhecimento sólido de governança de dados, LGPD, anonimização e risco de modelos;Capacidade de definir abordagens técnicas, sustentar decisões complexas e atuar com elevada autonomia.Para candidatos internos, além dos requisitos acima:É necessário estar nas Fases de Desenvolvimento a partir de 3 da sua função, pois para dar o próximo passo na carreira é importante que as condições da função atual tenham sido desenvolvidas;Informações adicionaisDiferenciais:Experiência no setor financeiro, cooperativista ou em ambientes regulados;Conhecimento aplicado ao ciclo de crédito, risco e inadimplência;Atuação em projetos analíticos críticos, com impacto mensurável no negócio;Experiência na definição de padrões e boas práticas de Ciência de Dados;Inglês intermediário ou avançado para leitura técnica;Conhecimento de CRISP-DM ou metodologias equivalentes.Benefícios:Auxílio alimentação/refeição;Plano de saúde Unimed sem coparticipação;Plano odontológico Odontoprev;Auxílio graduação/pós-graduação;Reembolso certificações financeiras;Previdência privada;Gratificações semestrais;PPR – participação nos resultados;Benefício de saúde e bem-estar (Optum, Wellhub, Vitta e Zenklub);Licença maternidade/paternidade estendidas;ATS – adicional por tempo de serviço.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12841057",
+   "fonte": "Gupy",
+   "titulo": "Assessor de Controles Internos I - Dados e Inteligência - Supervisão Auxiliar - Central Sicredi Sul Sudeste",
+   "empresa": "Sicredi",
+   "local": "Porto Alegre, Rio Grande do Sul",
+   "uf": "RS",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-05",
+   "link": "https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI4NDEwNTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Se você gosta de transformar dados em informação, encontrar padrões e sinais de alerta e apoiar decisões com análises consistentes, esta oportunidade pode ser para você.Estamos buscando um profissional com perfil analítico para atuar na Supervisão Auxiliar da Central Sicredi Sul/Sudeste. Será responsável por desenvolver análises de supervisão indireta por meio da utilização de dados, indicadores e ferramentas analíticas. Isso envolve construir painéis, indicadores de risco e alertas automatizados, e fazer análises de tendência para apoiar e orientar as ações de supervisão. Responsabilidades e atribuiçõesGarantimos muitos desafios! Veja abaixo alguns deles:\nProduzir painéis gerenciais.Desenvolver indicadores de risco.Construir alertas automatizados.Realizar análises de tendências.Elaborar dossiês para supervisão direta.Requisitos e qualificações\nFormação mínima: Estatística; Ciência de Dados; Economia; Engenharia; Administração.Experiência mínima: 3 a 5 anos em análise de dados.Power BI.Excel avançado.SQL.Modelagem de dados.Estatística aplicada.Conhecimento em Supervisão Bancária.\nSerá considerado diferencial:Experiência com indicadores financeiros será diferencial.\nInformações adicionais\nModelo de trabalho híbrido (3X2) na Sede da Central Sicredi Sul/Sudeste, localizado em Porto Alegre, no Bairro Praia de Belas.Aqui você vai ter:14º e 15º salários;Participações nos Lucros (PPR);Plano de Saúde e Odontológico sem coparticipação (apenas mensalidade por faixa etária);Seguro de vida;Apoio a atividade física (Wellhub - antiga Gympass), Nutrição, Psicologia (Zenklub);Vale Alimentação e Vale Refeição;Previdência Privada até 10% do salário;Auxílio creche ou babá para crianças até 6 anos e 11 meses;Plataforma de Treinamentos – Sicredi Aprende, com diversos cursos;Carga horário de 40h semanais – Utilizando sistema de banco de horas.",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12840930",
+   "fonte": "Gupy",
+   "titulo": "Analista de Dados (Planejamento de vendas)",
+   "empresa": "Midea Carrier",
+   "local": "São Paulo, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-05",
+   "link": "https://mideacarrier.gupy.io/job/eyJqb2JJZCI6MTI4NDA5MzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Aqui, fazemos de tudo para que você sinta-se em casa.Humanizamos a tecnologia para aproveitar cada momento da vida - como preparar uma boa receita,estar no conforto de um ambiente climatizado ou sentir a maciez de uma roupa limpinha. E para continuarmos construindo isso (e muito mais) juntos, buscamos pessoas que são movidas por desafios constantes e buscam por conhecimento do negócio e oportunidade de amadurecimento profissional, já que ao mesmo tempo em que você trabalhará para entregar os melhores resultados, poderá interagir com diferentes áreas e pessoas, por meio de culturas variadas.Procuramos por pessoas que buscam 💙 colocar o cliente em primeiro lugar, entendendo suas necessidades e surpreendendo com soluções que fazem a diferença. Trabalhamos para ⛰️ superar limites em cada desafio, mantendo ⭐ dedicação e comprometimento em tudo o que fazemos. Valorizamos a 🤝 inclusão e a parceria, criando um ambiente onde cada colaborador pode contribuir, aprender e crescer junto com o time. E estamos sempre promovendo a 💡 transformação e a inovação, buscando novas ideias e maneiras de evoluir, seja em produtos, serviços ou processos.Responsabilidades e atribuiçõesDesenvolver e manter soluções de BI: criar, atualizar e aprimorar dashboards, relatórios e indicadores em Power BI e Excel para acompanhamento da demanda, vendas, forecast e performance dos processos de planejamento.Automatizar processos de extração e tratamento de dados (ETL): integrar informações de diferentes fontes, desenvolver rotinas de atualização e transformação de dados e reduzir atividades manuais e retrabalho.Realizar análises exploratórias e validações de dados: identificar inconsistências, desvios, tendências e oportunidades de melhoria, contribuindo para a confiabilidade das informações e para a tomada de decisão da área.Apoiar a evolução dos processos de S&OP e S&OE: desenvolver ferramentas analíticas, padronizar relatórios, documentar rotinas e colaborar com os analistas de planejamento e áreas parceiras na identificação e implementação de melhorias e automações.Requisitos e qualificaçõesFormação em Ensino superior completo ou em andamento em Administração, Engenharia, Ciência de Dados, Sistemas de Informação, Estatística, Economia ou áreas correlatas.Conhecimento em Power Query (ETL), Conhecimento básico de linguagem SQL para consultas e extração de informações em bancos de dados, Conhecimento em DAX para criação de medidas e indicadores no Power BI, Conhecimento básico em Python ou outras linguagens de programação aplicadas à análise de dados, Conhecimento em SAP (módulo MM)Idioma: Inglês intermediário Informações adicionaisAssistência médica e odontológica;Vale refeição;Vale transporte;Seguro de vida;Previdência privada;PAR - Participação nos Lucros e Resultados;Wellhub - benefício de bem-estar que ajuda você a cuidar da sua saúde física e mental;Conexa - oferece atendimentos on-line de psicoterapia e nutrição, sem custo para os colaboradores e seus dependentes;PicPay Antecipa - o benefício permite que o colaborador antecipe uma parte do salário, oferecendo maior flexibilidade financeira no dia a dia;Loja do Colaborador: oferece condições especiais e descontos exclusivos em produtos Midea Carrier;Programa Super Amigo: permite aos colaboradores compartilhem vouchers de desconto na compra de produtos da marca com amigos e familiares;Programa de Educação Midea Carrier: subsídio fornecido aos colaboradores para o desenvolvimento e aprendizado contínuo em faculdades, universidades e instituições educacionais (após 12 meses na empresa);Programa Testers: o programa permite que os colaboradores participem de testes de produtos em desenvolvimento, contribuindo com avaliações e feedbacks. Ao final, os participantes poderão ser contemplados com o produto avaliado, de acordo com as diretrizes estabelecidas.Local de trabalho: Jabaquara- SPModalidade de trabalho: 4x presencial e 1 home officeContrato: Efetivo",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12805588",
+   "fonte": "Gupy",
+   "titulo": "Analista Jurídico I - (Foco em Análise de Dados e Automações)",
+   "empresa": "Central Ailos",
+   "local": "Blumenau, Santa Catarina",
+   "uf": "SC",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-05",
+   "link": "https://centralailos.gupy.io/job/eyJqb2JJZCI6MTI4MDU1ODgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Se você quer colocar seu talento em expansão, embarque com a gente nessa jornada de oportunidades, desenvolvimento e muita cooperação para mover você em direção a um universo a ser explorado!\nResponsabilidades e atribuições• Monitorar o SLA das demandas sob sua responsabilidade, objetivando o cumprimento dentro dos prazos; • Prestar apoio e realizar atividades inerentes a todos os processos, projetos e programas da área;• Sugerir melhorias nas ferramentas, métodos e processos, por meio das atividades realizadas, buscando a melhoria contínua dos processos;• Contribuir com a elaboração de relatórios gerenciais referentes à área, por meio de levantamento de dados nas ferramentas, buscando fornecer dados para análise dos resultados;• Realizar a conferência dos valores cobrados pelos prestadores de serviços da área, analisando se reflete a prestação de serviço realizada, bem como proceder com os lançamentos e cadastros das notas fiscais nos sistemas de pagamentos para garantir o seu correto pagamento; • Realizar a triagem e distribuição das demandas junto ao portal de serviços; • Realizar outras atividades relativas ao cargo;• Realizar a gestão do controle do recebimento e do cadastro de ações judiciais, intimações e ordens judiciais, para salvaguardar o cumprimento das SLAs e dos prazos legais; • Apoar no controle do recebimento e no cadastro das ordens judiciais e das quebras de sigilo bancário; • Apoiar nas atividades relacionadas ao tratamento das ordens judiciais;• Desenvolver e manter dashboards interativos utilizando ferramentas como Power BI;• Desenvolver e manter automações utilizando ferramentas como Power Automate;Requisitos e qualificaçõesFormação em Direito.\nOAB ativaConhecimento sólido em ferramentas como Power BI e Power Automate;Diferenciais:\nConhecimento em indicadores, KPIs e governança de dados.\nConhecimento em banco de dados, denodo e databricksVivência com automação de processos.\nInformações adicionaisO QUE TAMBÉM TEMOS POR AQUI...• Assistência Médica – se precisar é bom ter• Assistência Odontológica – porque amamos sorrisos por aqui• Programa Renascer – uma vida renasce a outra• Datas Significativas – a gente ama sentir o que faz sentido• Investimento em Educação – estamos com você na jornada do aprendizado ;)• Participação nos Resultados – construímos juntos, celebramos juntos no dia do Perten-ser!• Plano de Desenvolvimento Individual – valorizamos seu protagonismo de carreira• Previdência Privada – gostamos de pensar nas possibilidades do futuro• Seguro de Vida – importante, né! rs• Tempo Juntos – reconhecemos quem gosta de estar conosco• Vale Refeição e/ou Alimentação – uma delícia!• Vale Transporte – sem descontos ? sim.• Auxílio infantil/babá – porque seu Baby merece ficar em um lugar seguro e acolhedor.PRIVACIDADE E PROTEÇÃO DE DADOSO Sistema Ailos utilizará os dados fornecidos durante sua candidatura para fins relacionados aos processos seletivos e oportunidades profissionais, inclusive por meio de plataformas parceiras de recrutamento. Caso deseje exercer seus direitos relacionados à proteção de dados pessoais ou obter mais informações sobre como tratamos seus dados, consulte nossa Declaração de Privacidade e Proteção de Dados para Candidatos e os canais de atendimento nela disponíveis.Não é necessário qualquer aceite adicional, tratando-se apenas de uma ciência sobre o tratamento dos dados necessários para a participação neste processo seletivo.Juntos, transformamos vidas com segurança, transparência e respeito à sua privacidade.",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12719758",
+   "fonte": "Gupy",
+   "titulo": "AUXILIAR DE PROCESSAMENTOS DE DADOS - CAMPOS DOS GOYTACAZES/RJ",
+   "empresa": "Barcelos",
+   "local": "Campos dos Goytacazes, Rio de Janeiro",
+   "uf": "RJ",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-05",
+   "link": "https://barcelos.gupy.io/job/eyJqb2JJZCI6MTI3MTk3NTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Buscamos gente que compartilhe dos nossos valores, que zele pela simplicidade, respeito, ética e transparência. Que tenha prazer em servir, com qualidade e sustentabilidade.Valorizamos a diversidade, estimulamos o trabalho em equipe visando o aprendizado e compartilhamento de conhecimento, estimulando o crescimento do grupo, aqui sua opinião é muito bem vinda!Queremos gente que viabilize junto com a gente novas ideias, o pensar diferente, o fazer as pessoas aprenderem e crescerem, queremos gente que goste de se desafiar a novos cenários e que esteja disposto a trabalhar duro conosco para alcançar os objetivos.Se nossa energia faz sentido para você, venha conversar com a gente!Responsabilidades e atribuiçõesCriação de relatórios automatizados com análises que forneçam insights para a tomada de decisão;Construção de análises no que se refere às informações de negócios, produtividade e rentabilidade.Requisitos e qualificaçõesFormação e Qualificações2º grau completo.Competências\nBoa comunicaçãoCriatividadePersuasãoDinamismo\nInformações adicionaisConhecimento dos números do setor;Informática (Básica);Conhecimentos de programas de excelência da operação e produção;",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12841759",
+   "fonte": "Gupy",
+   "titulo": "Edital 2027.1 | Professor(a) Universitário(a) de Engenharia de Computação – Big Data",
+   "empresa": "Seleção de Professores (Presencial) - Centro Universitário Facens",
+   "local": "Sorocaba, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-05",
+   "link": "https://professoresfacens.gupy.io/job/eyJqb2JJZCI6MTI4NDE3NTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "O Centro Universitário\nUniFacens está com inscrições abertas para o Edital de Seleção e Contratação de\nDocentes 2027.1. Buscamos profissionais apaixonados pela educação, ciência e\ninovação para integrar nosso corpo docente no Curso de Engenharia.\nA\nUniFacens é reconhecida por seu ecossistema de inovação, metodologias ativas de\naprendizagem e compromisso com a formação de profissionais preparados para os\ndesafios da área da saúde. Valorizamos docentes que inspirem o protagonismo dos\nestudantes, promovam o pensamento científico e contribuam para a construção de\numa formação acadêmica conectada às demandas do mercado e da pesquisa.\nPara esta oportunidade, buscamos um profissional com formação em Engenharia da Computação, Ciência da Computação, Sistemas de Informação, Engenharia Elétrica, Engenharia de Controle e Automação ou áreas correlatas para\nministrar disciplinas como Big Data.\nA\ncontratação será realizada em regime CLT, conforme Plano de Carreira Docente da\nInstituição.\nResponsabilidades e atribuições1-Elaborar\no Plano de Aula da disciplina ou disciplinas alocadas a partir do calendário\nacadêmico, plano de ensino visando atender ao processo de ensino proposto, a\nquantidade de dias letivos e a qualidade das aulas ministradas. \n2-Revisar o Plano de Ensino das disciplinas alocadas a\npartir da proposta contida no PPC (Projeto Pedagógico de Curso) e das\nnecessidades de mercado visando a execução com qualidade do projeto pedagógico\nde curso. \n3-Elaborar material de aula e avaliações de aprendizado a\npartir do plano de aula e de ensino visando garantir o aprendizado do\naluno. \n4-Realizar a aferição de presença a cada dia letivo a\npartir do sistema de controle de frequência visando garantir de forma adequada\no processo de avaliação discente. \n5-Participar de reuniões de colegiado e outras reuniões a\npedido da coordenação de curso para discussão e análise do PPC, atividades\ndocentes, projetos, dentre outros visando a execução com qualidade do projeto\npedagógico de curso. \n6-Participar das atividades do Conexão Docente e de\npreparação do semestre letivo por meio da inscrição nas atividades ofertadas e\nassim desenvolver novas habilidades, melhorar as atuais e aprimorar o trabalho\nem sala de aula. \n7-Orientar trabalhos de TCC a partir das definições do\nprofessor responsável pela disciplina de TCC visando garantir a entrega de\nprojetos com qualidade e dentro das normas estabelecidas. \n8-Orientar trabalhos de Iniciação Científica conforme\nprojeto aprovado pela Diretoria de Pesquisa visando o desenvolvimento de\nrecursos humanos e de novos conhecimentos na área de pesquisa. \n9-Desenvolver projetos de ensino aprendizagem, dentro da\nrespectiva área de atuação, conforme orientação da coordenação de curso. \n10-Integrar o NDE (Núcleo Docente Estruturante) do\nrespectivo curso conforme convite da coordenação de curso e participar das\ndiscussões e implementação do PPC dos respectivos cursos com o objetivo de\natender a legislação educacional e oferta de um curso de qualidade alinhado ao\nmercado. \n11-Desenvolver atividades administrativas/pedagógicas,\nestipuladas pela Coordenação do Cursos, como professor de Regime Integral por\nmeio da execução de atividades administrativas, pedagógicas e de orientação\nvisando a execução com qualidade do PPC. \n12-Seguir o modelo pedagógico e de avaliação adotado pela\nInstituição a partir das regras e processos definidos no Plano de Ensino e garantindo,\nassim, a qualidade do processo de ensino-aprendizagem. \n13-Participar da Avaliação Institucional realizada\nsemestralmente nas datas estipuladas, respondendo os questionários de avaliação\ne contribuindo com a geração de indicadores de qualidade para a gestão dos\ncursos e da instituição. \n14-Atender as demandas solicitadas pelo Coordenador do\nrespectivo conforme as orientações prestadas visando atender demandas, solução\nde problemas, necessidade urgentes do curso e assim contribuindo para a gestão\ne qualidade do curso em que atua. \n15-Cumprir com as determinações contidas nos\nprocedimentos, nas Normas, nos Regulamentos e nas Políticas, através do\nconhecimento e cumprimento das mesmas, garantindo assim a conformidade nos\nprocessos e o atendimento à legislação vigente;\n16-Executar outras atividades da mesma natureza e mesma\ncomplexidade do cargo.\nRequisitos e qualificaçõesGraduação em Engenharia da Computação, Ciência da Computação, Sistemas de Informação, Engenharia Elétrica, Engenharia de Controle e Automação ou áreas correlatas;Mestrado concluído;Doutorado será considerado diferencial;Experiência docente no Ensino Superior ou Ensino Técnico;Conhecimento de metodologias ativas;Capacidade de planejamento e organização;Disponibilidade para aulas ministrar aulas no\nperíodo noturno (carga horária semanal mínima de 10h);Disciplinas: Big Data\nInformações adicionais· \nContratação em regime CLT.\n· \nPlano de Carreira Docente.\n· \nBolsa de Estudos Integral para Graduação.\n· \nBolsa de Estudos Integral para Pós-Graduação.\n· \nConvênio Médico.\n· \nConvênio Odontológ",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12774159",
+   "fonte": "Gupy",
+   "titulo": "BI - Recepcionista Atendente",
+   "empresa": "Brasal",
+   "local": "Brasília, Distrito Federal",
+   "uf": "DF",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-05",
+   "link": "https://brasal.gupy.io/job/eyJqb2JJZCI6MTI3NzQxNTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "A Brasal Incorporações, empresa renomada por suas construções de empreendimentos de alto padrão, está em busca de profissionais qualificados para integrar sua equipe.Não construímos apenas edifícios; criamos espaços que transformam vidas! Somos uma equipe apaixonada, inovadora e comprometida com a qualidade e a sustentabilidade. Se você é um profissional que acredita que cada projeto é uma nova oportunidade de fazer a diferença, queremos você no nosso time!Junte-se a nossa equipe! Candidate-se agora mesmo. Responsabilidades e atribuições Agendar e acompanhar corretores e clientes nas visitas nas obras;Apresentar a unidade decorada aos clientes e corretores;Auxiliar na realização de eventos internos;Conferir o inventário do stand diariamente;Controlar chaves e registrar informações do decorado;Coordenar a utilização das salas de atendimento e treinamento;Efetuar e atender ligações telefônicas, filtrar os assuntos, encaminhar as ligações e transmitir recado;Efetuar e fazer o controle e compras de materiais de escritório, limpeza e copa;Elaborar relatório de controle de atendimentos realizados pelos corretores e pelas imobiliárias;Elaborar relatório de controle de visitas motivadas e espontâneas dos clientes; Encaminhar os clientes para atendimento com os corretores;Processar a correspondência recebida, organizá-las e distribuir para os destinatários;Receber e distribuir ligações telefônicas, fazendo as anotações e controles necessários;Receber materiais e serviços no stand e encaminhar para a sede as notas fiscais para pagamento; Recepcionar e cadastrar clientes que visitam o stand;Recepcionar visitantes e clientes, anunciando e encaminhando-os as pessoas solicitadas;Zelar pela manutenção geral da central de decorados, salão de vendas e sala de treinamento;Requisitos e qualificaçõesQualificações Essenciais:Ensino Médio Completo;Experiência atuando em Atendimento ao Cliente;Pacote Office (Excel, Word e PowerPoint);Diferenciais:Certificações ou cursos complementares relacionados à área de atuação;Experiência prévia em construção civil de alto padrão.Informações adicionais\n R$2.507,35\n🚌 Vale Transporte;💳 Vale Alimentação;❤️ Seguro de Vida;🥼 Assistência Médica e Odontológica;🥳 Folga de Aniversário;📚 Parcerias Educacionais;🥤 Descontos em Produtos (Loja Conceito).\n Horário: 12X36 | 07:00 13:00-14:00 19:00\n Local: LAGO SUL - EMPREENDIMENTO- ORLA LAGO",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "lever:ciandt:54dbb05f-9eae-4747-be01-063fa06e4aa8",
+   "fonte": "Lever",
+   "titulo": "[Job-31837] Master Data Developer - Data Ops, Brazil",
+   "empresa": "CI&T",
+   "local": "Brazil",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "Homeoffice",
+   "publicada_em": "2026-11-05",
+   "link": "https://jobs.lever.co/ciandt/54dbb05f-9eae-4747-be01-063fa06e4aa8",
+   "descricao": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data & AI, Martech and Business strategy.\nWe are 8,000 CI&Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.\n\n\nAbout Us:\nAt CI&T, our rapid growth is fueled by the innovative solutions we create for our global clients. We are seeking a Master DataOps Engineer to own the operational backbone — environments, CI/CD, and monitoring — for a large-scale Finance data platform modernization at a major US mortgage lender, so the platform being built is reliable and cost-governed from day one, not bolted on at the end. \nResponsibilities:\nEnvironment Provisioning & Platform Readiness\nOwn end-to-end environment provisioning and platform readiness across the full data stack — from SQL Server CDC source through Snowflake landing, raw, and curated layers — ahead of and during the build, with a formal readiness checklist delivered before sensitive-data build begins.\nProvision and maintain Snowflake environments (DEV → QA → UAT → Prod) with dedicated, right-sized warehouses per workload class — replication/ingestion, curated-layer transformation, and BI serving — each with auto-suspend, resource monitors, and cost attribution from day one.\nCoordinate Azure infrastructure provisioning: Virtual Networks, NSGs, Private Endpoints, Azure Key Vault, self-hosted Azure DevOps agents, and VM infrastructure for the CDC replication tool — including firewall rules, TLS certificate requests, and DNS resolution for private Snowflake endpoints, all with documented lead times surfaced proactively.\nManage Snowflake RBAC provisioning: dedicated project-specific role hierarchy, clearly separated from broad IT, developer, analyst, and AI roles; positive and negative access tests executed before the environment is handed over to the build team.\nManage the full vendor and service account access lifecycle: named, individual, time-bound, least-privilege access for all delivery personnel; dedicated non-personal service accounts for replication, Snowflake, and BI integrations; credential storage and rotation via Azure Key Vault; revocation with documented evidence at engagement end.\nCI/CD Pipeline Engineering\nBuild and operate the CI/CD pipeline for all data artifacts — transformation logic, metric definitions, replication configurations, Snowflake object DDL, and versioned SQL transformation models — using Azure DevOps Pipelines with YAML-based, version-controlled pipeline definitions.\nEnforce a DEV → QA → UAT → Prod promotion path with branch policies, required reviewers, build validation on PRs, and written approval gates before any production deployment — no silent or automatic production changes.\nIntegrate automated regression, schema validation, row-count checks, and data quality assertions at every promotion stage — not only before go-live.\nExternalize all environment-specific configuration from code; integrate Azure DevOps Variable Groups linked to Azure Key Vault so no credentials are stored as plaintext in pipeline definitions or repository files.\nIntegrate code scanning, dependency scanning, and IaC scanning (e.g., Checkov, Microsoft Defender for DevOps) into CI pipelines; remediate or formally document exceptions for all material findings before promotion to production.\nDesign, document, and rehearse rollback procedures for every promotion stage, including a full mock cutover and rollback rehearsal before the production readiness gate.\nMonitoring, Alerting & Observability\nImplement and own end-to-end pipeline monitoring using Azure Monitor and Log Analytics: replication health, CDC lag alerts, replication agent availability, Snowflake warehouse freshness against agreed SLA targets, schema-change and drift detection events at the landing zone, and semantic-definition change alerts.\nConfigure Azure Monitor Alert Rules routed via Action Groups to the client's approved ITSM tool (e.g., ServiceNow), with named alert owners, defined thresholds, and documented escalation paths — every alert fully operable by the client's DataOps team without vendor involvement post-handoff.\nEnable and maintain Diagnostic Settings on all Azure resources (Key Vault, VMs, NSGs, Storage Accounts) feeding a centralized Log Analytics Workspace with appropriate retention, access control, and audit trails covering authentication, access grants, configuration changes, and deployments.\nImplement Snowflake resource monitors and Azure Cost Management budget alerts for cost anomaly detection; produce periodic FinOps attribution reports by workload class.\nPlatform Cost Governance & FinOps\nOwn platform cost attribution and consumption monitoring across all Snowfla",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12834054",
+   "fonte": "Gupy",
+   "titulo": "Engenheiro de dados",
+   "empresa": "VENHA SER #SANGUELARANJA 🧡🚀",
+   "local": "Belo Horizonte, Minas Gerais",
+   "uf": "MG",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-04",
+   "link": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4MzQwNTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Buscamos um(a) Engenheiro(a) de Dados para atuar em projetos estratégicos de negócios, tecnologia e dados de cliente do setor bancário, contribuindo para a construção, evolução e sustentação de soluções de integração, processamento e disponibilização de dados.O profissional será responsável por desenvolver pipelines de dados eficientes, escaláveis e seguros, garantindo a qualidade, integridade e disponibilidade das informações utilizadas pelas diferentes áreas de negócio.Além do conhecimento técnico, buscamos um profissional com perfil consultivo, boa comunicação e capacidade de interagir diretamente com stakeholders das áreas de negócio, compreendendo suas necessidades e traduzindo-as em soluções tecnológicas.A atuação ocorrerá em um ambiente dinâmico, com grande volume de informações, arquitetura distribuída e utilização de tecnologias modernas, especialmente no ecossistema AWS.\nResponsabilidades e atribuiçõesProjetar, desenvolver, implementar e manter pipelines de dados para extração, transformação, integração e disponibilização de informações.Desenvolver processos de ETL/ELT, garantindo eficiência, escalabilidade, rastreabilidade e qualidade dos dados.Atuar na integração de diferentes fontes de dados, incluindo bancos relacionais, APIs, arquivos estruturados e semiestruturados.Desenvolver scripts e aplicações utilizando Python e SQL, com foco em extração, tratamento, transformação e manipulação de dados.Construir e otimizar soluções de processamento de dados em ambientes cloud, preferencialmente AWS.Participar da definição e evolução de arquiteturas de dados, considerando Data Lakes, Data Warehouses e soluções analíticas.Implementar mecanismos de monitoramento, observabilidade e tratamento de falhas nos pipelines.Aplicar boas práticas de segurança, governança, qualidade e proteção de dados, considerando os requisitos do ambiente financeiro.Identificar oportunidades de automação e melhoria contínua nos processos de engenharia de dados.Realizar levantamento e análise de requisitos diretamente com áreas de negócio, compreendendo processos, necessidades e objetivos.Traduzir requisitos funcionais e necessidades de negócio em especificações técnicas e soluções de dados.Interagir com equipes de desenvolvimento, arquitetura, infraestrutura, segurança e analytics.Documentar soluções, fluxos de dados, regras de transformação e integrações desenvolvidas.Apoiar análises técnicas e funcionais para identificação de inconsistências e oportunidades de melhoria nos dados.\nRequisitos e qualificaçõesExperiência sólida em desenvolvimento utilizando Python para processamento, manipulação e integração de dados.Conhecimento avançado em SQL, incluindo consultas complexas, joins, procedures e otimização de queries.Experiência com bibliotecas Python para tratamento e processamento de dados, como Pandas e PySpark.Experiência com integração de dados por meio de APIs REST, arquivos JSON, CSV e formatos como Parquet.Experiência na construção e manutenção de pipelines ETL/ELT.Conhecimento em modelagem de dados relacional e dimensional.Experiência com bancos de dados relacionais e soluções de armazenamento analítico.Conhecimento de arquiteturas Data Lake e Data Warehouse.Experiência com processamento de grandes volumes de dados.Conhecimento em mecanismos de orquestração e agendamento de pipelines.Familiaridade com conceitos de qualidade, catalogação, linhagem e governança de dados.Experiência no levantamento de requisitos funcionais e técnicos junto a usuários e áreas de negócio.Capacidade de compreender processos de negócio e identificar necessidades relacionadas ao consumo e tratamento de dados.Habilidade para transformar demandas de negócio em soluções técnicas estruturadas.Experiência na documentação de requisitos, regras de negócio e fluxos de integração.Capacidade de conduzir reuniões técnicas e funcionais com diferentes stakeholders.\nDiferenciais técnicosApache Airflow para orquestração de pipelines. PySpark para processamento distribuído e manipulação de grandes volumes de dados. Python aplicado a engenharia e ciência de dados. Pandas e Numpy para manipulação e análise de dados. SQL avançado para consultas, modelagem e otimização. Experiência com AWS Cloud, incluindo: AWS Glue (ETL/ELT) Amazon Redshift (data warehouse) Consultas em dados armazenados no Amazon S3 Experiência com modelagem dimensional (fatos, dimensões, modelo estrela). Vivência com pipelines de dados e boas práticas de governança.DesejáveisExperiência no setor financeiroFamiliaridade com ferramentas de visualização (Power BI, Tableau, Looker). Conhecimento de versionamento (Git) e boas práticas de desenvolvimento. Noções de qualidade e catalogação de dados (Data Quality, Data Catalog).",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12834010",
+   "fonte": "Gupy",
+   "titulo": "Engenheiro de dados",
+   "empresa": "VENHA SER #SANGUELARANJA 🧡🚀",
+   "local": "Belo Horizonte, Minas Gerais",
+   "uf": "MG",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-04",
+   "link": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4MzQwMTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Buscamos um(a) Engenheiro(a) de Dados para atuar em projetos estratégicos de negócios, tecnologia e dados de cliente do setor bancário, contribuindo para a construção, evolução e sustentação de soluções de integração, processamento e disponibilização de dados.O profissional será responsável por desenvolver pipelines de dados eficientes, escaláveis e seguros, garantindo a qualidade, integridade e disponibilidade das informações utilizadas pelas diferentes áreas de negócio.Além do conhecimento técnico, buscamos um profissional com perfil consultivo, boa comunicação e capacidade de interagir diretamente com stakeholders das áreas de negócio, compreendendo suas necessidades e traduzindo-as em soluções tecnológicas.A atuação ocorrerá em um ambiente dinâmico, com grande volume de informações, arquitetura distribuída e utilização de tecnologias modernas, especialmente no ecossistema AWS.\nResponsabilidades e atribuiçõesProjetar, desenvolver, implementar e manter pipelines de dados para extração, transformação, integração e disponibilização de informações.Desenvolver processos de ETL/ELT, garantindo eficiência, escalabilidade, rastreabilidade e qualidade dos dados.Atuar na integração de diferentes fontes de dados, incluindo bancos relacionais, APIs, arquivos estruturados e semiestruturados.Desenvolver scripts e aplicações utilizando Python e SQL, com foco em extração, tratamento, transformação e manipulação de dados.Construir e otimizar soluções de processamento de dados em ambientes cloud, preferencialmente AWS.Participar da definição e evolução de arquiteturas de dados, considerando Data Lakes, Data Warehouses e soluções analíticas.Implementar mecanismos de monitoramento, observabilidade e tratamento de falhas nos pipelines.Aplicar boas práticas de segurança, governança, qualidade e proteção de dados, considerando os requisitos do ambiente financeiro.Identificar oportunidades de automação e melhoria contínua nos processos de engenharia de dados.Realizar levantamento e análise de requisitos diretamente com áreas de negócio, compreendendo processos, necessidades e objetivos.Traduzir requisitos funcionais e necessidades de negócio em especificações técnicas e soluções de dados.Interagir com equipes de desenvolvimento, arquitetura, infraestrutura, segurança e analytics.Documentar soluções, fluxos de dados, regras de transformação e integrações desenvolvidas.Apoiar análises técnicas e funcionais para identificação de inconsistências e oportunidades de melhoria nos dados.\nRequisitos e qualificaçõesExperiência sólida em desenvolvimento utilizando Python para processamento, manipulação e integração de dados.Conhecimento avançado em SQL, incluindo consultas complexas, joins, procedures e otimização de queries.Experiência com bibliotecas Python para tratamento e processamento de dados, como Pandas e PySpark.Experiência com integração de dados por meio de APIs REST, arquivos JSON, CSV e formatos como Parquet.Experiência na construção e manutenção de pipelines ETL/ELT.Conhecimento em modelagem de dados relacional e dimensional.Experiência com bancos de dados relacionais e soluções de armazenamento analítico.Conhecimento de arquiteturas Data Lake e Data Warehouse.Experiência com processamento de grandes volumes de dados.Conhecimento em mecanismos de orquestração e agendamento de pipelines.Familiaridade com conceitos de qualidade, catalogação, linhagem e governança de dados.Experiência no levantamento de requisitos funcionais e técnicos junto a usuários e áreas de negócio.Capacidade de compreender processos de negócio e identificar necessidades relacionadas ao consumo e tratamento de dados.Habilidade para transformar demandas de negócio em soluções técnicas estruturadas.Experiência na documentação de requisitos, regras de negócio e fluxos de integração.Capacidade de conduzir reuniões técnicas e funcionais com diferentes stakeholders.\nDiferenciais técnicosApache Airflow para orquestração de pipelines. PySpark para processamento distribuído e manipulação de grandes volumes de dados. Python aplicado a engenharia e ciência de dados. Pandas e Numpy para manipulação e análise de dados. SQL avançado para consultas, modelagem e otimização. Experiência com AWS Cloud, incluindo: AWS Glue (ETL/ELT) Amazon Redshift (data warehouse) Consultas em dados armazenados no Amazon S3 Experiência com modelagem dimensional (fatos, dimensões, modelo estrela). Vivência com pipelines de dados e boas práticas de governança.DesejáveisExperiência no setor financeiroFamiliaridade com ferramentas de visualização (Power BI, Tableau, Looker). Conhecimento de versionamento (Git) e boas práticas de desenvolvimento. Noções de qualidade e catalogação de dados (Data Quality, Data Catalog).",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12700700",
+   "fonte": "Gupy",
+   "titulo": "22419-Administrador(a) de Dados",
+   "empresa": "Hitss Brasil",
+   "local": "Remoto",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-04",
+   "link": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI3MDA3MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Na Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia. Se você é movido pela paixão em criar soluções tecnológicas disruptivas, se busca constantemente desafios que ampliem os limites do possível e se acredita que colocar o cliente em primeiro lugar é a chave para o sucesso, então você está no lugar certo.Queremos pessoas que se destaquem, que pensem fora da caixa e estejam dispostas a desbravar novos horizontes. Aqui, cada ideia é valorizada, cada pergunta é incentivada e cada desafio é encarado como uma oportunidade de aprendizado e crescimento.Junte-se a nós e faça parte de uma cultura vibrante, onde a inovação é alimentada pela curiosidade incessante e onde o respeito pelo cliente permeia todas as nossas ações. Aqui, você terá a liberdade de explorar suas habilidades, colaborar com mentes brilhantes e transformar o futuro da tecnologia.Se você está pronto para fazer parte de uma empresa que acredita que o talento é a chave para o sucesso, envie seu currículo e junte-se à nossa equipe.Estamos ansiosos para conhecer você e impulsionar juntos a próxima geração de soluções tecnológicas.Venha ser um Hit!Responsabilidades e atribuiçõesProjetar modelos de dados nos níveis conceitual, lógico e físico;Acompanhar e orientar equipes durante as atividades de modelagem de dados;Avaliar modelos de dados desenvolvidos pelas equipes de desenvolvimento;Apoiar a identificação e utilização de informações corporativas e compartilhadas;Disseminar os conceitos das entidades representadas nos modelos de dados;Manter atualizados os repositórios de modelos de dados e metadados;Propor melhorias e mudanças na arquitetura corporativa de dados;Realizar análises de impacto das alterações propostas nos modelos de dados corporativos e compartilhados;Elaborar relatórios técnicos e pareceres sobre a utilização de metadados nos níveis conceitual e lógico;Apoiar atividades relacionadas à qualidade de dados e gestão de dados mestres e de referência;Contribuir para a elaboração de vocabulários e glossários corporativos, metodologias de gestão e governança de dados e demais documentos relacionados à gestão de dados.\nRequisitos e qualificaçõesRequisitos necessários:Graduação completa em curso de nível superior na área de Tecnologia ou correlata à atuação profissional;Diploma de \nPós-graduação em TI; Ou em caso de não possuir pós-graduação;\nConhecimento em banco de dados Oracle e/ou PostgreSQL;Experiência prática em modelagem de dados conceitual, lógica e física;Experiência com arquitetura corporativa de dados e gestão de metadados;Experiência prática em análise de impacto e avaliação de modelos de dados;Experiência com qualidade de dados, gestão de dados mestres e dados de referência;Experiência com gestão e governança de dados.\nInformações adicionaisOBSERVAÇÕES: Vaga temporária de 6 meses com possibilidade de prorrogação. Contratação CLTModelo: RemotoQuer conhecer todas as nossas vagas? Acesse a nossa página:Hitss - Trabalhe Conoscohttps://globalhitss.gupy.io/https://www.hitss.com/br/https://www.hitss.com/politicas/Importante: Todas as nossas vagas são elegíveis para profissionais com deficiência, equidade de gênero e raça/ etnia.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12774134",
+   "fonte": "Gupy",
+   "titulo": "BI - Recepcionista Atendente",
+   "empresa": "Brasal",
+   "local": "Brasília, Distrito Federal",
+   "uf": "DF",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-04",
+   "link": "https://brasal.gupy.io/job/eyJqb2JJZCI6MTI3NzQxMzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "A Brasal Incorporações, empresa renomada por suas construções de empreendimentos de alto padrão, está em busca de profissionais qualificados para integrar sua equipe.Não construímos apenas edifícios; criamos espaços que transformam vidas! Somos uma equipe apaixonada, inovadora e comprometida com a qualidade e a sustentabilidade. Se você é um profissional que acredita que cada projeto é uma nova oportunidade de fazer a diferença, queremos você no nosso time!Junte-se a nossa equipe! Candidate-se agora mesmo. Responsabilidades e atribuições Agendar e acompanhar corretores e clientes nas visitas nas obras;Apresentar a unidade decorada aos clientes e corretores;Auxiliar na realização de eventos internos;Conferir o inventário do stand diariamente;Controlar chaves e registrar informações do decorado;Coordenar a utilização das salas de atendimento e treinamento;Efetuar e atender ligações telefônicas, filtrar os assuntos, encaminhar as ligações e transmitir recado;Efetuar e fazer o controle e compras de materiais de escritório, limpeza e copa;Elaborar relatório de controle de atendimentos realizados pelos corretores e pelas imobiliárias;Elaborar relatório de controle de visitas motivadas e espontâneas dos clientes; Encaminhar os clientes para atendimento com os corretores;Processar a correspondência recebida, organizá-las e distribuir para os destinatários;Receber e distribuir ligações telefônicas, fazendo as anotações e controles necessários;Receber materiais e serviços no stand e encaminhar para a sede as notas fiscais para pagamento; Recepcionar e cadastrar clientes que visitam o stand;Recepcionar visitantes e clientes, anunciando e encaminhando-os as pessoas solicitadas;Zelar pela manutenção geral da central de decorados, salão de vendas e sala de treinamento;Requisitos e qualificaçõesQualificações Essenciais:Ensino Médio Completo;Experiência atuando em Atendimento ao Cliente;Pacote Office (Excel, Word e PowerPoint);Diferenciais:Certificações ou cursos complementares relacionados à área de atuação;Experiência prévia em construção civil de alto padrão.Informações adicionaisR$ 2.507,35🚌 Vale Transporte;💳 Vale Alimentação;❤️ Seguro de Vida;🥼 Assistência Médica e Odontológica;🥳 Folga de Aniversário;📚 Parcerias Educacionais;🥤 Descontos em Produtos (Loja Conceito).Horário: Segunda a Sábado de 08h00 às 17h20 com 2 horas de almoço.Local: Noroeste - Empreendimento: Nexus",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-05T18:00:43+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
+   "ativa": true
+  },
   {
    "id": "gupy:12837030",
    "fonte": "Gupy",
@@ -46,7 +293,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -65,7 +312,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -84,7 +331,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -103,7 +350,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -122,7 +369,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -141,7 +388,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -160,7 +407,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -179,7 +426,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -198,7 +445,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -217,7 +464,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -236,7 +483,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -255,7 +502,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -274,7 +521,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -293,7 +540,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -312,7 +559,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -331,7 +578,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -350,7 +597,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -369,7 +616,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -388,7 +635,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -407,7 +654,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -426,7 +673,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -445,7 +692,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -464,7 +711,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -483,7 +730,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -502,7 +749,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -521,7 +768,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -540,7 +787,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -559,7 +806,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -578,7 +825,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -598,7 +845,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-04T20:49:57+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12809375",
@@ -616,7 +863,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -635,7 +882,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -654,7 +901,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -673,7 +920,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -692,7 +939,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -711,7 +958,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -730,7 +977,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -749,7 +996,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -768,7 +1015,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -787,7 +1034,7 @@
    "nivel": "trainee",
    "motivo_nivel": "título/contrato de trainee ou aprendiz",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -806,7 +1053,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -821,11 +1068,11 @@
    "contrato": "Homeoffice",
    "publicada_em": "2026-10-29",
    "link": "https://jobs.lever.co/ciandt/58dce197-882e-454f-8771-2fcc214542ea",
-   "descricao": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data & AI, Martech and Business strategy.\nWe are 8,000 CI&Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.\n\n\nAs CI&T grows, we seek a talented, motivated, and experienced Data Developer to join our team and build robust data-driven solutions for our customers. This role is pivotal in designing, developing, and maintaining scalable data infrastructure and pipelines that enable our data initiatives to thrive. \nThe Data Developer will be responsible for implementing and optimizing data architectures, ensuring data quality and reliability, and collaborating closely with analytics and business teams to deliver high-performance data solutions. This position requires strong technical expertise in data engineering, cloud platforms, and modern data stack technologies, combined with the ability to translate business requirements into effective technical solutions.\nResponsibilities:\nData Pipeline Development: Build, optimize, and maintain scalable data pipelines and ETL/ELT processes to support analytics and business intelligence needs.\nData Architecture Implementation: implement data architectures, including data lakes, warehouses, and integration layers that support the organization's data strategy and modernization.\nData Quality & Governance: Implement data quality checks, validation processes, and monitoring systems to ensure data accuracy, consistency, and reliability.\nIntegration & API Development: Develop and maintain integrations between various data sources, third-party tools, and analytics platforms.\nCollaboration: Work closely with Data & Analytics Managers and business stakeholders to understand requirements and deliver technical solutions that enable data-driven decision making.\nPerformance Optimization: Monitor and optimize data pipeline performance, query efficiency, and storage costs to ensure scalable and cost-effective solutions.\nDocumentation: Create and maintain comprehensive technical documentation for data architectures, pipelines, and processes.\nData Security: Implement security best practices and ensure compliance with data privacy regulations across all data systems.\nPowered by AI: Leverage AI tools and automation to enhance data engineering workflows and productivity.\n \nRequirements:\nHands-on Databricks migration with the databricks/migrate tool (notebooks,\njobs, clusters, secrets, ACLs), Unity catalog to Glue Catalog\nNotebook and job migration: notebooks, DAG pipelines, DLT pipelines\nStorage path refactoring: /mnt/ DBFS references to S3-backed locations\nData migration execution: Deltalake format to Iceberg format on S3  (Delta tables, raw files), incremental sync\nStreaming: Auto Loader / DLT checkpoint re-bootstrap, event_id dedup\nValidation: row counts, checksums, sample queries, ETL runtime comparison\nSecrets: recreate secret scopes in AWS Secrets Manager\nAWS services: S3, Glue, Secrets Manager, IAM basics, Athena, LakeFormation and\nEMR\nLanguages: Spark SQL, PySpark, Java, Python and Scala\nAgile pod delivery: daily ticket updates, standups, code review\n \n \nNice to Have:\nDatabricks Certified Consultant (Associate/Professional); DBR to EMR on AWS migration experience\n \n \n \n \n#LI-LO1\n",
+   "descricao": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data & AI, Martech and Business strategy.\nWe are 8,000 CI&Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.\n\n\nWe are looking for a Data Architect with strong AWS expertise to drive the strategy, development, and execution of our enterprise data platforms and analytics products. In this role, you will bridge the gap between business stakeholders, data engineers, and data science teams to transform raw data assets into scalable, high-value data products. You will leverage cloud-native AWS services to manage the product lifecycle from discovery to rollout, ensuring high data quality, governance, and business impact.\nResponsibilities:\nProduct Strategy & Roadmap: Define the vision, roadmap, and KPIs for data products (data pipelines, data lakes, analytics dashboards, and AI/ML data features) on AWS.\nStakeholder Alignment & Discovery: Work with business leaders, domain experts, and engineering teams to identify high-impact use cases, translate business requirements into technical epics, and prioritize the backlogs.\nAWS Data Ecosystem Management: Oversee product architecture alignment on AWS data services (e.g., S3, Glue, Redshift, Athena, Bedrock/SageMaker) to support scalable analytics and GenAI workloads.\nData Governance & Quality: Partner with Security and Data Governance teams to enforce data access controls, privacy regulations (LGPD/GDPR/HIPAA), data lineage, and data quality standards.\nExecution & Product Delivery: Lead agile development cycles, defining clear acceptance criteria, managing user stories, and ensuring timely delivery of data solutions.\nAdoption & Value Measurement: Track usage metrics, adoption rates, and ROI of data products to continuously optimize user engagement and business value.\nRequirements:\nExperience with Databricks\nExperience specifically managing data platforms, ETL pipelines, or analytics products.\nAWS Technical Literacy: Solid understanding of the AWS data stack (S3, Redshift, Glue, EMR, Athena, QuickSight, IAM) and cloud-native data architecture patterns (Data Lake, Lakehouse, Data Mesh).\nAgile & Delivery: Strong experience leading cross-functional squads using Scrum/Kanban, backlog management tools (Jira, Linear), and defining clear user stories.\nData Skills: Proficiency in SQL and data visualization tools, with the ability to query data directly to validate product performance and metrics.\nBusiness Acumen: Demonstrated track record of converting complex technical requirements into actionable business outcomes and executive-ready communications.\nNice to Have:\nDatabricks Certified Consultant (Associate/Professional); DBR to EMR on AWS migration experience\nAWS Certified Data Engineer – Associate or AWS Certified Cloud Practitioner\n \nCertified Scrum Product Owner (CSPO) or Pragmatic Institute Certification\n \n \n \n#LI-LO1\n",
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -844,7 +1091,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -863,7 +1110,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -882,7 +1129,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -901,7 +1148,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -920,7 +1167,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -939,7 +1186,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -958,7 +1205,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -977,7 +1224,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -996,7 +1243,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1015,7 +1262,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1034,7 +1281,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1053,7 +1300,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1072,7 +1319,7 @@
    "nivel": "trainee",
    "motivo_nivel": "título/contrato de trainee ou aprendiz",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1091,7 +1338,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1110,7 +1357,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1129,7 +1376,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1148,7 +1395,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1167,7 +1414,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1186,7 +1433,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1205,7 +1452,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1224,7 +1471,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1243,7 +1490,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1262,7 +1509,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1281,7 +1528,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1300,7 +1547,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1319,7 +1566,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1338,7 +1585,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1357,7 +1604,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1376,7 +1623,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1395,7 +1642,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1414,7 +1661,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1433,7 +1680,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1452,7 +1699,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1471,7 +1718,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1490,7 +1737,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1509,7 +1756,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1528,7 +1775,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1547,7 +1794,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1566,7 +1813,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1585,7 +1832,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1604,7 +1851,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-04T20:49:57+00:00",
+   "ultima_vez": "2026-11-05T18:00:43+00:00",
    "ativa": true
   },
   {
@@ -1624,7 +1871,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-04T20:49:57+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12750927",
@@ -1643,7 +1890,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-04T20:49:57+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12759435",
@@ -1662,7 +1909,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-04T20:49:57+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12744808",
@@ -1681,7 +1928,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-04T20:49:57+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12755341",
@@ -1700,7 +1947,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-04T20:49:57+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12709421",
@@ -1719,7 +1966,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-04T20:49:57+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "greenhouse:inter:4741656005",
@@ -1738,7 +1985,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-04T20:49:57+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "greenhouse:inter:4744976005",
@@ -1757,7 +2004,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-04T20:49:57+00:00",
-   "ativa": true
+   "ativa": false
   }
  ]
 }

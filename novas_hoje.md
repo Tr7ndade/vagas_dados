@@ -1,15 +1,7 @@
-# 13 vagas novas — 2026-11-05
+# 5 vagas novas — 2026-11-06
 
-- **MOTIVA | ASSISTENTE ADMINISTRATIVO FACILITIES (DADOS E INDICADORES)** · Motiva · Jundiaí, São Paulo · `nao_informado` — [abrir](https://motiva.gupy.io/job/eyJqb2JJZCI6MTI4NDIxNDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Cientista de Dados | Sede - Nova Petrópolis/RS** · Sicredi · Nova Petrópolis, Rio Grande do Sul · `nao_informado` — [abrir](https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI4NDEzMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Assessor de Controles Internos I - Dados e Inteligência - Supervisão Auxiliar - Central Sicredi Sul Sudeste** · Sicredi · Porto Alegre, Rio Grande do Sul · `junior` — [abrir](https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI4NDEwNTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Analista de Dados (Planejamento de vendas)** · Midea Carrier · São Paulo, São Paulo · `nao_informado` — [abrir](https://mideacarrier.gupy.io/job/eyJqb2JJZCI6MTI4NDA5MzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Analista Jurídico I - (Foco em Análise de Dados e Automações)** · Central Ailos · Blumenau, Santa Catarina · `junior` — [abrir](https://centralailos.gupy.io/job/eyJqb2JJZCI6MTI4MDU1ODgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **AUXILIAR DE PROCESSAMENTOS DE DADOS - CAMPOS DOS GOYTACAZES/RJ** · Barcelos · Campos dos Goytacazes, Rio de Janeiro · `nao_informado` — [abrir](https://barcelos.gupy.io/job/eyJqb2JJZCI6MTI3MTk3NTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Engenheiro de dados** · VENHA SER #SANGUELARANJA 🧡🚀 · Belo Horizonte, Minas Gerais · `nao_informado` — [abrir](https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4MzQwNTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Engenheiro de dados** · VENHA SER #SANGUELARANJA 🧡🚀 · Belo Horizonte, Minas Gerais · `nao_informado` — [abrir](https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4MzQwMTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **22419-Administrador(a) de Dados** · Hitss Brasil · Remoto · `nao_informado` — [abrir](https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI3MDA3MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Edital 2027.1 | Professor(a) Universitário(a) de Engenharia de Computação – Big Data** · Seleção de Professores (Presencial) - Centro Universitário Facens · Sorocaba, São Paulo · `nao_informado` — [abrir](https://professoresfacens.gupy.io/job/eyJqb2JJZCI6MTI4NDE3NTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **BI - Recepcionista Atendente** · Brasal · Brasília, Distrito Federal · `nao_informado` — [abrir](https://brasal.gupy.io/job/eyJqb2JJZCI6MTI3NzQxNTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **BI - Recepcionista Atendente** · Brasal · Brasília, Distrito Federal · `nao_informado` — [abrir](https://brasal.gupy.io/job/eyJqb2JJZCI6MTI3NzQxMzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **[Job-31837] Master Data Developer - Data Ops, Brazil** · CI&T · Brazil · `nao_informado` — [abrir](https://jobs.lever.co/ciandt/54dbb05f-9eae-4747-be01-063fa06e4aa8)
+- **ANALISTA DE DADOS JUNIOR** · Oportunidades · Remoto · `junior` — [abrir](https://bancorbras.gupy.io/job/eyJqb2JJZCI6MTI4NDgzOTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **ANALISTA DE DADOS JR - ( HIBRIDO / RJ)  - RHA4494** · Spread Tecnologia · Rio de Janeiro, Rio de Janeiro · `junior` — [abrir](https://spread.gupy.io/job/eyJqb2JJZCI6MTI4Mzk2OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **22421-Administrador de Dados** · Hitss Brasil · Campinas, São Paulo · `nao_informado` — [abrir](https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI3MDA3MDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Pessoa Analista de Dados - Jr** · BIP Brasil · Rio de Janeiro, Rio de Janeiro · `junior` — [abrir](https://vemprabip.gupy.io/job/eyJqb2JJZCI6MTI4NDQxNzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Especialista I - Analytics e Estratégia Comercial** · Grupo Boticário · São José dos Pinhais, Paraná · `junior` — [abrir](https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4MTE0NDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)

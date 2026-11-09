@@ -1,35 +1,130 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-08T16:40:08+00:00",
+  "atualizado_em": "2026-11-09T20:43:38+00:00",
   "fontes": {
    "gupy": {
     "ok": true,
-    "brutas": 711,
+    "brutas": 710,
     "erros": 0
    },
    "greenhouse": {
     "ok": true,
-    "brutas": 1040,
+    "brutas": 1033,
     "empresas_com_erro": []
    },
    "lever": {
     "ok": true,
-    "brutas": 174,
+    "brutas": 162,
     "empresas_com_erro": []
    }
   },
-  "brutas": 1925,
-  "aceitas_hoje": 88,
-  "novas_hoje": 0,
+  "brutas": 1905,
+  "aceitas_hoje": 89,
+  "novas_hoje": 5,
   "descartes": {
-   "não é de dados": 1143,
-   "nível acima de júnior": 128,
+   "nível acima de júnior": 138,
+   "não é de dados": 1125,
    "nível estagio desativado": 12,
-   "antiga": 551,
+   "antiga": 538,
    "local/modalidade": 3
   }
  },
  "vagas": [
+  {
+   "id": "gupy:12859261",
+   "fonte": "Gupy",
+   "titulo": "Atendimento ao Cliente para Coleta de Dados - Araguaia Shopping/GO (100h)",
+   "empresa": "Montreal | Tecnologia e Inovação",
+   "local": "Goiânia, Goiás",
+   "uf": "GO",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-09",
+   "link": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI4NTkyNjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Como Atendimento ao Cliente para Coleta de Dados alocado através da Montreal, você fará parte de uma das melhores empresas de tecnologia para se trabalhar no Brasil!Em 1986, nossa trajetória iniciou com pessoas visionárias que assumiram um compromisso com a tecnologia e sua capacidade de transformar o mundo através dela. Aquele, seria apenas o começo de uma trajetória que levou uma pequena equipe de engenharia apaixonada por inovação a se tornar referência sólida no mercado brasileiro.Responsabilidades e atribuiçõesAtendimento ao público, recepcionando os clientes cidadãos que buscam os serviços de foto digital.Verificação dos dados pessoais do cliente cidadão no início do atendimento.Responsável pela coleta de foto, digitais, assinatura e digitalização de documentos.Orientação sobre as próximas etapas do processo ao cliente.Requisitos e qualificaçõesObrigatório possuir Ensino Médio Completo (será solicitado o diploma e/ou certificado);Possuir noções de informática;Desejável experiência com atendimento ao cliente.Informações adicionaisTipo de contratação: CLT, EfetivoHorário de trabalho: Atuação presencial de segunda à sexta das 13:00 às 17:00 horas.Local de trabalho: \nEndereço: R. 44, 399 - St. Central, Goiânia - GO, 74063-010\nVale-refeição ou Alimentação pago por dia trabalhado no cartão Alelo;Vale-transporte desconto de 6% sob o benefício de acordo com a CCT;Plano de Saúde Cooparticipativo;Plano Odontológico;Seguro de Vida;Wellhub;Clube de Vantagens;Auxílio Creche (quando previsto em convenção ou acordo coletivo).",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-09T20:43:38+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12725378",
+   "fonte": "Gupy",
+   "titulo": "ANALISTA DE INFRAESTRUTURA JR (BANCO DE DADOS)",
+   "empresa": "Globalweb",
+   "local": "São Paulo, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-09",
+   "link": "https://sejaglobalweb.gupy.io/job/eyJqb2JJZCI6MTI3MjUzNzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Nosso time é formado por excelentes profissionais da área da tecnologia.Colaboração e comprometimento fazem parte do nosso dia-a-dia, quando desenvolvemos novas funcionalidades, construindo um produto robusto e escalável.Fazendo parte de nossa equipe, seu trabalho irá impactar em milhares de usuários, de algumas das maiores empresas do país, que utilizam nossa solução diariamente.Responsabilidades e atribuiçõesComo Analista de Infraestrutura JR - Folguista, você será responsável por garantir a continuidade dos serviços e operações de TI ao cobrir férias e folgas da equipe de infraestrutura e banco de dados. Atuando em um ambiente dinâmico e crítico, você prestará suporte técnico, monitorará servidores, além de administrar o ambiente virtual e físico do cliente. Essa função exige capacidade para lidar com incidentes e mudanças, assegurando que os sistemas e serviços estejam sempre disponíveis e operando com eficiência. Sua atuação será fundamental para manter a estabilidade da infraestrutura de TI, seguindo as melhores práticas de gestão de serviços (ITIL® V4), e garantindo a qualidade de nossas operações.Responsabilidades:Gerenciamento de Incidentes: Restabelecer a operação normal dos serviços o mais rápido possível, atuando em eventos com erros conhecidos e soluções definitivas ou paliativas. Minimizar o impacto nas operações, mantendo comunicação com a Central de Atendimento e Chefia do DAS, informando sobre escaladas e tempos estimados de solução.Gerenciamento de Mudanças: Facilitar a implementação de mudanças aprovadas, minimizando o impacto na qualidade dos serviços e na continuidade dos negócios. Garantir que as mudanças sejam implementadas de forma eficiente e com riscos aceitáveis.Instalação de Softwares e Aplicativos: Efetuar a instalação de softwares e aplicativos no Data Center, seguindo procedimentos estabelecidos pelo Setor de Suporte ao Processamento de Dados, em ambientes Windows e Linux.Monitoramento de Infraestrutura: Monitorar o desempenho de máquinas físicas e virtuais (Windows e Linux), avaliando uso de memória, discos e serviços, garantindo a operação contínua do parque de máquinas do cliente.Gerenciamento de Ambiente Virtual: Administrar o ambiente virtual do cliente, incluindo clusters, failovers, nós e storages.Atendimento a Chamados de Suporte: Realizar tarefas relacionadas a administração de bancos de dados Microsoft SQL Server.Conhecimento em Redes de Computadores: Conhecimento básico em protocolos de redes, acesso a VPN e troubleshooting básico para identificar problemas na camada de rede (ping, telnet, etc).Conhecimento em Banco de Dados: Conhecimento básico na Arquitetura do Microsoft SQL Server e em Arquitetura de Alta Disponibilidade (FCI, AlwaysON, etc); Conhecimento básico em backups e restores do SQL Server; Conhecimento básico em criação de logins e usuários no SQL Server; Conhecimento básico em diagnóstico de bloqueios (locks, blocks, deadlocks).Requisitos e qualificaçõesFormação:Graduação completa ou cursando em uma das seguintes áreas: Análise de Sistemas, Ciência da Computação, Processamento de Dados, Sistemas de Informação, Informática, Engenharia da Computação ou demais áreas de Tecnologia da Informação ou Curso Superior completo em qualquer área e Especialização na área Tecnologia da Informação.Diferenciais:Conhecimentos básicos em administração de servidores Windows.Familiaridade com sistemas de virtualização (Hyper-V, VMware, ProxMox).Noções de redes e monitoramento de infraestrutura.Desejo de aprender e se desenvolver tecnicamente em infraestrutura de TI.Experiência com suporte técnico, NOC ou infraestrutura de servidores.Conhecimentos em gerenciamento de serviços (ITIL®), MySQL e SQL.Certificações:Microsoft Certified: Solution Associate SQL 2016 Database Administrator ou superior (antiga ou atual) e/ou MySQL Database Administrator e/ou PostgreSQL Associate Certification.Informações adicionaisNossos benefícios:Plano de Saúde;Plano Odontológico;Seguro de Vida – Porto SeguroVale Refeição ou Vale Alimentação;Vale Transporte: é concedido ao colaborador, para uso no trajeto residência – trabalho – residência, e será descontado mensalmente o percentual de 6% sob o valor do salário, limitado ao valor do benefício (opcional);Day off: será concedido ao colaborador folga em virtude do dia do aniversário, devendo este ser usufruído na mesma data e/ou no mês do aniversário;Wellhub / Totalpass;Convênio PetLove;Zenklub;Convênios e Parcerias (Instituições de Ensino, Academias, Cursos de Idiomas entre outros);",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-09T20:43:38+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12837197",
+   "fonte": "Gupy",
+   "titulo": "BEMOL DIGITAL | DATA ENGINEER I",
+   "empresa": "Bemol Digital",
+   "local": "Remoto",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-09",
+   "link": "https://bemoldigital.gupy.io/job/eyJqb2JJZCI6MTI4MzcxOTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Faça Parte da Revolução Digital e Financeira na Amazônia com a Bemol!Na Bemol, estamos comprometidos em transformar a experiência dos nossos clientes e o mercado de tecnologia e serviços financeiros no Norte do Brasil. Desde 2020, a Bemol Serviços Financeiros (BSF) atua como a frente financeira das Lojas Bemol, oferecendo soluções integradas como a Conta Bemol e Crédito (Empréstimo Pessoal e Empréstimo com Garantia de Imóvel), que ajudam nossos clientes a realizar seus sonhos e conquistar independência financeira.Nossa missão na Bemol Digital é liderar a inovação, fornecendo acesso a serviços digitais conectados à marca Bemol, tudo em um ambiente de trabalho inclusivo e diverso, onde todos têm a oportunidade de crescer e se desenvolver. Procuramos profissionais talentosos que compartilhem de nossa visão e possuam as seguintes competências:Comunicação Eficaz: Capacidade de transmitir ideias de forma clara e concisa.Trabalho em Equipe: Habilidade de colaborar com pessoas de diferentes origens e perspectivas.Adaptabilidade: Disposição para abraçar mudanças e novos desafios.Resolução de Problemas: Aptidão para identificar problemas e implementar soluções eficientes.Orientação para Resultados: Foco no cumprimento de metas e na entrega de resultados de alta qualidade.Curiosidade e Aprendizado Contínuo: Interesse em explorar novas ideias, aprender novas tecnologias e se manter atualizado com as tendências do mercado.Se você se identifica com nossa proposta, venha construir o futuro conosco. Junte-se à Bemol e faça parte de uma equipe que está impulsionando a inovação digital e financeira na região amazônica.Responsabilidades e atribuiçõesDesenvolver e manter pipelines de dados para ingestão, processamento e armazenamento. Garantir a eficiência, escalabilidade e confiabilidade dos fluxos de dados. Implementar processos de ELT. Modelar e otimizar estruturas de dados para uso em análises. Trabalhar com bases SQL e NoSQL para suportar diferentes tipos de carga de trabalho. Monitorar a qualidade e integridade dos dados, implementando estratégias de validação. Criar e manter ferramentas de suporte ao processamento e análise de dados. Utilizar ou ja ter utilizado o PaaS - DatabricksIntegrar fontes de dados internas e externas, garantindo segurança e governança da informação. Trabalhar com Cloud Computing para armazenar, processar e distribuir dados de forma escalável. Auxiliar na configuração e otimização de serviços de nuvem para engenharia de dados. Implementar boas práticas de segurança para armazenamento e tráfego de dados. Garantir conformidade com regulamentações e políticas internas da Bemol Digital. Criar pipelines de governança de dados e monitoramento do ambiente e anomalias.Transformar insights técnicos em informações compreensíveis para stakeholders das áreas de negócio. \nRequisitos e qualificações\nHabilidades Comportamentais (Soft Skills) A) Compromisso com a Entrega: Identificar e reportar problemas que fogem ao seu escopo de conhecimento. Buscar feedback dos stakeholders para aprimorar a qualidade das entregas. Argumentar de forma clara e fundamentada nas interações com outras áreas. B) Atitude de Dono: Identificar oportunidades de melhoria e atuar na otimização dos processos. Desenvolver conceitos e ferramentas para aprimorar sua área de atuação. Identificar riscos e propor soluções para mitigação de problemas. C) Independência e Autogestão: Estruturar fluxos de trabalho e definir prioridades de forma estratégica. Antecipar problemas e buscar soluções antes que impactem o time. Aplicar boas práticas de planejamento e controle para garantir eficiência. D) Visão Estratégica e Sistêmica: Compreender como sua atuação contribui para os objetivos do negócio. Analisar cenários internos e externos para propor melhorias estratégicas. Participar da definição de OKRs e KPIs da área. E) Capacidade de Inovação e Mudanças: Manter-se atualizado sobre novas tecnologias e tendências do mercado. Implementar melhorias contínuas nos processos em que atua. Avaliar e validar sugestões inovadoras dentro da equipe. F) Comunicação e Trabalho em Equipe: Expressar ideias de forma clara e coerente em diferentes contextos. Dar e receber feedback de forma construtiva e contínua. Criar um ambiente colaborativo, promovendo o aprendizado entre os times. Habilidades Técnicas (Hard Skills) A) Conceitos Fundamentais: Cloud Computing (Básico), Data Pipelines (Básico), Modelagem de Dados, Entendimento de Clusters (Básico). B) Tecnologias Utilizadas: Databricks (Intermediario) – Orquestração e automação de workflows, Python (Avançado) – Desenvolvimento de scripts e automação de processos, Spark/PySpark (Intermediário) – Processamento distribuído de grandes volumes de dados e SQL (Básico) – Manipulação e consulta de bancos de dados relacionais. Formação Acadêmica\nGraduação completa em Engenharia, Estatística, Ciência da Computação, Matemática ou áreas afins, ou Mínimo de 2 anos de experiência em desenvolvimento de software na indústria.Experiên",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-09T20:43:38+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12796174",
+   "fonte": "Gupy",
+   "titulo": "BI - Jovem Aprendiz",
+   "empresa": "Brasal",
+   "local": "Goiânia, Goiás",
+   "uf": "GO",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "Aprendiz",
+   "publicada_em": "2026-11-09",
+   "link": "https://brasal.gupy.io/job/eyJqb2JJZCI6MTI3OTYxNzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "A Brasal Incorporações, uma das principais construtoras e incorporadoras de Brasília, está com inscrições abertas para o seu programa de Jovem Aprendiz.Esta é uma oportunidade incrível para jovens entre 14 e 24 anos que desejam dar o primeiro passo em sua carreira profissional.Junte-se a uma equipe dinâmica e inovadora, onde você poderá desenvolver habilidades valiosas e construir os alicerces para um futuro promissor. Aproveite essa chance para impulsionar sua trajetória profissional e fazer parte do time de uma das empresas mais renomadas do país.O programa de Jovem Aprendiz da Brasal oferece:Contrato de trabalho com carteira assinada;Carga horária de 4 horas diárias, permitindo conciliar os estudos;Salário + Benefícios, como vale-transporte e vale-alimentação;Treinamentos e capacitações;Possibilidade de efetivação após o término do contrato.Candidate-se agora mesmo.Responsabilidades e atribuições• Auxiliar na organização e arquivamento de documentos • Apoiar na elaboração de relatórios e planilhas • Apoiar com a equipe nas atividades diárias da áreaRequisitos e qualificaçõesQualificações Essenciais:Cursando Ensino Médio;Pacote Office (Excel, Word e PowerPoint);Diferenciais:Certificações ou cursos complementares relacionados à área de atuação;Informações adicionais🚌 Vale Transporte;💳 Vale Alimentação;❤️ Seguro de Vida;🥼 Assistência Médica e Odontológica;🥳 Folga de Aniversário;📚 Parcerias Educacionais;🥤 Descontos em Produtos (Loja Conceito).",
+   "nivel": "trainee",
+   "motivo_nivel": "título/contrato de trainee ou aprendiz",
+   "primeira_vez": "2026-11-09T20:43:38+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12859401",
+   "fonte": "Gupy",
+   "titulo": "BI - AUXILIAR ADMINISTRATIVO (TEMPORARIO)",
+   "empresa": "Brasal",
+   "local": "Goiânia, Goiás",
+   "uf": "GO",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-09",
+   "link": "https://brasal.gupy.io/job/eyJqb2JJZCI6MTI4NTk0MDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "A Brasal Incorporações, empresa renomada por suas construções de empreendimentos de alto padrão, está em busca de profissionais qualificados para integrar sua equipe.Não construímos apenas edifícios; criamos espaços que transformam vidas! Somos uma equipe apaixonada, inovadora e comprometida com a qualidade e a sustentabilidade. Se você é um profissional que acredita que cada projeto é uma nova oportunidade de fazer a diferença, queremos você no nosso time!Junte-se a nossa equipe! Candidate-se agora mesmo. Responsabilidades e atribuiçõesAcompanhar processos administrativos;Atualizar relatórios, formulários e planilhas;Controlar documentação e pastas das SPE’s;Controlar notas fiscais, acompanhando prazos;Executar rotinas de apoio aos processos da área;Fazer organização e manutenção das pastas de arquivos;Preencher documentos;Tratar documentos;Executar outras atividades correlatas a critério do superior imediato.Requisitos e qualificaçõesQualificações Essenciais:Ensino Médio Completo;Experiência atuando em Rotina Administrativa;Pacote Office (Excel, Word e PowerPoint);Diferenciais:Certificações ou cursos complementares relacionados à área de atuação;Experiência prévia em construção civil de alto padrão.Informações adicionais🚌 Vale Transporte;💳 Vale Alimentação;❤️ Seguro de Vida;🥼 Assistência Médica e Odontológica;🥳 Folga de Aniversário;📚 Parcerias Educacionais;🥤 Descontos em Produtos (Loja Conceito).",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-09T20:43:38+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
+   "ativa": true
+  },
   {
    "id": "gupy:12851408",
    "fonte": "Gupy",
@@ -46,7 +141,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -65,7 +160,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -84,7 +179,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -103,7 +198,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -122,7 +217,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -141,7 +236,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -179,7 +274,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -198,7 +293,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -217,7 +312,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -236,7 +331,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -255,7 +350,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -274,7 +369,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -293,7 +388,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -312,7 +407,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -331,7 +426,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -350,7 +445,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -369,7 +464,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -388,7 +483,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -407,7 +502,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -426,7 +521,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -445,7 +540,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -464,7 +559,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -483,7 +578,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -503,7 +598,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-08T16:40:08+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12796397",
@@ -521,7 +616,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -540,7 +635,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -560,7 +655,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-08T16:40:08+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12794376",
@@ -578,7 +673,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -597,7 +692,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -616,7 +711,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -635,7 +730,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -654,7 +749,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -673,7 +768,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -692,7 +787,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -711,7 +806,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -730,7 +825,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -749,7 +844,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -768,7 +863,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -787,7 +882,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -806,7 +901,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -825,7 +920,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -844,7 +939,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -863,7 +958,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -882,7 +977,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -901,7 +996,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -939,7 +1034,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -977,7 +1072,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -996,7 +1091,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1015,7 +1110,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1053,7 +1148,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1072,7 +1167,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1091,7 +1186,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1111,7 +1206,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-08T16:40:08+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12809531",
@@ -1129,7 +1224,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1148,7 +1243,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1167,7 +1262,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1186,7 +1281,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1205,7 +1300,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1243,7 +1338,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1258,11 +1353,11 @@
    "contrato": "Homeoffice",
    "publicada_em": "2026-10-29",
    "link": "https://jobs.lever.co/ciandt/58dce197-882e-454f-8771-2fcc214542ea",
-   "descricao": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data & AI, Martech and Business strategy.\nWe are 8,000 CI&Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.\n\n\nWe are looking for a Data Architect with strong AWS expertise to drive the strategy, development, and execution of our enterprise data platforms and analytics products. In this role, you will bridge the gap between business stakeholders, data engineers, and data science teams to transform raw data assets into scalable, high-value data products. You will leverage cloud-native AWS services to manage the product lifecycle from discovery to rollout, ensuring high data quality, governance, and business impact.\nResponsibilities:\nProduct Strategy & Roadmap: Define the vision, roadmap, and KPIs for data products (data pipelines, data lakes, analytics dashboards, and AI/ML data features) on AWS.\nStakeholder Alignment & Discovery: Work with business leaders, domain experts, and engineering teams to identify high-impact use cases, translate business requirements into technical epics, and prioritize the backlogs.\nAWS Data Ecosystem Management: Oversee product architecture alignment on AWS data services (e.g., S3, Glue, Redshift, Athena, Bedrock/SageMaker) to support scalable analytics and GenAI workloads.\nData Governance & Quality: Partner with Security and Data Governance teams to enforce data access controls, privacy regulations (LGPD/GDPR/HIPAA), data lineage, and data quality standards.\nExecution & Product Delivery: Lead agile development cycles, defining clear acceptance criteria, managing user stories, and ensuring timely delivery of data solutions.\nAdoption & Value Measurement: Track usage metrics, adoption rates, and ROI of data products to continuously optimize user engagement and business value.\nRequirements:\nExperience with Databricks\nExperience specifically managing data platforms, ETL pipelines, or analytics products.\nAWS Technical Literacy: Solid understanding of the AWS data stack (S3, Redshift, Glue, EMR, Athena, QuickSight, IAM) and cloud-native data architecture patterns (Data Lake, Lakehouse, Data Mesh).\nAgile & Delivery: Strong experience leading cross-functional squads using Scrum/Kanban, backlog management tools (Jira, Linear), and defining clear user stories.\nData Skills: Proficiency in SQL and data visualization tools, with the ability to query data directly to validate product performance and metrics.\nBusiness Acumen: Demonstrated track record of converting complex technical requirements into actionable business outcomes and executive-ready communications.\nNice to Have:\nDatabricks Certified Consultant (Associate/Professional); DBR to EMR on AWS migration experience\nAWS Certified Data Engineer – Associate or AWS Certified Cloud Practitioner\n \nCertified Scrum Product Owner (CSPO) or Pragmatic Institute Certification\n \n \n \n#LI-LO1\n",
+   "descricao": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data & AI, Martech and Business strategy.\nWe are 8,000 CI&Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.\n\n\nWe are looking for a Data Architect with strong AWS expertise to drive the strategy, development, and execution of our enterprise data platforms and analytics products. In this role, you will bridge the gap between business stakeholders, data engineers, and data science teams to transform raw data assets into scalable, high-value data products. You will leverage cloud-native AWS services to manage the product lifecycle from discovery to rollout, ensuring high data quality, governance, and business impact.\nResponsibilities:\nProduct Strategy & Roadmap: Define the vision, roadmap, and KPIs for data products (data pipelines, data lakes, analytics dashboards, and AI/ML data features) on AWS.\nStakeholder Alignment & Discovery: Work with business leaders, domain experts, and engineering teams to identify high-impact use cases, translate business requirements into technical epics, and prioritize the backlogs.\nAWS Data Ecosystem Management: Oversee product architecture alignment on AWS data services (e.g., S3, Glue, Redshift, Athena, Bedrock/SageMaker) to support scalable analytics and GenAI workloads.\nData Governance & Quality: Partner with Security and Data Governance teams to enforce data access controls, privacy regulations (LGPD/GDPR/HIPAA), data lineage, and data quality standards.\nExecution & Product Delivery: Lead agile development cycles, defining clear acceptance criteria, managing user stories, and ensuring timely delivery of data solutions.\nAdoption & Value Measurement: Track usage metrics, adoption rates, and ROI of data products to continuously optimize user engagement and business value.\nRequirements:\nExperience with Databricks\nExperience specifically managing data platforms, ETL pipelines, or analytics products.\nAWS Technical Literacy: Solid understanding of the AWS data stack (S3, Redshift, Glue, EMR, Athena, QuickSight, IAM) and cloud-native data architecture patterns (Data Lake, Lakehouse, Data Mesh).\nAgile & Delivery: Strong experience leading cross-functional squads using Scrum/Kanban, backlog management tools (Jira, Linear), and defining clear user stories.\nData Skills: Proficiency in SQL and data visualization tools, with the ability to query data directly to validate product performance and metrics.\nBusiness Acumen: Demonstrated track record of converting complex technical requirements into actionable business outcomes and executive-ready communications.\nNice to Have:\nDatabricks Certified Consultant (Associate/Professional); DBR to EMR on AWS migration experience\nAWS Certified Data Engineer – Associate or AWS Certified Cloud Practitioner\nCertified Scrum Product Owner (CSPO) or Pragmatic Institute Certification\n \n \n \n#LI-LO1\n",
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1281,7 +1376,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1300,7 +1395,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1319,7 +1414,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1338,7 +1433,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1357,7 +1452,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1376,7 +1471,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1395,7 +1490,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1414,7 +1509,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1433,7 +1528,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1452,7 +1547,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1490,7 +1585,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1509,7 +1604,7 @@
    "nivel": "trainee",
    "motivo_nivel": "título/contrato de trainee ou aprendiz",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1528,7 +1623,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1547,7 +1642,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1566,7 +1661,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1585,7 +1680,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1604,7 +1699,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1623,7 +1718,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1642,7 +1737,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1661,7 +1756,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1680,7 +1775,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1699,7 +1794,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1718,7 +1813,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1737,7 +1832,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1756,7 +1851,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1795,7 +1890,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-08T16:40:08+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12747122",
@@ -1813,7 +1908,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {
@@ -1832,7 +1927,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-08T16:40:08+00:00",
+   "ultima_vez": "2026-11-09T20:43:38+00:00",
    "ativa": true
   },
   {

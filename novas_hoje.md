@@ -1,7 +1,5 @@
-# 5 vagas novas — 2026-11-09
+# 3 vagas novas — 2026-11-10
 
-- **Atendimento ao Cliente para Coleta de Dados - Araguaia Shopping/GO (100h)** · Montreal | Tecnologia e Inovação · Goiânia, Goiás · `nao_informado` — [abrir](https://montreal.gupy.io/job/eyJqb2JJZCI6MTI4NTkyNjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **ANALISTA DE INFRAESTRUTURA JR (BANCO DE DADOS)** · Globalweb · São Paulo, São Paulo · `junior` — [abrir](https://sejaglobalweb.gupy.io/job/eyJqb2JJZCI6MTI3MjUzNzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **BEMOL DIGITAL | DATA ENGINEER I** · Bemol Digital · Remoto · `junior` — [abrir](https://bemoldigital.gupy.io/job/eyJqb2JJZCI6MTI4MzcxOTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **BI - Jovem Aprendiz** · Brasal · Goiânia, Goiás · `trainee` — [abrir](https://brasal.gupy.io/job/eyJqb2JJZCI6MTI3OTYxNzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **BI - AUXILIAR ADMINISTRATIVO (TEMPORARIO)** · Brasal · Goiânia, Goiás · `nao_informado` — [abrir](https://brasal.gupy.io/job/eyJqb2JJZCI6MTI4NTk0MDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Analista de Inteligência Competitiva | Foco em dados e Projetos | RODOIL** · RodOil Distribuidora de Combustíveis S.A. · Caxias do Sul, Rio Grande do Sul · `nao_informado` — [abrir](https://rodoil.gupy.io/job/eyJqb2JJZCI6MTI4NjQ2NjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Especialista de Dados I | Santa Rita - PB** · Alpargatas · Santa Rita, Paraíba · `junior` — [abrir](https://alpargatas.gupy.io/job/eyJqb2JJZCI6MTI1OTk0NDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Consultor(a) SAP Analytics Cloud BI/Planning - Júnior/Pleno** · SolvePlan · Remoto · `junior` — [abrir](https://solveplan.gupy.io/job/eyJqb2JJZCI6MTI4NjM0MDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)

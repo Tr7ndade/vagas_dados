@@ -1,35 +1,244 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-10T17:49:44+00:00",
+  "atualizado_em": "2026-11-11T17:53:31+00:00",
   "fontes": {
    "gupy": {
     "ok": true,
-    "brutas": 713,
+    "brutas": 702,
     "erros": 0
    },
    "greenhouse": {
     "ok": true,
-    "brutas": 1035,
+    "brutas": 1042,
     "empresas_com_erro": []
    },
    "lever": {
     "ok": true,
-    "brutas": 168,
+    "brutas": 159,
     "empresas_com_erro": []
    }
   },
-  "brutas": 1916,
-  "aceitas_hoje": 85,
-  "novas_hoje": 3,
+  "brutas": 1903,
+  "aceitas_hoje": 80,
+  "novas_hoje": 11,
   "descartes": {
-   "nível acima de júnior": 137,
-   "não é de dados": 1138,
+   "nível acima de júnior": 132,
    "nível estagio desativado": 12,
-   "antiga": 541,
+   "não é de dados": 1138,
+   "antiga": 538,
    "local/modalidade": 3
   }
  },
  "vagas": [
+  {
+   "id": "gupy:12825012",
+   "fonte": "Gupy",
+   "titulo": "Analista de Dados - TI",
+   "empresa": "Aeris Energy",
+   "local": "Caucaia, Ceará",
+   "uf": "CE",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-11",
+   "link": "https://aeris.gupy.io/job/eyJqb2JJZCI6MTI4MjUwMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Analista de Dados para atuar na coleta, tratamento, análise, modelagem e\ndisponibilização de informações estratégicas para suporte à tomada de decisão\nda organização.\nEste profissional será responsável por transformar\ndados em insights acionáveis, desenvolver indicadores de desempenho, dashboards\ngerenciais e análises preditivas, contribuindo para a melhoria contínua dos\nprocessos, aumento da eficiência operacional e geração de valor para o negócio.\nAtuará em parceria com as áreas corporativas e\noperacionais, compreendendo necessidades, estruturando bases de dados,\nautomatizando processos analíticos e promovendo uma cultura orientada a dados\n(Data Driven). Espera-se forte capacidade analítica, visão de negócio e domínio\ntécnico em manipulação, modelagem e visualização de dados.\nResponsabilidades e atribuiçõesColetar,\nconsolidar, tratar e validar dados provenientes de diferentes fontes.Desenvolver e\nmanter dashboards, relatórios gerenciais e indicadores de desempenho.Realizar análises\nexploratórias e identificar tendências, padrões e oportunidades de melhoria.Traduzir\nnecessidades do negócio em indicadores e soluções analíticas.Desenvolver\nconsultas e rotinas de extração de dados em bancos relacionais.Automatizar\nprocessos de coleta, tratamento e disponibilização de informações.Modelar dados\npara análises operacionais, gerenciais e estratégicas.Monitorar a\nqualidade e consistência dos dados utilizados nas análises.Trabalhar em\nconjunto com áreas de negócio para identificação de oportunidades baseadas em\ndados.Contribuir para\niniciativas de Business Intelligence, Analytics e Transformação Digital.Participar de\nprojetos de integração de dados e evolução da arquitetura analítica da empresa.Apoiar\niniciativas de Inteligência Artificial, Machine Learning e Analytics avançado\nquando aplicável.\nRequisitos e qualificaçõesFormação Acadêmica: Ensino Superior\ncompleto em: Ciência de Dados; Ciência da\nComputação; Sistemas de\nInformação; Engenharia da\nComputação; Engenharia de\nSoftware; Áreas correlatas.Experiência\nmínima de 2 a 4 anos em funções relacionadas à análise de dados, BI ou\nAnalytics.Vivência com\nconstrução de dashboards e indicadores gerenciais.Experiência em\nmanipulação e tratamento de grandes volumes de dados, bancos de dados relacionais, construção de relatórios executivos e operacionais.Participação em\nprojetos de Data Analytics, Data Warehouse ou Data Lake.Experiência com\nMachine Learning e Inteligência Artificial.SQL avançado.Power BI\navançado.Modelagem de\ndados para BI.Python para\nanálise de dados.Bibliotecas de\nmanipulação de dados (Pandas, NumPy).ETL e ELT.Data Warehouse.Data Lake.Integração de\ndados.Microsoft Fabric.Azure Data\nFactory.Machine Learning.Modelos\npreditivos.Processamento de\ndados utilizando IA.\nInformações adicionaisO que oferecemos a você:Assistência Médica;Assistência Odontológica;Vale Alimentação;Refeição - Restaurante Próprio ou Vale Refeição (Dependendo da Unidade);Seguro de Vida;Transporte (Rota Própria);TotalPass;Subsídio Escolar;Participação nos resultados (PLR);Licença Maternidade estendida;Licença Paternidade estendida;Centro Médico Próprio (Atendimento Clínico, Fisioterapêutico, Nutricional, Odontológico e exames Laboratoriais);Universidade Aeris (Diversos treinamentos gratuitos on-line e com emissão de certificado);Kit Natalino.Programas e Parcerias:Programa de reconhecimento de ideias de melhoria - VISA;Participar de Projetos Sociais contribuindo genuinamente com as pessoas;Parceria com AECIPP;Parceria com instituições de ensino que gera descontos diferenciados.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12794215",
+   "fonte": "Gupy",
+   "titulo": "ADMINISTRADOR DE DADOS",
+   "empresa": "Certsys",
+   "local": "Remoto",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-11",
+   "link": "https://certsys.gupy.io/job/eyJqb2JJZCI6MTI3OTQyMTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "SOBRE NÓSDesde 2007 trabalhando com inovação, a Certsys se consolidou como uma forte parceira de Transformação Digital, apoiando empresas disruptivas por meio de soluções digitais completas e escaláveis alinhadas às principais tendências e necessidades do mercado. Temos uma cultura poderosa, conectados de ponta a ponta, colaborativos, ágeis e flexíveis para encarar o novo, transparentes em nossas ações e unidos por um grande propósito: Revolucionar negócios e impactar pessoas, resolvendo desafios complexos através da nossa cultura e tecnologia. Além disso, somos certificados pela GPTW pelo segundo ano consecutivo, sendo uma das melhores empresas para se trabalhar no Brasil.A Certsys é uma empresa especializada em Transformação Digital que, desde 2007, apoia organizações por meio de soluções tecnológicas inovadoras e escaláveis. Com uma cultura colaborativa, ágil e transparente, tem como propósito revolucionar negócios e impactar pessoas por meio da tecnologia. Além disso, é reconhecida como uma das melhores empresas para se trabalhar no Brasil, sendo certificada pelo GPTW por dois anos consecutivos.\nResponsabilidades e atribuiçõesMISSÃO DO CARGO:Garantir a estruturação e manutenção dos modelos de dados da organização, transformando necessidades de negócio em soluções aderentes às regras corporativas, padrões de qualidade, governança e segurança da informação, assegurando a consistência e a confiabilidade dos dados para suportar as aplicações e a tomada de decisão.\nPRINCIPAIS RESPONSABILIDADES:Investigar e identificar, junto aos usuários e áreas de negócio, as regras de negócio e as necessidades de informação associadas;\nElaborar e manter modelos de dados conceituais e lógicos, relacionais ou multidimensionais, representando adequadamente as necessidades do negócio;\nUtilizar o SAP PowerDesigner para criação, documentação, manutenção e evolução dos modelos de dados;\nAplicar os padrões corporativos de qualidade de dados, incluindo normalização, padronização e definição de metadados;\nGarantir a consistência dos modelos de dados e sua aderência às regras de negócio;\nSeguir as diretrizes de governança de dados e de segurança da informação para identificação e proteção de dados sensíveis;\nAplicar as normas, padrões e boas práticas estabelecidas para modelagem de dados;\nSeguir o processo corporativo definido para atendimento das demandas de modelagem, revisão e validação dos modelos de dados;\nInteragir com usuários, analistas, desenvolvedores e DBAs para esclarecer regras de negócio e garantir que os modelos representem corretamente as necessidades das aplicações.\nRequisitos e qualificaçõesVOCÊ PRECISA TER:Modelagem de dados conceitual e lógica, relacional e multidimensional;\nConhecimento de técnicas de normalização de dados e definição/manutenção de metadados;\nConhecimento de regras e boas práticas de modelagem de dados;\nConhecimento em levantamento e análise de regras de negócio e necessidades de informação junto às áreas usuárias;\nConhecimento em governança de dados, qualidade de dados e proteção de dados sensíveis;\nConhecimento em PowerDesigner e de ferramentas CASE para modelagem de dados;\nConhecimento em linguagem SQL e bancos de dados relacionais e NoSQL;\nConhecimento dos processos de validação e revisão de modelos de dados.\nVOCÊ SE DESTACA SE TIVER:Conhecimento em práticas ágeis: Manifesto Ágil; Scrum; XP; Kanban\nFORMAÇÃO ACADÊMICA:Graduação na área de TI ou graduação em qualquer área acompanhada de pós-graduação em TI.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12794387",
+   "fonte": "Gupy",
+   "titulo": "ADMINISTRADOR DE DADOS",
+   "empresa": "Certsys",
+   "local": "Remoto",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-11",
+   "link": "https://certsys.gupy.io/job/eyJqb2JJZCI6MTI3OTQzODcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "SOBRE NÓSDesde 2007 trabalhando com inovação, a Certsys se consolidou como uma forte parceira de Transformação Digital, apoiando empresas disruptivas por meio de soluções digitais completas e escaláveis alinhadas às principais tendências e necessidades do mercado. Temos uma cultura poderosa, conectados de ponta a ponta, colaborativos, ágeis e flexíveis para encarar o novo, transparentes em nossas ações e unidos por um grande propósito: Revolucionar negócios e impactar pessoas, resolvendo desafios complexos através da nossa cultura e tecnologia. Além disso, somos certificados pela GPTW pelo segundo ano consecutivo, sendo uma das melhores empresas para se trabalhar no Brasil.A Certsys é uma empresa especializada em Transformação Digital que, desde 2007, apoia organizações por meio de soluções tecnológicas inovadoras e escaláveis. Com uma cultura colaborativa, ágil e transparente, tem como propósito revolucionar negócios e impactar pessoas por meio da tecnologia. Além disso, é reconhecida como uma das melhores empresas para se trabalhar no Brasil, sendo certificada pelo GPTW por dois anos consecutivos.\nResponsabilidades e atribuiçõesMISSÃO DO CARGO:Garantir a estruturação e manutenção dos modelos de dados da organização, transformando necessidades de negócio em soluções aderentes às regras corporativas, padrões de qualidade, governança e segurança da informação, assegurando a consistência e a confiabilidade dos dados para suportar as aplicações e a tomada de decisão.\nPRINCIPAIS RESPONSABILIDADES:Investigar e identificar, junto aos usuários e áreas de negócio, as regras de negócio e as necessidades de informação associadas;\nElaborar e manter modelos de dados conceituais e lógicos, relacionais ou multidimensionais, representando adequadamente as necessidades do negócio;\nUtilizar o SAP PowerDesigner para criação, documentação, manutenção e evolução dos modelos de dados;\nAplicar os padrões corporativos de qualidade de dados, incluindo normalização, padronização e definição de metadados;\nGarantir a consistência dos modelos de dados e sua aderência às regras de negócio;\nSeguir as diretrizes de governança de dados e de segurança da informação para identificação e proteção de dados sensíveis;\nAplicar as normas, padrões e boas práticas estabelecidas para modelagem de dados;\nSeguir o processo corporativo definido para atendimento das demandas de modelagem, revisão e validação dos modelos de dados;\nInteragir com usuários, analistas, desenvolvedores e DBAs para esclarecer regras de negócio e garantir que os modelos representem corretamente as necessidades das aplicações.\nRequisitos e qualificaçõesVOCÊ PRECISA TER:Modelagem de dados conceitual e lógica, relacional e multidimensional;\nConhecimento de técnicas de normalização de dados e definição/manutenção de metadados;\nConhecimento de regras e boas práticas de modelagem de dados;\nConhecimento em levantamento e análise de regras de negócio e necessidades de informação junto às áreas usuárias;\nConhecimento em governança de dados, qualidade de dados e proteção de dados sensíveis;\nConhecimento em PowerDesigner e de ferramentas CASE para modelagem de dados;\nConhecimento em linguagem SQL e bancos de dados relacionais e NoSQL;\nConhecimento dos processos de validação e revisão de modelos de dados.\nVOCÊ SE DESTACA SE TIVER:Conhecimento em práticas ágeis: Manifesto Ágil; Scrum; XP; Kanban\nFORMAÇÃO ACADÊMICA:Graduação na área de TI ou graduação em qualquer área acompanhada de pós-graduação em TI.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12816745",
+   "fonte": "Gupy",
+   "titulo": "Analista de Dados I - Recuperação de Crédito",
+   "empresa": "Viacredi",
+   "local": "Blumenau, Santa Catarina",
+   "uf": "SC",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-11",
+   "link": "https://viacredi.gupy.io/job/eyJqb2JJZCI6MTI4MTY3NDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Na Viacredi, todos crescem e se fortalecem juntos. Somos uma cooperativa feita de pessoas para pessoas — com proximidade, confiança e compromisso. Aqui, você tem a oportunidade de transformar vidas e construir sua carreira com propósito. Temos orgulho de conquistar posições de destaque entre as melhores empresas para trabalhar pelo Great Place to Work (GPTW) 2025: 🥇1ª melhor empresa para se trabalhar em SC - categoria grandes empresas. 🥇 1ª melhor instituição financeira para se trabalhar no Brasil - categoria cooperativas de crédito. 🏆 4ª melhor empresa para se trabalhar no Brasil – categoria grandes empresas. 🌟 Certificada com o selo de saúde mental pela Great People Mental Health Valorizamos um ambiente inclusivo e respeitoso. Todas as vagas estão abertas para talentos diversos — pessoas com deficiência, pessoas negras, LGBTQIAPN+, 45+e outros. Importante: toda a comunicação do processo seletivo é feita por e-mail por meio da plataforma Gupy — desde o retorno da triagem até convites para entrevistas e etapas seguintes. Mensagens por WhatsApp são enviadas após a triagem inicial, caso você avance e converse com o recrutador, mas a comunicação principal continua sendo por e-mail. Fique de olho na sua caixa de entrada e no spam!\nResponsabilidades e atribuições\nSuas principais responsabilidades serão:\nCompreender o contexto da carteira de crédito, realizando análises que apoiem a definição de estratégias de recuperação e contribuam para os resultados da cooperativa.\nIdentificar padrões de comportamento, tendências de inadimplência, riscos e oportunidades por meio da análise de dados, métodos estatísticos e técnicas analíticas aplicadas à recuperação de crédito.\nDesenvolver e propor estratégias de cobrança e recuperação, transformando dados em insights acionáveis que apoiem a tomada de decisão e a maximização dos resultados.\nRealizar a segmentação da carteira de atraso, definindo ações específicas conforme perfil do cooperado, faixa de atraso, produto e potencial de recuperação.\nMensurar, monitorar e avaliar a efetividade das estratégias implementadas, acompanhando resultados e propondo ajustes contínuos para ganho de performance.\nDesenvolver e acompanhar indicadores de performance (KPIs), painéis gerenciais e relatórios executivos que proporcionem visibilidade dos resultados e apoiem a gestão da área.\nApoiar a definição e evolução das políticas de negociação e recuperação, contribuindo com análises sobre condições de pagamento, prazos, descontos e demais estratégias de regularização.\nIdentificar oportunidades de melhoria em processos, ferramentas e modelos analíticos, promovendo maior eficiência e assertividade nas ações de recuperação.\nParticipar do desenvolvimento e evolução de soluções analíticas, automações, dashboards e sistemas de apoio à decisão, contribuindo para a transformação digital da área.\nGarantir a qualidade, integridade e consistência dos dados utilizados nas análises, assegurando a confiabilidade das informações e recomendações geradas.\nAplicar boas práticas de mercado, inovação e melhoria contínua, contribuindo para a evolução dos processos e para o alcance dos objetivos estratégicos da cooperativa.\nRequisitos e qualificações\nO que esperamos de você:\nEnsino superior completo ou em andamento em áreas relacionadas à Tecnologia da Informação, Estatística, Análise e Desenvolvimento de Sistemas, Ciência da Computação, Engenharia de Dados, Ciência de Dados ou áreas correlatas.\nConhecimento avançado em Excel, com capacidade para tratamento, análise e consolidação de grandes volumes de dados.\nDomínio de Power BI, incluindo modelagem de dados, desenvolvimento de dashboards, criação de métricas em DAX, utilização da Linguagem M e implementação de atualizações automáticas e eficientes.\nConhecimento em SQL para extração, manipulação e análise de dados provenientes de diferentes fontes.\nCapacidade analítica para identificar padrões, tendências e oportunidades de negócio, transformando dados em informações relevantes para a tomada de decisão.\nHabilidade para construir indicadores, relatórios e visualizações que apoiem o acompanhamento de resultados e a geração de insights estratégicos.\nPerfil orientado à solução de problemas, com atenção à qualidade, consistência e confiabilidade das informações analisadas.\nInteresse por inovação, automação e melhoria contínua de processos relacionados à gestão e análise de dados.\nInformações adicionaisBenefícios:😊 Vale Alimentação/Refeição de R$ 2.100,00 - Para você desfrutar de uma refeição deliciosa todos os dias.🎂 Day OFF no Aniversário - Para você aproveitar essa data especial do seu jeito.📉 PPR semestral 2x ao ano - Construímos e alcançamos juntos.🎁 13º do Vale Alimentação/Refeição de R$ 300,00 - um benefício pensado para tornar seu fim de ano ainda mais completo.😍 Plano de Saúde - Cuidar da saúde é fundamental.😃 Plano odontológico - Pois a vida é feita de sorrisos.🚌 Vale Transporte – Para o seu deslocamento com segurança.🤝 Seguro de Vida – É bom prevenir, né?❤️ Pre",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12870601",
+   "fonte": "Gupy",
+   "titulo": "Analista de Inteligência Competitiva | Foco em dados e Projetos | RODOIL",
+   "empresa": "RodOil Distribuidora de Combustíveis S.A.",
+   "local": "Caxias do Sul, Rio Grande do Sul",
+   "uf": "RS",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-11",
+   "link": "https://rodoil.gupy.io/job/eyJqb2JJZCI6MTI4NzA2MDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Estamos em busca de um(a) Analista de Inteligência de Mercado para atuar na Célula de Inteligência Competitiva (CIC). Este(a) profissional será responsável por transformar dados em informações estratégicas, apoiando a definição de preços, o monitoramento do mercado e a análise de tendências que contribuam para a tomada de decisões do negócio.Buscamos alguém com perfil analítico, colaborativo, que goste de trabalhar com dados e tenha facilidade em se comunicar com diferentes áreas da empresa. Responsabilidades e atribuiçõesManter, atualizar e disponibilizar dados e indicadores por meio de dashboards e painéis gerenciais.Consolidar e analisar informações provenientes de diferentes fontes internas e externas, transformando dados em insights para apoiar decisões estratégicas.Estruturar variáveis e indicadores para composição dos painéis da Inteligência Competitiva.Realizar análises de preços, custos e movimentos de mercado, elaborando cotações diárias e semanais para suporte à equipe comercial.Monitorar concorrentes, tendências de mercado e movimentações dos principais players do segmento.Desenvolver estudos de precificação, margem de contribuição, rentabilidade e comportamento do mercado spot.Analisar a carteira comercial, identificando oportunidades de segmentação, crescimento e melhoria de resultados.Elaborar relatórios gerenciais, estudos e apresentações para apoiar a tomada de decisão.Atuar em parceria com as áreas Comercial e demais setores da empresa, fornecendo suporte analítico para negociações e estratégias de mercado.Propor melhorias em processos, indicadores e ferramentas de análise de dados.Requisitos e qualificaçõesEnsino superior completo em Administração, Economia, Engenharia, Estatística ou áreas correlatas;Experiência prévia em análise de dados, inteligência de mercado, business intelligence (BI) ou áreas relacionadas;Domínio do Excel e conhecimento em ferramentas de visualização de dados, como Power BI ou Tableau;Capacidade de interpretar, correlacionar e transformar dados estratégicos em insights relevantes para o negócio;Boa comunicação, perfil analítico, pro atividade e organização.Para candidatos(as) internos(as): Estar há, no mínimo, 6 meses na RodOil Comunicar a liderança direta sobre a candidaturaInformações adicionaisBenefícios que fazem a diferença!🏥 Assistência Médica e Hospitalar - Plano de saúde com ampla cobertura, com 50% da mensalidade subsidiada pela empresa.🦷 Convênio Odontológico - Plano odontológico com cobertura nacional e opção de inclusão de dependentes.🍴 Vale Refeição - Crédito mensal proporcional aos dias úteis trabalhados, com desconto simbólico de apenas 10% em folha.🛒 Vale Alimentação - Crédito mensal para compra de alimentos, mantido inclusive durante férias e licenças.🚗 Vale Mobilidade - Crédito mensal para transporte e/ou deslocamento, podendo ser utilizado com combustível, aplicativos de mobilidade ou passagens.💙 Seguro de Vida - Seguro com coberturas amplas (morte, invalidez, acidentes e auxílio funeral), 100% custeado pela RodOil.👶 Licenças Parentais Estendidas - 180 dias de licença-maternidade e 20 dias de licença-paternidade, conforme a Lei nº 11.770.🎭 Parceria SESC - Descontos em cultura, esporte, lazer, turismo e serviços odontológicos, extensivos aos dependentes.👶 Auxílio Creche - Reembolso de despesas com creche ou cuidador infantil, mediante solicitação ao RH.👨‍👩‍👧 Salário-Família - Benefício legal concedido conforme faixa salarial e documentação vigente.🌹 Auxílio Funeral - Benefício concedido em caso de falecimento do colaborador ou de seus dependentes legais.⏳ Adicional por Tempo de Serviço - Reconhecimento pela dedicação e permanência na empresa, conforme critérios da convenção coletiva.🎓 Universidade Corporativa - Plataforma de aprendizagem online com cursos, trilhas de desenvolvimento e conteúdos atualizados, 100% custeada pela RodOil, apoiando o crescimento profissional e o aprendizado contínuo.🚑 Convênio Resgate Sul - Assistência emergencial com mensalidade 100% custeada pela empresa para o colaborador.☕ Cozinha Equipada - Espaços com geladeiras e micro-ondas, proporcionando mais conforto nas refeições.🍽️ Convênios e Parcerias - Convênios com restaurantes, além de instituições de ensino e academias e muito mais.🏪 Loja de Conveniência na Sede (TriShop) - Mais praticidade para o dia a dia, com acesso facilitado a produtos essenciais.🧉 Chimarrão - Erva-mate e máquina de água quente à disposição dos colaboradores.☕ Máquina de Café Nestlé - Mais de 10 opções de bebidas, disponíveis a custo simbólico para o colaborador.Todas as nossas vagas também estão abertas para colaboradores(as) da RodOil. Se você já faz parte do nosso time e se identifica com essa oportunidade, candidate-se até o dia 20/11/2026.Valorizamos o protagonismo interno e incentivamos o desenvolvimento das nossas pessoas. Gente é a nossa energia!",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12714053",
+   "fonte": "Gupy",
+   "titulo": "Analista de TI JR. - Com foco em Dados e Plataformas Digitais",
+   "empresa": "Tupy",
+   "local": "Joinville, Santa Catarina",
+   "uf": "SC",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-11",
+   "link": "https://tupy.gupy.io/job/eyJqb2JJZCI6MTI3MTQwNTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "A Tupy é uma multinacional brasileira com mais de 80 anos de história, presente em mais de 40 países e reconhecida pela tecnologia de ponta aplicada à produção de componentes estruturais em ferro fundido para setores como transporte, infraestrutura, agronegócio e energia. Com operações no Brasil, México e Portugal, a Tupy transforma engenharia, inovação e sustentabilidade em soluções que fazem diferença na vida de milhões de pessoas, levando mobilidade, saneamento, saúde e qualidade de vida para o mundo todo. E tem mais: A MWM, parte do grupo Tupy, é uma empresa que une tradição e inovação na fabricação de motores, geradores de energia, torres de iluminação e sistemas de bombeamento. Com mais de sete décadas de atuação no Brasil e presença em mais de 45 países, ela se destaca por oferecer soluções modernas voltadas à descarbonização no campo e na cidade. A empresa também conta com um amplo portfólio de peças de reposição e é referência em contratos de manufatura. Além disso, possui uma robusta rede de distribuição com mais de 1.300 pontos espalhados pelo Brasil e pelo mundo. 🚀 Se você quer trabalhar em um ambiente colaborativo, inovador, repleto de desafios e oportunidades, o seu próximo passo pode ser aqui com a gente.Venha fazer parte da Tupy!Sua trajetória será construída no coração da inovação, veja nosso endereço: 📍Rua Albano Schmidt - Boa Vista - Joinville.Responsabilidades e atribuiçõesA área de Escritório Digital é responsável por desenvolver e sustentar soluções de dados, analytics, automação e inteligência artificial, promovendo a transformação digital e a geração de valor para o negócio.Buscamos um profissional para atuar no desenvolvimento, sustentação e monitoramento de soluções de Dados e processos digitais, contribuindo para a transformação de dados em informações estratégicas que apoiem a tomada de decisão e a melhoria dos processos de negócio.Responsabilidades e atribuições:\n Apoiar a sustentação das soluções de dados,\n analytics, automação e plataformas digitais utilizadas pela organização.\n Realizar atendimento e suporte aos usuários das\n soluções desenvolvidas pelo Escritório Digital.\n Monitorar a execução de dashboards, integrações,\n automações e demais soluções digitais.\n Apoiar a identificação, análise e resolução de\n incidentes relacionados às plataformas digitais.\n Executar testes e validações em novas\n funcionalidades, aplicações e automações.\n Auxiliar na manutenção e atualização de dashboards,\n relatórios e aplicações corporativas.\n Apoiar a documentação de processos, fluxos e\n soluções desenvolvidas.\n Trabalhar em conjunto com as equipes de Dados,\n Analytics, Automação e Inteligência Artificial na implementação e\n sustentação das soluções.\n Contribuir com sugestões de melhoria e otimização\n dos processos digitais.Requisitos e qualificaçõesFormação superior em andamento ou completa, desejável em Ciência de Dados, Sistemas de Informação, Ciência da Computação, Engenharia, Estatística, Administração ou áreas correlatas.Interesse em dados, analytics, automação e\n transformação digital.Conhecimento básico em ferramentas de análise de dados ou Business Intelligence (QlikSense, PowerBI, Tableau).Conhecimento em básico em SQL.Diferenciais:\n Conhecimento em Qlik Sense ou Power BI.\n Conhecimento em Power Apps, Power Automate ou Power\n Platform.\n Conhecimento em SharePoint Online e Microsoft 365.\n Conhecimento básico em SAP.\n Conhecimento em SQL e bancos de dados relacionais.\n Conhecimento em Python ou linguagens de automação.\n Experiência acadêmica ou profissional em projetos\n de dados, analytics ou automação.\n Experiência em ambientes industriais.Conhecimento em modelagem de dados relacional e dimensional.\nInformações adicionaisTemos benefícios para cuidar do seu bem estar e do seu futuro:💰 Remuneração e Incentivos:💰 Remuneração Variável (PRT)🏆 Presença Premiada💳 Cartão Multibenefícios Tupy: Utilização nos estabelecimentos conveniados com a empresa.📈 Planejamento Financeiro e Bem-estar:📈 Previdência Privada🛡️ Seguro de Vida em Grupo🏥 Assistência Médica😁 Assistência Odontológica🍽️ Restaurante na Empresa🎓 Educação e Desenvolvimento:🎓 Parceria SESI/SENAI🏋️‍♂️⚽ Lazer e Qualidade de Vida🏋️‍♂️⚽ Associação Atlética Tupy – Incentivo ao Esporte e Lazer (Academia, Lutas, Quadras esportivas e eventos; Restaurantes e lanchonetes; Espaços de lazer para funcionários e família; Consumo autorizado por uso do convênio (crachá).💙 Queremos que todas as pessoas se sintam em um ambiente colaborativo e estamos trabalhando para tornar a nossa empresa um ambiente favorável a todos, pois valorizamos a força que a diversidade traz à nossa equipe e estamos comprometidos com a inclusão em todos os aspectos.A TUPY não cobra nenhum valor em nenhuma etapa do processo seletivo. Em caso de dúvidas ou informações adicionais, consulte sempre nossos canais oficiais.",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12868715",
+   "fonte": "Gupy",
+   "titulo": "Analista de TI – Dados",
+   "empresa": "ESAB",
+   "local": "Contagem, Minas Gerais",
+   "uf": "MG",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-10",
+   "link": "https://esab.gupy.io/job/eyJqb2JJZCI6MTI4Njg3MTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Aqui, cada talento é valorizado. Você terá a oportunidade de aprender, crescer e enfrentar desafios, contribuindo com projetos que transformam a indústria.Buscamos pessoas proativas, colaborativas e com vontade de se desenvolver. Se você quer ser protagonista da sua carreira em um ambiente dinâmico e reconhecedor, aqui é o seu lugar.#VemPraESAB 💛Responsabilidades e atribuiçõesCriar, atualizar e manter dados mestres de serviços, fornecedores, clientes, produtos e materiais de reposição operacional no ERP SAP.Identificar e tratar não conformidades relacionadas aos dados e processos, realizando análises de causa-raiz, correções e desenvolvendo soluções para melhoria contínua.Atuar como usuário-chave na gestão dos processos integrados de criação e manutenção de dados mestres de produtos manufaturados.Preparar, analisar, validar e migrar dados necessários à implantação do sistema ERP SAP em nível regional (SAM).Estruturar e aprimorar o processo de gerenciamento de demandas, incluindo implementação, configuração e administração de sistemas de tickets.Requisitos e qualificações\nFormação superior em Ciência de Dados, Ciência da Computação, Engenharia, Sistemas de Informação ou áreas correlatas.Experiência sólida e comprovada na gestão de domínios de dados mestres, envolvendo clientes, fornecedores, materiais ou produtos.Conhecimentos sólidos em Governança, Qualidade de Dados e SQL.Requisitos Desejáveis:Experiência com gestão de dados mestres (MDM) em sistemas ERP, como SAP ECC/S4, SAP Business One, Protheus ou TOTVS.Vivência em ambientes auditados por SOX.Conhecimento em ferramentas de gestão de dados, preferencialmente SAP MDG.Participação em projetos de implementação de ERP, transformação digital e automação de processos.Inglês e espanhol em nível intermediário, com capacidade de leitura, interpretação e compreensão de documentos técnicos e conteúdos profissionais.Informações adicionais✨ Nossos benefícios:🎯 PLR🍽️ Restaurante interno ou vale-refeição (de acordo com a unidade)🏥 Plano de saúde e odontológico📱 Telemedicina 24h🏋️ Wellhub (Gympass)💊 Subsídio para medicamentos🚌 Vale-transporte🛡️ Seguro de vida e auxílio-funeral👶 Auxílio-creche para mães💼 Previdência privada🤝 Clube de benefícios e descontos SESI🔥 Desconto exclusivo em produtos ESAB",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12857155",
+   "fonte": "Gupy",
+   "titulo": "ANALISTA DADOS",
+   "empresa": "Bernoulli Educação",
+   "local": "Belo Horizonte, Minas Gerais",
+   "uf": "MG",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-10",
+   "link": "https://bernoullieducacao.gupy.io/job/eyJqb2JJZCI6MTI4NTcxNTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Se o olho brilha, vem ser Bernoulli Somos feitos de pessoas que acreditam no poder transformador da educação. Gente criativa, determinada e que gosta de aprender. Profissionais que enxergam os desafios como oportunidades para inovar, gerar ideias, soluções e impulsionar o conhecimento. Tudo isso em um ambiente onde as diferenças se encontram, dialogam e trabalham em equipe. Um ambiente acolhedor, plural e dinâmico, onde as pessoas são motivadas a se desenvolver para evoluir, prosperar e alcançar seus objetivos. Se seu olho brilha para novos desafios e você quer fazer parte de uma cultura em transformação, em uma empresa que não para de crescer, venha ser Bernoulli! Venha revolucionar a educação junto com a gente!Responsabilidades e atribuições\nOrganizar bases de dados de avaliações internas e externas;Integrar informações de diferentes fontes para possibilitar consolidações e comparações;Realizar estudos comparativos sobre o desempenho das escolas parceiras;Elaborar e automatizar relatórios para apoiar as devolutivas da área de Relacionamento com o Mercado (RM);Criar relatórios claros e confiáveis sobre o engajamento e o desempenho das escolas;Desenvolver painéis de acompanhamento de resultados, engajamento e uso das soluções avaliativas;Identificar informações relevantes e tendências que apoiem analistas, consultores e coordenação;Contribuir para o estudo e o aprimoramento de metodologias, incluindo a Teoria de Resposta ao Item (TRI);Propor melhorias em processos, ferramentas e estratégias para qualificar as análises e as devolutivas;Facilidade para transformar dados em resultados claros e úteis;Interesse em avaliações, indicadores e melhoria de processos;Disposição para trabalhar em parceria com diferentes áreas.\nRequisitos e qualificaçõesEnsino superior completo ou em andamento em Estatística, Matemática, Ciência de Dados, Administração, Economia, Sistemas de Informação ou áreas correlatas;Conhecimento em organização, tratamento e análise de dados;Domínio de planilhas eletrônicas, incluindo fórmulas, tabelas dinâmicas e recursos de análise;Experiência ou familiaridade com criação de relatórios e painéis de acompanhamento;Capacidade de integrar informações de diferentes fontes e verificar a consistência dos dados;Conhecimento em payton e IA.\nInformações adicionais🩺 Plano de saúde🦷 Plano odontológico💙 Seguro de vida🍴 Vale-alimentação e refeição no mesmo cartão☕️ Café da manhã ou lanche da tarde nas unidades físicas🚍 Vale-transporte🏋️‍♂️ Total Pass e Wellhub (acesso a academias e serviços de bem-estar)🎂 Day off no aniversário📖 Universidade Corporativa🤰🏽 Programa de acompanhamento a pessoas gestantes☎️ Programa de orientação psicológica, jurídica, financeira e social👰 Presente de casamento🍴 Duo Gourmet🛍️ Clube de Vantagens Bernoulli: acesso a uma rede de parcerias com descontos em cursos de graduação e pós-graduação, conta de energia, idiomas e muito mais para você e sua família🍼🏡 Mães em regime híbrido têm 100% home office do 6º mês de gravidez até 1 ano da criança👨‍👶🏡 Pais em regime híbrido têm 100% home office do nascimento até 6 meses da criançaProteção de dados muda tudoDurante o processo de seleção de candidatos para o preenchimento das nossas posições de trabalho, utilizaremos seus dados pessoais cadastrados na plataforma Gupy.Todas essas informações coletadas serão tratadas de acordo com rigorosos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, entre elas a Lei Geral de Proteção de Dados Pessoais (LGPD) nº 13.709/18, bem como os termos de nossa política de privacidade, disponível no endereço:https://www.bernoulli.com.br/bernoulli-educacao/info/pol%C3%ADtica-de-privacidade/Caso não seja admitido na vaga para a qual se candidatou, seus dados pessoais permanecem em nossos bancos de dados, seguindo os mesmos parâmetros acima destacados, a fim de que possam ser considerados no caso de oportunidades futuras.Se desejar seguir em nosso processo de seleção, você declara estar ciente e de acordo para realização de sua candidatura nessas condições.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12777360",
+   "fonte": "Gupy",
+   "titulo": "CAS | Analista de Dados, Automação e Inteligência Artificial (IA) | Risco de Crédito",
+   "empresa": "Sicredi",
+   "local": "Porto Alegre, Rio Grande do Sul",
+   "uf": "RS",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-10",
+   "link": "https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI3NzczNjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Estamos buscando uma\npessoa para transformar a forma como utilizamos dados, automação e inteligência\nartificial na gestão de risco de crédito do Sicredi.\nVocê fará parte de um\ntime que está evoluindo seus processos e soluções analíticas, com autonomia\npara propor, desenvolver e implementar melhorias que impactam diretamente a\ntomada de decisão e a experiência das cooperativas.\nÉ uma oportunidade\npara quem gosta de tecnologia, inovação e desafios, com espaço para\nprotagonismo, desenvolvimento e interação com diferentes áreas e lideranças.\nResponsabilidades e atribuições\nDesenvolver\nsoluções de automação, análise de dados e IA, aumentando a eficiência e a\nqualidade das entregasCriar e\nevoluir dashboards, relatórios, apresentações e processos automatizados.Estruturar e integrar dados para análises, indicadores e aplicações de inteligência artificial.Participar da sustentação e evolução de agentes de IA e produtos analíticos.Identificar oportunidades, propor soluções e conduzir iniciativas, interagindo com áreas técnicas, gestores e cooperativas.Apoiar a organização de demandas, priorização de entregas e evolução contínua das soluções.Requisitos e qualificações\nFormação\nsuperior em Engenharia, Tecnologia da Informação, Ciência de Dados,\nEstatística, Matemática ou áreas correlatas.Experiência\nprática com análise de dados, programação e automações, utilizando ferramentas\ncomo SQL, Python e Power BI.Familiaridade\ncom inteligência artificial generativa e aplicações de IA em processos de\nnegócio.Autonomia, capacidade de resolver problemas, organização e boa\ncomunicaçãoDiferenciais\nExperiência\ncom gestão de produtos (Product Owner), projetos, metodologias ágeis ou gestão\nda mudança.Conhecimento\nde Power Automate, Databricks, agentes de IA, LLMs e outras ferramentas de\nautomação.Experiência\ncom comunicação executiva, relacionamento com stakeholders e condução de\niniciativas.Conhecimento\ndo mercado financeiro, crédito ou gestão de riscos.Informações adicionaisNo Sicredi você vai ter:14º e 15º salários fixos;Participações nos Resultados (conforme a senioridade);Plano de Saúde e Odontológico sem coparticipação,Programas de bem-estar com Wellhub (antiga Gympass), Nutrição, Psicologia, Laboral, Massagem, Grupo de corrida e academia local;Vale Alimentação e Vale Refeição – com flexibilidade de % nos cartões VA/VR, sem coparticipação;Licença maternidade e paternidade estendida;Auxílio creche ou babá para crianças até 6 anos e 11 meses;Auxílio para filhos com deficiência, sem limite de idade;Seguro de vida,Previdência Privada até 8% do salário;Plataforma de Treinamentos – Sicredi Aprende, com diversos cursos;Carga horária de 40h semanais – Utilizando sistema de banco de horas;Auxílio Teletrabalho (exceto para posições com atuação 100% presenciais).",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12868911",
+   "fonte": "Gupy",
+   "titulo": "Analista de Power BI",
+   "empresa": "Grupo SERENG",
+   "local": "Nova Lima, Minas Gerais",
+   "uf": "MG",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-10",
+   "link": "https://gruposereng.gupy.io/job/eyJqb2JJZCI6MTI4Njg5MTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "GRUPO SERENG - empresa de engenharia especializada em projetos, consultoria, gerenciamento, apoio técnico e gestão de ativos (manutenção), atuando nos mais diversos segmentos industriais! Responsabilidades e atribuições\nDesenvolver, implementar e manter dashboards e relatórios gerenciais utilizando Power BI.Realizar extração, tratamento, transformação e análise de dados provenientes de diferentes fontes.Desenvolver consultas e modelagem de dados utilizando Power Query e linguagem DAX.Criar indicadores de desempenho (KPIs) para acompanhamento dos resultados operacionais, financeiros e administrativos.Automatizar relatórios e processos de consolidação de informações.Integrar bases de dados provenientes de Excel, SQL, ERP e outros sistemas corporativos.Desenvolver relatórios estratégicos para subsidiar a tomada de decisão da gestão.Prestar suporte aos usuários na utilização das ferramentas de Business Intelligenc.\nRequisitos e qualificaçõesREQUISITOS NECESSÁRIOS\nFormação: \nSuperior completo ou em andamento em Análise e Desenvolvimento de Sistemas, Ciência da Computação, Sistemas de Informação, Engenharia de Dados, Estatística, Administração ou áreas correlatas\nExperiência: projetos industriais mineração e siderurgiaREQUISITOS DESEJÁVEISConhecimento avançado em Power BI.Domínio de Power Query e linguagem DAX.Conhecimento avançado em Excel.Conhecimento em modelagem e relacionamento de dados.Conhecimento em SQL será considerado diferencial.Capacidade analítica e facilidade para interpretar indicadores e transformar dados em informações gerenciais.\nInformações adicionaisPlano de Saúde;Seguro de vida;Refeição;Transporte;Convênio com Wellhub (GYMPASS);Suporte Saúde Psicossocial.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12865392",
+   "fonte": "Gupy",
+   "titulo": "Analista de Power BI",
+   "empresa": "Grupo Breitkopf",
+   "local": "Blumenau, Santa Catarina",
+   "uf": "SC",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-10",
+   "link": "https://grupobreitkopf.gupy.io/job/eyJqb2JJZCI6MTI4NjUzOTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Curte dados, indicadores e dashboards bem construídos? 📊Então vem com a gente! Estamos com uma nova oportunidade para Analista de Power BI e buscamos alguém que goste de transformar números em soluções.Responsabilidades e atribuiçõesLevantar requisitos junto às áreas de negócio.Desenvolver dashboards e relatórios interativos no Power BI.Criar e otimizar medidas utilizando DAX.Realizar tratamento e transformação de dados com Power Query.Elaborar consultas SQL para extração de dados.Desenvolver e manter modelos de dados (Star Schema).Publicar relatórios no Power BI Service.Configurar atualização automática de dados e gateways.Implementar políticas de segurança (Row-Level Security).Monitorar performance e propor melhorias contínuas.Requisitos e qualificaçõesExperiência com Power BI Desktop e Power BI Service.Conhecimento em DAX.Experiência com Power Query (linguagem M).Conhecimento em SQL.Experiência com modelagem de dados.Noções de ETL e Data Warehouse.Conhecimento em boas práticas de visualização de dados.Atuação 100% Presencial em Blumenau, Santa Catarina.Informações adicionais\n🍽️ Vale Alimentação ou Refeição;\n🎯 Prêmio Assiduidade;\n🩺 Telemedicina;\n🎓 Auxílio Educação;\n🚌 Vale Transporte;\n🏥 Convênio Unimed;\n🦷 Convênio Odontológico Uniodonto;\n📚 Convênio com Universidades;\n🤝 Convênio Sesc;\n💼 Academia de Educação Fenabrave",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ativa": true
+  },
   {
    "id": "gupy:12864663",
    "fonte": "Gupy",
@@ -47,7 +256,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-10T17:49:44+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12599447",
@@ -65,7 +274,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-10T17:49:44+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -84,7 +293,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-10T17:49:44+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -103,7 +312,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -122,7 +331,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -141,7 +350,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -160,7 +369,7 @@
    "nivel": "trainee",
    "motivo_nivel": "título/contrato de trainee ou aprendiz",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -180,7 +389,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12851408",
@@ -198,7 +407,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -217,7 +426,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -236,7 +445,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -255,7 +464,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -274,7 +483,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -293,7 +502,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -332,7 +541,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12700709",
@@ -350,7 +559,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -369,7 +578,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -388,7 +597,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -407,7 +616,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -426,7 +635,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -445,7 +654,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -464,7 +673,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -483,7 +692,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -502,7 +711,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -521,7 +730,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -540,7 +749,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -559,7 +768,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -578,7 +787,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -597,7 +806,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -616,7 +825,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -635,7 +844,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -673,7 +882,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -692,7 +901,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -731,7 +940,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12832574",
@@ -749,7 +958,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -768,7 +977,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -787,7 +996,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -807,7 +1016,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12828221",
@@ -825,7 +1034,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -844,7 +1053,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -863,7 +1072,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -882,7 +1091,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -901,7 +1110,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -920,7 +1129,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -939,7 +1148,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -958,7 +1167,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -977,7 +1186,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -996,7 +1205,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1015,7 +1224,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1034,7 +1243,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1053,7 +1262,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1091,7 +1300,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1129,7 +1338,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1148,7 +1357,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1167,7 +1376,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1205,7 +1414,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1224,7 +1433,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1243,7 +1452,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1281,7 +1490,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1300,7 +1509,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1319,7 +1528,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1338,7 +1547,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1357,7 +1566,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1414,7 +1623,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1433,7 +1642,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1452,7 +1661,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1471,7 +1680,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1490,7 +1699,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1509,7 +1718,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1528,7 +1737,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1547,7 +1756,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1566,7 +1775,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1585,7 +1794,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1604,7 +1813,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-10T17:49:44+00:00",
+   "ultima_vez": "2026-11-11T17:53:31+00:00",
    "ativa": true
   },
   {
@@ -1643,7 +1852,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12784488",
@@ -1662,7 +1871,7 @@
    "motivo_nivel": "título/contrato de trainee ou aprendiz",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12625672",
@@ -1681,7 +1890,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12777878",
@@ -1700,7 +1909,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12784185",
@@ -1719,7 +1928,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12788972",
@@ -1738,7 +1947,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12788831",
@@ -1757,7 +1966,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12789861",
@@ -1776,7 +1985,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12787022",
@@ -1795,7 +2004,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "greenhouse:gympass:8893388002",
@@ -1814,7 +2023,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "lever:ciandt:d940a95a-0e03-4598-a694-4aca2688b2f7",
@@ -1833,7 +2042,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-10T17:49:44+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12783860",

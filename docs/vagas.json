@@ -1,35 +1,206 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-11T17:53:31+00:00",
+  "atualizado_em": "2026-11-12T18:19:26+00:00",
   "fontes": {
    "gupy": {
     "ok": true,
-    "brutas": 702,
+    "brutas": 703,
     "erros": 0
    },
    "greenhouse": {
     "ok": true,
-    "brutas": 1042,
+    "brutas": 1031,
     "empresas_com_erro": []
    },
    "lever": {
     "ok": true,
-    "brutas": 159,
+    "brutas": 157,
     "empresas_com_erro": []
    }
   },
-  "brutas": 1903,
-  "aceitas_hoje": 80,
-  "novas_hoje": 11,
+  "brutas": 1891,
+  "aceitas_hoje": 78,
+  "novas_hoje": 9,
   "descartes": {
-   "nível acima de júnior": 132,
-   "nível estagio desativado": 12,
-   "não é de dados": 1138,
-   "antiga": 538,
-   "local/modalidade": 3
+   "nível acima de júnior": 128,
+   "nível estagio desativado": 11,
+   "não é de dados": 1125,
+   "antiga": 547,
+   "local/modalidade": 2
   }
  },
  "vagas": [
+  {
+   "id": "gupy:12879353",
+   "fonte": "Gupy",
+   "titulo": "Analista de Governança de Dados JR",
+   "empresa": "Grupo SysMap",
+   "local": "Remoto",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-12",
+   "link": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI4NzkzNTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Você é apaixonado(a) por tecnologia e inovação? 💡 No Grupo SysMap – que reúne SysMap Solutions, TriggoLabs e triggo.ai – acreditamos que grandes resultados nascem de pessoas incríveis. Somos uma empresa brasileira de tecnologia que, desde 1999, ajuda organizações a superar desafios complexos e acelerar sua transformação digital. Nossa atuação abrange diversos segmentos, como Telecom, Varejo, Educação, Financeiro, Indústria/Cosméticos e Energia, sempre com foco em soluções inovadoras e de alto impacto. 👉 Candidate-se agora e construa o futuro da tecnologia conosco!Responsabilidades e atribuiçõesApoiar a implementação e manutenção de práticas de Governança de Dados, garantindo organização, padronização e qualidade das informações;Atuar na documentação, catalogação e gestão de metadados, contribuindo para a rastreabilidade e compreensão dos dados;Apoiar a criação, atualização e manutenção de dashboard se relatórios gerenciais utilizando Power BI;Desenvolver e realizar ajustes em consultas SQL para extração, validação e análise de dados;Apoiar a construção e manutenção de landing pages relacionadas à disponibilização e organização de informações;Auxiliar na identificação de inconsistências, duplicidades e oportunidades de melhoria na qualidade dos dados;Trabalhar em conjunto com as áreas de negócio e tecnologia para compreender necessidades e apoiar soluções relacionadas a dados e BI;Contribuir para a documentação de processos, indicadores e regras de negócio.Requisitos e qualificaçõesEnsino superior cursando ou completo em Tecnologia da Informação, Ciência da Computação, Sistemas de Informação, Engenharia ou áreas correlatas;Conhecimentos básicos ou intermediários em SQL para consultas e manipulação de dados;Conhecimento em Power BI para criação e manutenção de dashboards e relatórios;Noções de Business Intelligence (BI) e análise de dados;Conhecimento ou familiaridade com conceitos de Governança de Dados e gestão de metadados;Familiaridade com criação, atualização ou manutenção de landing pages;Conhecimento em Excel para organização e análise de informações;Informações adicionais\nVamos gostar muito se, além disso\ntudo, você tiver:Conhecimento em ferramentas de catálogo e gestão de metadados;Noções de qualidade, linhagem e ciclo de vida dos dados;Experiência com ferramentas de ETL e integração de dados;Conhecimento em modelagem de dados e bancos de dados relacionais;Familiaridade com HTML, CSS ou ferramentas de construção de landing pages.",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-12T18:19:26+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12860752",
+   "fonte": "Gupy",
+   "titulo": "Analista de Loyalty e Dados | EMPRESA LOCALIZADA EM BARUERI",
+   "empresa": "Empresa confidencial",
+   "local": "Barueri, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-12",
+   "link": "https://c0nf.gupy.io/job/eyJqb2JJZCI6MTI4NjA3NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "O Analista de Loyalty desempenha um papel fundamental no acompanhamento, organização, coleta, análise e interpretação de informações relevantes para apoiar as decisões de negócios. Este profissional é responsável por transformar dados brutos em insights acionáveis, contribuindo para o sucesso da empresa e aprimorando a tomada de decisões estratégicas.Responsabilidades e atribuições• Criar e manter dashboards para monitoramento contínuo dos dados inseridos, facilitando o acesso a informações estratégicas.• Desenvolver gráficos, dashboards e relatórios para comunicar de forma eficaz os resultados das análises.• Fornecer informações valiosas que orientem a tomada de decisões estratégicas em toda a organização.• Trabalhar com times multidisciplinares, garantindo o devido suporte sobre diversas questões, produtos e serviços do ambiente.Requisitos e qualificações• Tenha experiência em Programas de Relacionamento e Recompensas• Tenha afinidade com temas de vendas e marketing;• Consiga transformar dados em informação e relatórios para a tomada de decisão.• Conhecimento Técnico Avançado em Ferramentas de Análise de Dados: Proficiência com Excel para manipulação de dados e construção de modelos avançados. Experiência com ferramentas de Business Intelligence (BI) como Power BI, Tableau, ou similares para desenvolvimento de dashboards e relatórios serão um diferencial.• Capacidade Analítica e Estratégica: Habilidade para traduzir dados em insights estratégicos que direcionem decisões de negócios. Visão crítica para avaliar, sugerir melhorias e otimizar processos de coleta e análise de dados.• Comunicação: Excelentes habilidades de comunicação para traduzir complexidades técnicas para uma linguagem acessível a stakeholders não técnicos, incluindo apresentações eficazes de resultados de análises.• Proatividade e Iniciativa: Capacidade de trabalhar de forma independente, propondo soluções inovadoras para desafios complexos.Informações adicionaisConvênio médicoConvênio odontológicoSeguro de vidaVale TransporteVale Alimentação ou Vale Refeição",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-12T18:19:26+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12879619",
+   "fonte": "Gupy",
+   "titulo": "Hitss | Engenheiro de Dados Multicloud",
+   "empresa": "Hitss Brasil",
+   "local": "Remoto",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-12",
+   "link": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI4Nzk2MTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Na Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia. Se você é movido pela paixão em criar soluções tecnológicas disruptivas, se busca constantemente desafios que ampliem os limites do possível e se acredita que colocar o cliente em primeiro lugar é a chave para o sucesso, então você está no lugar certo.Queremos pessoas que se destaquem, que pensem fora da caixa e estejam dispostas a desbravar novos horizontes. Aqui, cada ideia é valorizada, cada pergunta é incentivada e cada desafio é encarado como uma oportunidade de aprendizado e crescimento.Junte-se a nós e faça parte de uma cultura vibrante, onde a inovação é alimentada pela curiosidade incessante e onde o respeito pelo cliente permeia todas as nossas ações. Aqui, você terá a liberdade de explorar suas habilidades, colaborar com mentes brilhantes e transformar o futuro da tecnologia.Se você está pronto para fazer parte de uma empresa que acredita que o talento é a chave para o sucesso, envie seu currículo e junte-se à nossa equipe.Estamos ansiosos para conhecer você e impulsionar juntos a próxima geração de soluções tecnológicas.Venha ser um Hit!Responsabilidades e atribuiçõesDesenvolver e manter pipelines de ingestão, integração e transformação de dados provenientes de múltiplos provedores de nuvem;Integrar dados de consumo e faturamento em nuvem a um Data Lake corporativo;Realizar a normalização e padronização dos dados conforme o padrão FOCUS;Implementar processos de tratamento, validação e organização dos dados;Desenvolver e manter estruturas de dados voltadas ao consumo analítico;Automatizar processos de integração e processamento de dados por meio de linguagens de programação e scripts;Implementar práticas de monitoramento, observabilidade e controle de qualidade dos dados;Garantir a segurança, integridade e controle de acesso às informações;Disponibilizar bases de dados confiáveis para análises, indicadores e soluções de Inteligência Artificial.Requisitos e qualificaçõesRequisitos necessáriosFormação superior em Tecnologia da Informação ou áreas correlatas, acrescida de pós graduação em TI;Experiência em Engenharia de Dados e arquitetura de Data Lake;Experiência na integração de dados provenientes de múltiplos provedores de nuvem;Conhecimento em normalização e padronização de dados de consumo e faturamento em nuvem, preferencialmente seguindo o padrão FOCUS;Domínio de SQL avançado e modelagem de dados para consumo analítico;Experiência com ferramentas de integração, processamento e orquestração de dados;Conhecimento em desenvolvimento e automação de pipelines utilizando linguagens de programação e scripts;Conhecimento em práticas de qualidade, monitoramento e observabilidade de dados;Conhecimento em segurança da informação, governança e controle de acesso a dados.Certificações desejáveisCertificação em Engenharia de Dados;Certificação em Engenharia Analítica.Informações adicionaisQuer conhecer todas as nossas vagas? Acesse a nossa página:Hitss - Trabalhe Conoscohttps://globalhitss.gupy.io/https://www.hitss.com/br/https://www.hitss.com/politicas/Importante: Todas as nossas vagas são elegíveis para profissionais com deficiência, equidade de gênero e raça/ etnia.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-12T18:19:26+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12878692",
+   "fonte": "Gupy",
+   "titulo": "Atendimento ao Cliente para Coleta de Dados - Pirenópolis/GO (200h)",
+   "empresa": "Montreal | Tecnologia e Inovação",
+   "local": "Pirenópolis, Goiás",
+   "uf": "GO",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "Temporário",
+   "publicada_em": "2026-11-12",
+   "link": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI4Nzg2OTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Como Atendimento ao Cliente para Coleta de Dados alocado através da Montreal, você fará parte de uma das melhores empresas de tecnologia para se trabalhar no Brasil!Em 1986, nossa trajetória iniciou com pessoas visionárias que assumiram um compromisso com a tecnologia e sua capacidade de transformar o mundo através dela. Aquele, seria apenas o começo de uma trajetória que levou uma pequena equipe de engenharia apaixonada por inovação a se tornar referência sólida no mercado brasileiro.Responsabilidades e atribuiçõesAtendimento ao público, recepcionando os clientes cidadãos que buscam os serviços de foto digital.Verificação dos dados pessoais do cliente cidadão no início do atendimento.Responsável pela coleta de foto, digitais, assinatura e digitalização de documentos.Orientação sobre as próximas etapas do processo ao cliente.Requisitos e qualificaçõesObrigatório possuir Ensino Médio Completo (será solicitado o diploma e/ou certificado);Possuir noções de informática;Desejável experiência com atendimento ao cliente.Informações adicionaisTipo de contratação: CLT, TemporárioHorário de trabalho: Atuação presencial de segunda à sexta das 08:00 as 17:00 Local de trabalho: \nEndereço: \nR. Manoel Lopes, 16 - Vila Anduzeiro, Pirenópolis - GO, 72980-000\nVale-refeição ou Alimentação pago por dia trabalhado no cartão Alelo;Vale-transporte desconto de 6% sob o benefício de acordo com a CCT;Plano de Saúde Cooparticipativo;Plano Odontológico;Seguro de Vida;Wellhub;Clube de Vantagens;Auxílio Creche (quando previsto em convenção ou acordo coletivo).",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-12T18:19:26+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12878502",
+   "fonte": "Gupy",
+   "titulo": "Data Scientist",
+   "empresa": "ioasys",
+   "local": "Remoto",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-12",
+   "link": "https://ioasys.gupy.io/job/eyJqb2JJZCI6MTI4Nzg1MDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "A ioasys é especialista na criação de soluções digitais para empresas que buscam evoluir de forma consistente. Combinamos estratégia, design, dados e inteligência artificial para transformar desafios complexos em soluções relevantes e escaláveis. Atuamos com centralidade no cliente, metodologias ágeis e abordagem voltada ao usuário para apoiar marcas na construção de experiências, produtos e negócios preparados para o futuro.\nPara a posição de Data Scientist, buscamos um profissional com sólida experiência em Ciência de Dados, Machine Learning e Inteligência Artificial Generativa, com perfil hands-on, visão estratégica de negócio e experiência em liderança de equipes. Essa pessoa será responsável por desenvolver e implementar soluções analíticas e modelos de IA em produção, garantindo escalabilidade e impacto mensurável para o negócio.Você fará parte de um time horizontal e transparente que não apenas valoriza suas ideias, mas também espera que você participe da construção da empresa conosco.Responsabilidades e atribuições\nDesenvolver, validar e implementar modelos de Machine Learning e soluções de IA Generativa em produção;Traduzir necessidades de negócio em soluções analíticas e produtos de dados;Definir e priorizar o roadmap de Ciência de Dados e IA, equilibrando entregas e evolução técnica;Atuar em todo o ciclo de vida dos modelos, incluindo experimentação, implantação, monitoramento e retreinamento;Aplicar boas práticas de MLOps e GenAIOps, garantindo qualidade, escalabilidade e governança;Conduzir testes A/B e análises causais para mensurar resultados e impactos no negócio;Promover a cultura orientada a dados e incentivar a tomada de decisões baseada em evidências;Atuar em parceria com times de Analytics, Engenharia, Governança de Dados e Produto;Apresentar resultados e recomendações para públicos técnicos e executivos.\nRequisitos e qualificações\nFormação superior completa em Ciência da Computação, Estatística, Matemática, Engenharia, Física ou áreas correlatas;Experiência mínima de 5 anos em Análise de Dados e Ciência de Dados, sendo pelo menos 2 anos em liderança ou gestão de equipes;Experiência comprovada no desenvolvimento e implantação de modelos de Machine Learning em produção, com resultados mensuráveis;Domínio de Python, SQL, Spark e Power BI ou ferramenta equivalente de visualização;Conhecimento sólido em modelagem estatística, algoritmos de Machine Learning, classificação, regressão, clusterização e engenharia de atributos;Experiência prática com IA Generativa, LLMs, Prompt Engineering, RAG, embeddings, bancos vetoriais, fine-tuning e avaliação de modelos;Vivência com bibliotecas e frameworks como Scikit-learn, Pandas, PyTorch e TensorFlow;Experiência com práticas de MLOps, versionamento, implantação, monitoramento e retreinamento de modelos, utilizando ferramentas como MLflow;Conhecimento em arquiteturas de dados, como Data Lake, Data Warehouse e Delta Lake, além de Governança de Dados;Experiência com testes A/B, experimentação e definição de métricas de negócio;Excelente comunicação, visão analítica e habilidade para apresentações executivas.\nQualificações desejáveis:• Fluência em português e inglês (escrito e falado).Informações adicionaisBenefícios que fazem a diferençaQualidade de vida e bem-estar💪 Wellhub para você se manter saudável🧠 Apoio emocional: 2 consultas mensais gratuitas de terapia online no Zenklub🛍️ Descontos especiais: até 35% em produtos Alpa🐕 Licença PET: 2 dias corridos de folga ao adotar um petzinho﻿🐈‍⬛ Guapeco: plano de saúde para seu pet❤️ Seguro de vida com ampla coberturaDesenvolvimento e crescimento💡 Talks e cursos internos ministrados por nossos especialistas📚 Curso de Inglês e Espanhol para impulsionar suas habilidades nos idiomasFlexibilidade e estilo de vida🕗 Horário flexível para equilibrar vida pessoal e profissional👕 No dress code – seja você mesmo(a)!✈️ OnHappy para viagens incríveis🎂 Day Off no seu aniversárioFacilidades para o seu dia a dia🪙 Moeda interna com loja de produtos própriosVem com a gente! Se inscreve aí! :)",
+   "nivel": "junior",
+   "motivo_nivel": "pede só 2 ano(s) de experiência",
+   "primeira_vez": "2026-11-12T18:19:26+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12874827",
+   "fonte": "Gupy",
+   "titulo": "BANCO DE DADOS - ANALISTA FROTA",
+   "empresa": "Unidas",
+   "local": "Sertãozinho, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-11",
+   "link": "https://unidas.gupy.io/job/eyJqb2JJZCI6MTI4NzQ4MjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Responsável por acompanhar, controlar e analisar as atividades relacionadas à gestão da frota de veículos pesados, garantindo a disponibilidade operacional, controle de custos, manutenção preventiva e corretiva, cumprimento das normas de segurança e eficiência dos processos.\nResponsabilidades e atribuições\nRealizar a gestão administrativa da frota de veículos pesados da operação.\nControlar inspeções obrigatórias.\nAcompanhar contratos de locação, manutenção, rastreamento, abastecimento e demais fornecedores da área.\nControlar orçamento, custos operacionais e despesas relacionadas à frota.\nRealizar abertura, acompanhamento e encerramento de requisições e ordens de serviço.\nElaborar relatórios gerenciais e apresentações para liderança.\nDesenvolver e atualizar dashboards e controles em Power BI e Excel.\nMonitorar indicadores de desempenho da frota, propondo ações para melhoria dos resultados.\nConsolidar informações operacionais para análises gerenciais e suporte à tomada de decisão.\nAcompanhar o processo de aquisição, mobilização, transferência e desmobilização de veículos.\nGarantir a atualização cadastral dos veículos e equipamentos nos sistemas corporativos.\nApoiar gestores e operações com informações e controles relacionados à frota.\nAtuar na interface com áreas como Operação, Suprimentos, Financeiro, Manutenção e Recursos Humanos.\nRequisitos e qualificaçõesEnsino superior completo em Administração, Logística, Processos Gerenciais, Engenharia de Produção ou áreas correlatas.\nConhecimento intermediário ou avançado em Excel e Power BI.\nExperiência com controles administrativos, análise de dados e indicadores.\nConhecimento em gestão de frotas e processos administrativos.\nDesejável experiência com sistemas de gestão de frota, telemetria e ERP.\nInformações adicionaisOrganização e planejamento.\nPerfil analítico.\nGestão de indicadores.\nComunicação interpessoal.\nAtenção aos detalhes.\nProatividade.\nCapacidade de trabalhar com múltiplas demandas e prazos.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-12T18:19:26+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12863707",
+   "fonte": "Gupy",
+   "titulo": "ANALISTA CONTABIL JR - MASTER DATA",
+   "empresa": "Arteris Administrativo",
+   "local": "Ribeirão Preto, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-11",
+   "link": "https://arterisadministrativo.gupy.io/job/eyJqb2JJZCI6MTI4NjM3MDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Quem somos? Somos Vida em Movimento. Pelas nossas estradas\npassam muito além de veículos, aqui conectamos pessoas e dinamizamos o\ntransporte de cargas entre alguns dos mais importantes eixos econômicos do\nPaís.\nResponsabilidades e atribuições\nComo ANALISTA CONTABIL JR – MASTER DATA você será\nresponsável por: \n· Planejar, validar e realizar as atividades\ncompetentes a equipe de Master Data, abrangendo os cadastros, conferência de\ndocumentação e dados, visando assegurar a correta apresentação dos cadastros,\ndentro dos prazos e das normas e procedimentos estabelecidos pela companhia e\nlegislação vigente.\n· Elaborar, acompanhar e analisar os KPIs da\nequipe.\n· Participar ativamente dos projetos de melhoria\ncontínua, identificando oportunidades de melhorias, seja em termos de\nqualidade, mitigação de riscos, eficiência e/ou redução de custo.\n· Manter-se atualizado com a legislação contábil e\ntributária.\n· Atender as demandas das auditorias interna e\nexterna, prestando todos os esclarecimentos necessários dos processos sob sua\natuação.\n· ontribuir com um ambiente diverso e inclusivo,\nviabilizando o respeito e bom relacionamento entre os colaboradores e equipes.\nFornecer suporte e informações à Controladoria e\nClientes Internos. \nRequisitos e qualificações\nÉ importante para nós que você tenha:\n• Ensino superior cursando Ciências Contábeis\n• Conhecimento em nível intermediário do Pacote office \n• Conhecimento em nível básico em SAP. \nSerá um diferencial se você possuir: \n• Visão de Processos\nInformações adicionaisO que oferecemos: Programa de Participação de Resultado (PPR); Assistência Médica;Plano Odontológico;Telemedicina;Programa Cuidando de Perto;Programa Saúde Emocional; Plataforma de Bem-Estar;Programa Arteris Baby;Programa de D&I: Retificação de nome em documentação oficial para pessoas trans e não binárias;Vale Refeição ou Alimentação; Vale Farmácia;Vale Transporte; ArterisPrev (Previdência Complementar); Empréstimo Consignado;Auxílio Creche (mulheres com filhos até completar 6 anos de idade ou homens com a guarda total por decisão judicial); Seguro de Vida; Day off (folga) no dia do aniversário; Licença maternidade de 6 meses e paternidade 20 dias;Horário Flexível (apenas área administrativa); Home Office 1 dia na semana (apenas área administrativa); UAD - Universidade Arteris de Desenvolvimento.",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-12T18:19:26+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12847233",
+   "fonte": "Gupy",
+   "titulo": "Analista Power Platform (Power Apps, Power Automate e Power BI)",
+   "empresa": "BIP Brasil",
+   "local": "Rio de Janeiro, Rio de Janeiro",
+   "uf": "RJ",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-11",
+   "link": "https://vemprabip.gupy.io/job/eyJqb2JJZCI6MTI4NDcyMzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Buscamos profissional para atuar junto ao nosso cliente com atuação na área de O&G uma pessoa com experiência e atuação no levantamento de requisitos, desenvolvimento, manutenção e evolução de soluções utilizando Power Apps, Power Automate, Power BI e Microsoft Fabric, realizando automações de processos, criação de aplicações e dashboards, documentação técnica e funcional, versionamento e publicação das entregas, suporte aos usuários, correção de incidentes, implementação de melhorias contínuas e utilização de recursos de IA Generativa para aumento da eficiência operacional.\nResponsabilidades e atribuições\nRequisitos:Vivência no desenvolvimento de sistemas de IA ponta a ponta, incluindo ingestão de dados, feature engineering e deploy.Experiência com SharePoint Online e Dataverse.Experiência na governança da Power Platform e ambientes Microsoft 365.Vivência em projetos de transformação digital e automação de processos.Perfil analítico, organizado e orientado à solução de problemas.Boa comunicação e facilidade para interação com áreas de negócio.Proatividade, autonomia e senso de responsabilidade.Capacidade de atuar em equipes multidisciplinares e ambientes dinâmicos.Foco na qualidade das entregas e melhoria contínua.Requisitos e qualificaçõesFormação:Formação superior completa. Todos os cursos são bem vindos!Conhecimentos necessários:Experiência comprovada \nem desenvolvimento de soluções utilizando Microsoft Power Platform;Power Apps.Power Automate.Power BI.Microsoft Fabric.Automação de processos.Metodologias Ágeis (Scrum e Kanban).Ferramentas de IA Generativa.Domínio de Python e bibliotecas/frameworks.HERE TO DAREInformações adicionaisCONHEÇA NOSSOS BENEFÍCIOSAssistência Médica;Assistência Odontológica;Seguro de vida;Vale Refeição e/ou Vale Alimentação.Outros benefícios:Birthday off;Gympass;Consultoria financeira e empréstimo facilitado;Clube Alelo com diversos descontos em lojas e farmácias;Licença Maternidade de 180 dias;Licença Paternidade de 30 dias;Auxílio creche no primeiro ano do bebê;Vale Transporte conforme a demanda do projeto ou área;Comissionamento por indicação de novos clientes.PROGRAMAS DE DESENVOLVIMENTOUm dos pontos fortes de ser Biper é que ousamos em pensar como empreendedores e moldamos nosso futuro com nossa capacidade de pensar minuciosamente e agir com três passos à frente, pavimentando o caminho para o futuro que nossos clientes querem viver.E para isso, precisamos estar constantemente aprendendo e reaprendendo, somos #LifeLongLearning.Na BIP temos programas consolidados a nível Global e nacional para que você tenha uma jornada de desenvolvimento, crescimento e liberdade para você conquistar o que sonha. Aqui você é o protagonista da sua carreira!Vamos juntos nessa? Confere os principais programas que a BIP pode te oferecer para você chegar aonde deseja:Um centro de CAPACITAÇÃO e FORMAÇÃO Global com os conteúdos e cursos mais atualizados do mercado;Flex Time - um momento da sua semana dedicado para o seu desenvolvimento;Programas de mentoria com Líderes referências em sua atuação;Avaliação de Desempenho semestral;Cultura de Feedback e 1:1 recorrentes com sua liderança e time;Acompanhamento de um Plano de Desenvolvimento personalizado pra você e com seus objetivos;Darwin - Programa global de formação de jovens talentos, para desenvolver soft e hard skills;Grounding –Um programa Global de formação para os profissionais recém contratados em todo o mundo que estão no começo da carreira de consultoria;Induction - Onboarding Internacional conduzido por Heads de RH e negócio para os novos entrantes da Bip de todos os países para promover nossa cultura, valores, proposito e apresentar nossos programas de iniciativa Global. Spinnaker: Treinamento focado em aprimorar habilidades estratégicas de Gerentes e Gerentes Seniores, apoiando e facilitando o desenvolvimento de negócios dentro de um ecossistema complexo.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-12T18:19:26+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
+   "ativa": true
+  },
+  {
+   "id": "lever:ciandt:b8e80bdb-9cb8-4eb8-b0dc-50802ffc0ffa",
+   "fonte": "Lever",
+   "titulo": "[Job- 32659] Mid-Level Data Analytics (Power BI), Brazil",
+   "empresa": "CI&T",
+   "local": "Brazil",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "Homeoffice",
+   "publicada_em": "2026-11-11",
+   "link": "https://jobs.lever.co/ciandt/b8e80bdb-9cb8-4eb8-b0dc-50802ffc0ffa",
+   "descricao": "Na CI&T , ajudamos grandes empresas a transformar o potencial da AI em impacto real nos negócios com AI Deployment, execução AI-native e tech-integrated business solutions.\nCom 30 anos de experiência em transformação tecnológica, aceleramos inovação com expertise em agentic SDLC, application modernization, Data & AI, martech e business strategy. \nSomos 8.000 CI&Ters em mais de 25 países, colaborando para construir soluções com impacto real. AI já faz parte da forma como trabalhamos, evoluímos e inovamos todos os dias.\nImportante: se você reside na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequencia vigente.\n\n\nEstamos buscando uma pessoa Data Developer focada em integração e modelagem para construir e evoluir nosso data lake e camadas analíticas. Não é uma posição orientada a “big data”/streaming massivo, e sim a integrações sólidas, pipelines de transformação estáveis e organização de dados de mercado (histórico e distribuição) com boa governança e qualidade.\nResponsabilidades:Projetar, implementar e manter pipelines de dados ponta a ponta (ELT/ETL) com foco em confiabilidade, reprocessamento e custo-eficiência;\nOrquestrar cargas e rotinas usando Airflow (AWS) e funções serverless (AWS Lambda); apoiar deploys em EKS quando necessário;\nModelar dados no Snowflake (camadas bronze/prata/ouro) e desenvolver transformações no dbt (macros, tests, docs).\nConstruir integrações e serviços em Python com FastAPI para expor/consumir dados e automatizar processos.\nConsumir, normalizar e versionar dados de mercado (market data), com ênfase em histórico e distribuição (batch; pouco streaming);\nEscrever SQL de alto desempenho (tuning, particionamento/clustering no Snowflake, e em Postgres);\nUtilizar Pandas para tratamentos pontuais, validações e prototipação de transformações;\nGarantir qualidade (testes no dbt, data checks), observabilidade (logs/metrics/alerts), segurança (acessos, mascaramento) e documentação;\nColaborar com times de negócios, analytics e produtos para definir SLAs, contratos de dados e padrões de governança.\n\nRequisitos para este desafio:Sólida experiência com SQL (otimização de queries, modelagem relacional e analítica);\nExperiência prática com Snowflake (warehousing, roles, tasks, performance, custos) e dbt (models, tests, sources, exposures);\nExperiência construindo pipelines de dados em Airflow (DAGs, sensores, retries, SLA) e AWS Lambda;\nConhecimento de Postgres (ingestão, replicação/CDC básica ou manutenção, rotinas);\nVivência com Python para dados (Pandas) e desenvolvimento de APIs com FastAPI;\nPrática em ELT/ETL orientado a batches, versionamento em Git e CI/CD (deploy seguro de pipelines/modelos dbt);\nNoções de segurança e governança de dados (controle de acesso, linhagem, documentação, dados sensíveis).\nInglês técnico para leitura de documentação.\nDiferenciais:Experiência com EKS/Kubernetes para workloads de dados;\nIntegração de fontes de market data (provedores, formatos, rate limits, histórico, calendário);\nMonitoramento/observabilidade (prometheus/grafana/cloudwatch), data quality além do dbt (Great Expectations, Soda);\nPadrões de contrato de dados (pydantic/JSONSchema), e práticas de data contracts;\nPerformance em Snowflake (micro-particionamento, clustering, warehouses, query profile);\nCustos e FinOps em dados na AWS/Snowflake;\nExperiência com CDC (Debezium, DMS) e mensageria (SQS, SNS; Kafka apenas se necessário).\nStack e ambiente:Data platform: Snowflake, dbt\nOrquestração e Cloud: Airflow (AWS), AWS Lambda, EKS (quando aplicável);\nLinguagens e libs: Python, Pandas, FastAPI;\nBancos: Postgres, Snowflake;\nDev: Git, CI/CD (GitHub Actions/GitLab CI/CodeBuild), IaC (CloudFormation/Terraform é plus);\nObservabilidade: CloudWatch, (Grafana/Prometheus como plus).\n#LI-CB4\n",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-12T18:19:26+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
+   "ativa": true
+  },
   {
    "id": "gupy:12825012",
    "fonte": "Gupy",
@@ -46,7 +217,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -65,7 +236,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -84,7 +255,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -99,11 +270,11 @@
    "contrato": "CLT",
    "publicada_em": "2026-11-11",
    "link": "https://viacredi.gupy.io/job/eyJqb2JJZCI6MTI4MTY3NDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
-   "descricao": "Na Viacredi, todos crescem e se fortalecem juntos. Somos uma cooperativa feita de pessoas para pessoas — com proximidade, confiança e compromisso. Aqui, você tem a oportunidade de transformar vidas e construir sua carreira com propósito. Temos orgulho de conquistar posições de destaque entre as melhores empresas para trabalhar pelo Great Place to Work (GPTW) 2025: 🥇1ª melhor empresa para se trabalhar em SC - categoria grandes empresas. 🥇 1ª melhor instituição financeira para se trabalhar no Brasil - categoria cooperativas de crédito. 🏆 4ª melhor empresa para se trabalhar no Brasil – categoria grandes empresas. 🌟 Certificada com o selo de saúde mental pela Great People Mental Health Valorizamos um ambiente inclusivo e respeitoso. Todas as vagas estão abertas para talentos diversos — pessoas com deficiência, pessoas negras, LGBTQIAPN+, 45+e outros. Importante: toda a comunicação do processo seletivo é feita por e-mail por meio da plataforma Gupy — desde o retorno da triagem até convites para entrevistas e etapas seguintes. Mensagens por WhatsApp são enviadas após a triagem inicial, caso você avance e converse com o recrutador, mas a comunicação principal continua sendo por e-mail. Fique de olho na sua caixa de entrada e no spam!\nResponsabilidades e atribuições\nSuas principais responsabilidades serão:\nCompreender o contexto da carteira de crédito, realizando análises que apoiem a definição de estratégias de recuperação e contribuam para os resultados da cooperativa.\nIdentificar padrões de comportamento, tendências de inadimplência, riscos e oportunidades por meio da análise de dados, métodos estatísticos e técnicas analíticas aplicadas à recuperação de crédito.\nDesenvolver e propor estratégias de cobrança e recuperação, transformando dados em insights acionáveis que apoiem a tomada de decisão e a maximização dos resultados.\nRealizar a segmentação da carteira de atraso, definindo ações específicas conforme perfil do cooperado, faixa de atraso, produto e potencial de recuperação.\nMensurar, monitorar e avaliar a efetividade das estratégias implementadas, acompanhando resultados e propondo ajustes contínuos para ganho de performance.\nDesenvolver e acompanhar indicadores de performance (KPIs), painéis gerenciais e relatórios executivos que proporcionem visibilidade dos resultados e apoiem a gestão da área.\nApoiar a definição e evolução das políticas de negociação e recuperação, contribuindo com análises sobre condições de pagamento, prazos, descontos e demais estratégias de regularização.\nIdentificar oportunidades de melhoria em processos, ferramentas e modelos analíticos, promovendo maior eficiência e assertividade nas ações de recuperação.\nParticipar do desenvolvimento e evolução de soluções analíticas, automações, dashboards e sistemas de apoio à decisão, contribuindo para a transformação digital da área.\nGarantir a qualidade, integridade e consistência dos dados utilizados nas análises, assegurando a confiabilidade das informações e recomendações geradas.\nAplicar boas práticas de mercado, inovação e melhoria contínua, contribuindo para a evolução dos processos e para o alcance dos objetivos estratégicos da cooperativa.\nRequisitos e qualificações\nO que esperamos de você:\nEnsino superior completo ou em andamento em áreas relacionadas à Tecnologia da Informação, Estatística, Análise e Desenvolvimento de Sistemas, Ciência da Computação, Engenharia de Dados, Ciência de Dados ou áreas correlatas.\nConhecimento avançado em Excel, com capacidade para tratamento, análise e consolidação de grandes volumes de dados.\nDomínio de Power BI, incluindo modelagem de dados, desenvolvimento de dashboards, criação de métricas em DAX, utilização da Linguagem M e implementação de atualizações automáticas e eficientes.\nConhecimento em SQL para extração, manipulação e análise de dados provenientes de diferentes fontes.\nCapacidade analítica para identificar padrões, tendências e oportunidades de negócio, transformando dados em informações relevantes para a tomada de decisão.\nHabilidade para construir indicadores, relatórios e visualizações que apoiem o acompanhamento de resultados e a geração de insights estratégicos.\nPerfil orientado à solução de problemas, com atenção à qualidade, consistência e confiabilidade das informações analisadas.\nInteresse por inovação, automação e melhoria contínua de processos relacionados à gestão e análise de dados.\nInformações adicionaisBenefícios:😊 Vale Alimentação/Refeição de R$ 2.100,00 - Para você desfrutar de uma refeição deliciosa todos os dias.🎂 Day OFF no Aniversário - Para você aproveitar essa data especial do seu jeito.📉 PPR semestral 2x ao ano - Construímos e alcançamos juntos.🎁 13º do Vale Alimentação/Refeição de R$ 300,00 - um benefício pensado para tornar seu fim de ano ainda mais completo.😍 Plano de Saúde - Cuidar da saúde é fundamental.😃 Plano odontológico - Pois a vida é feita de sorrisos.🚌 Vale Transporte – Para o seu deslocamento com segurança.🤝 Seguro de Vida – É bom prevenir, né?❤️ Pre",
+   "descricao": "Na Viacredi, todos crescem e se fortalecem juntos. Somos uma cooperativa feita de pessoas para pessoas — com proximidade, confiança e compromisso. Aqui, você tem a oportunidade de transformar vidas e construir sua carreira com propósito. Temos orgulho de conquistar posições de destaque entre as melhores empresas para trabalhar pelo Great Place to Work (GPTW) 2025: 🥇1ª melhor empresa para se trabalhar em SC - categoria grandes empresas. 🥇 1ª melhor instituição financeira para se trabalhar no Brasil - categoria cooperativas de crédito. 🏆 4ª melhor empresa para se trabalhar no Brasil – categoria grandes empresas. 🌟 Certificada com o selo de saúde mental pela Great People Mental Health Valorizamos um ambiente inclusivo e respeitoso. Todas as vagas estão abertas para talentos diversos — pessoas com deficiência, pessoas negras, LGBTQIAPN+, 45+e outros. Importante: toda a comunicação do processo seletivo é feita por e-mail por meio da plataforma Gupy — desde o retorno da triagem até convites para entrevistas e etapas seguintes. Mensagens por WhatsApp são enviadas após a triagem inicial, caso você avance e converse com o recrutador, mas a comunicação principal continua sendo por e-mail. Fique de olho na sua caixa de entrada e no spam!\nResponsabilidades e atribuições\nSuas principais responsabilidades serão:\nCompreender o contexto da carteira de crédito, realizando análises que apoiem a definição de estratégias de recuperação e contribuam para os resultados da cooperativa.\nIdentificar padrões de comportamento, tendências de inadimplência, riscos e oportunidades por meio da análise de dados, métodos estatísticos e técnicas analíticas aplicadas à recuperação de crédito.\nDesenvolver e propor estratégias de cobrança e recuperação, transformando dados em insights acionáveis que apoiem a tomada de decisão e a maximização dos resultados.\nRealizar a segmentação da carteira de atraso, definindo ações específicas conforme perfil do cooperado, faixa de atraso, produto e potencial de recuperação.\nMensurar, monitorar e avaliar a efetividade das estratégias implementadas, acompanhando resultados e propondo ajustes contínuos para ganho de performance.\nDesenvolver e acompanhar indicadores de performance (KPIs), painéis gerenciais e relatórios executivos que proporcionem visibilidade dos resultados e apoiem a gestão da área.\nApoiar a definição e evolução das políticas de negociação e recuperação, contribuindo com análises sobre condições de pagamento, prazos, descontos e demais estratégias de regularização.\nIdentificar oportunidades de melhoria em processos, ferramentas e modelos analíticos, promovendo maior eficiência e assertividade nas ações de recuperação.\nParticipar do desenvolvimento e evolução de soluções analíticas, automações, dashboards e sistemas de apoio à decisão, contribuindo para a transformação digital da área.\nGarantir a qualidade, integridade e consistência dos dados utilizados nas análises, assegurando a confiabilidade das informações e recomendações geradas.\nAplicar boas práticas de mercado, inovação e melhoria contínua, contribuindo para a evolução dos processos e para o alcance dos objetivos estratégicos da cooperativa.\nRequisitos e qualificações\nO que esperamos de você:\nEnsino superior completo ou em andamento em áreas relacionadas à Tecnologia da Informação, Estatística, Análise e Desenvolvimento de Sistemas, Ciência da Computação, Engenharia de Dados, Ciência de Dados ou áreas correlatas.\nConhecimento avançado em Excel, com capacidade para tratamento, análise e consolidação de grandes volumes de dados.\nDomínio de Power BI, incluindo modelagem de dados, desenvolvimento de dashboards, criação de métricas em DAX, utilização da Linguagem M e implementação de atualizações automáticas e eficientes.\nConhecimento em SQL para extração, manipulação e análise de dados provenientes de diferentes fontes.\nCapacidade analítica para identificar padrões, tendências e oportunidades de negócio, transformando dados em informações relevantes para a tomada de decisão.\nHabilidade para construir indicadores, relatórios e visualizações que apoiem o acompanhamento de resultados e a geração de insights estratégicos.\nPerfil orientado à solução de problemas, com atenção à qualidade, consistência e confiabilidade das informações analisadas.\nInteresse por inovação, automação e melhoria contínua de processos relacionados à gestão e análise de dados.\nInformações adicionaisBenefícios:\n😊 Vale Alimentação/Refeição de R$ 2.300,00 - Para você desfrutar de uma refeição deliciosa todos os dias.🎂 Day OFF no mês do seu Aniversário - Para você aproveitar essa data especial do seu jeito.📉 PPR semestral 2x ao ano - Construímos e alcançamos juntos.🎁 13º do Vale Alimentação/Refeição de R$ 600,00 - um benefício pensado para tornar seu fim de ano ainda mais completo.😍 Plano de Saúde - Cuidar da saúde é fundamental.😃 Plano odontológico - Pois a vida é feita de sorrisos.🚌 Vale Transporte – Para o seu deslocamento com segurança.🤝 Seguro de Vida – É bom preveni",
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -122,7 +293,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -141,7 +312,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -160,7 +331,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -179,7 +350,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -198,7 +369,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -217,7 +388,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -236,7 +407,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -274,7 +445,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-10T17:49:44+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -293,7 +464,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-10T17:49:44+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -312,7 +483,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -331,7 +502,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -350,7 +521,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -369,7 +540,7 @@
    "nivel": "trainee",
    "motivo_nivel": "título/contrato de trainee ou aprendiz",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -407,7 +578,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -426,7 +597,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -445,7 +616,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -464,7 +635,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -484,7 +655,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
    "ultima_vez": "2026-11-11T17:53:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12848395",
@@ -502,7 +673,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -559,7 +730,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -578,7 +749,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -597,7 +768,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -616,7 +787,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -635,7 +806,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -654,7 +825,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -673,7 +844,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -692,7 +863,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -711,7 +882,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -730,7 +901,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -749,7 +920,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -768,7 +939,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -787,7 +958,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -806,7 +977,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -825,7 +996,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -844,7 +1015,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -882,7 +1053,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -901,7 +1072,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -950,7 +1121,7 @@
    "local": "Salvador, Bahia",
    "uf": "BA",
    "brasil": true,
-   "modalidade": "hibrido",
+   "modalidade": "presencial",
    "contrato": "CLT",
    "publicada_em": "2026-11-04",
    "link": "https://vwgs-sam.gupy.io/job/eyJqb2JJZCI6MTI4MzI1NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
@@ -958,7 +1129,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -977,7 +1148,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -996,7 +1167,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1034,7 +1205,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1053,7 +1224,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1072,7 +1243,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1091,7 +1262,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1110,7 +1281,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1129,7 +1300,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1148,13 +1319,13 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
    "id": "gupy:12809370",
    "fonte": "Gupy",
-   "titulo": "Pessoa Engenheiro de dados - Martech",
+   "titulo": "Pessoa Engenheira de dados - Martech",
    "empresa": "BIP Brasil",
    "local": "São Paulo, São Paulo",
    "uf": "SP",
@@ -1167,7 +1338,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1186,7 +1357,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1205,7 +1376,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1224,7 +1395,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1243,7 +1414,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1262,7 +1433,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1300,7 +1471,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1338,7 +1509,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1357,7 +1528,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1376,7 +1547,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1414,7 +1585,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1433,7 +1604,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1452,7 +1623,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1490,7 +1661,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1509,7 +1680,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1528,7 +1699,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1547,7 +1718,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1566,7 +1737,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1623,7 +1794,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
-   "ultima_vez": "2026-11-11T17:53:31+00:00",
+   "ultima_vez": "2026-11-12T18:19:26+00:00",
    "ativa": true
   },
   {
@@ -1643,7 +1814,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-11T17:53:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12801796",
@@ -1662,7 +1833,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-11T17:53:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12800085",
@@ -1681,7 +1852,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-11T17:53:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12799968",
@@ -1700,7 +1871,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-11T17:53:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12799872",
@@ -1719,7 +1890,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-11T17:53:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12799791",
@@ -1738,7 +1909,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-11T17:53:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12799719",
@@ -1757,7 +1928,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-11T17:53:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12797524",
@@ -1776,7 +1947,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-11T17:53:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12796853",
@@ -1795,7 +1966,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-11T17:53:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12796210",
@@ -1814,7 +1985,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-04T20:49:57+00:00",
    "ultima_vez": "2026-11-11T17:53:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12682531",

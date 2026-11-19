@@ -1,10 +1,11 @@
-# 8 vagas novas — 2026-11-18
+# 9 vagas novas — 2026-11-19
 
-- **Arquiteto(a) de Dados - Consultor(a)** · Vivo Digital · Remoto · `nao_informado` — [abrir](https://vivodigital.gupy.io/job/eyJqb2JJZCI6MTE2ODYzOTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **CAS | Analista de Precificação de Ativos - Foco em Dados** · Sicredi · Porto Alegre, Rio Grande do Sul · `nao_informado` — [abrir](https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI4NzQwNTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **19986-Administrador de Banco de Dados Multiplataforma** · Hitss Brasil · Osasco, São Paulo · `nao_informado` — [abrir](https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI4Nzk5NTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Analista Dados - Recursos Humanos (Anápolis, GO)** · Araguaia · Anápolis, Goiás · `nao_informado` — [abrir](https://araguaia.gupy.io/job/eyJqb2JJZCI6MTI5MDIzODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Auditor(a) Interno(a) – Dados e Analytics - Central Sicredi PR/SP/RJ - Curitiba/PR** · Sicredi · Curitiba, Paraná · `nao_informado` — [abrir](https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI5MDczNjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Data Engineer** · SoftDesign · Remoto · `nao_informado` — [abrir](https://softdesign.gupy.io/job/eyJqb2JJZCI6MTI5MDgyMjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Analista de BI  - Bauru/SP - Sede Regional Administrativa** · Sicredi · Bauru, São Paulo · `nao_informado` — [abrir](https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI5MTIyMzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Analista de Analytics Jr | Fraud Prevention** · C6 Bank · São Paulo, Brazil · `junior` — [abrir](https://job-boards.greenhouse.io/c6bank/jobs/4755707005)
+- **Analista de Dados (Pós-vendas)** · Midea Carrier · São Paulo, São Paulo · `nao_informado` — [abrir](https://mideacarrier.gupy.io/job/eyJqb2JJZCI6MTI5MjMyMjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Atendimento ao Cliente para Coleta de Dados - Pirenópolis/GO (200h)** · Montreal | Tecnologia e Inovação · Pirenópolis, Goiás · `nao_informado` — [abrir](https://montreal.gupy.io/job/eyJqb2JJZCI6MTI5MjI0MzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Analista de Dados** · Gradus · São Paulo, São Paulo · `nao_informado` — [abrir](https://gradus.gupy.io/job/eyJqb2JJZCI6MTI5MjEwODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **ANALISTA DE PLANEJAMENTO E DADOS JR - BUSINESS INTELLIGENCE (BI)** · Tupy · Joinville, Santa Catarina · `junior` — [abrir](https://tupy.gupy.io/job/eyJqb2JJZCI6MTI4MTU0NTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **EDITAL DE SELEÇÃO DE PROFESSORES (AS) - ÁREA CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - Vagas Afirmativas para Negros/as- Pretos/as e Pardos/as.** · PUC-SP - Pontifícia Universidade Católica de São Paulo · Sorocaba, São Paulo · `nao_informado` — [abrir](https://pucsp.gupy.io/job/eyJqb2JJZCI6MTI5MTk5NjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Engenheiro(a) de Dados** · Avita · São Paulo, São Paulo · `nao_informado` — [abrir](https://avitaseg.gupy.io/job/eyJqb2JJZCI6MTI5MTk1NzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Assistente Suporte TI - Power BI** · Vivo Vita · São Paulo, São Paulo · `nao_informado` — [abrir](https://vivovita.gupy.io/job/eyJqb2JJZCI6MTI5MjI1NjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Assistente de BI - Sede - Itapema/SC** · Sicredi · Itapema, Santa Catarina · `nao_informado` — [abrir](https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI5MTMzMDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Machine Learning Enginner** · Memed ativo · Remoto · `nao_informado` — [abrir](https://memed.gupy.io/job/eyJqb2JJZCI6MTI5MjE4NjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)

@@ -1,34 +1,53 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-19T18:59:01+00:00",
+  "atualizado_em": "2026-11-20T18:36:48+00:00",
   "fontes": {
    "gupy": {
     "ok": true,
-    "brutas": 705,
+    "brutas": 701,
     "erros": 0
    },
    "greenhouse": {
     "ok": true,
-    "brutas": 950,
+    "brutas": 947,
     "empresas_com_erro": []
    },
    "lever": {
     "ok": true,
-    "brutas": 149,
+    "brutas": 151,
     "empresas_com_erro": []
    }
   },
-  "brutas": 1804,
-  "aceitas_hoje": 73,
-  "novas_hoje": 9,
+  "brutas": 1799,
+  "aceitas_hoje": 65,
+  "novas_hoje": 1,
   "descartes": {
-   "nível acima de júnior": 126,
-   "nível estagio desativado": 6,
-   "não é de dados": 1061,
-   "antiga": 538
+   "nível acima de júnior": 118,
+   "nível estagio desativado": 5,
+   "não é de dados": 1060,
+   "antiga": 551
   }
  },
  "vagas": [
+  {
+   "id": "gupy:12922865",
+   "fonte": "Gupy",
+   "titulo": "Analista de BI",
+   "empresa": "DRUID CREATIVE",
+   "local": "São Paulo, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-19",
+   "link": "https://druid.gupy.io/job/eyJqb2JJZCI6MTI5MjI4NjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Buscamos trabalhar com pessoas que entendam o potencial do mercado de games e que construam conosco o legado que queremos deixar daqui algumas décadas!Precisamos de pessoas práticas, comunicativas, que tragam soluções criativas e inovadoras e que estejam preparadas para enfrentar todos os desafios que encontraremos pelo caminho, pessoas motivadas, colaborativas, com mente aberta capazes de trabalhar de forma dinâmica, ágil e assertiva.A diversidade em nossa equipe também é fundamental para o fortalecimento da nossa cultura! Todas as pessoas que se identificam com alguma diversidade, seja de identidade de gênero, cor/raça, etnia, grupo social, orientação sexual, idade, deficiência, entre outras, podem se aplicar as nossas vagas!Se você é um profissional antenado com o mercado e as suas tendências, se você é altamente comprometido com os resultados e com as entregas das demandas dos nossos clientes internos e externos, venha fazer parte desse time!Responsabilidades e atribuiçõesBuscamos uma pessoa com perfil analítico e experiência em dados de mídia digital para integrar o time de Business Intelligence da Druid.O profissional será responsável por consolidar, analisar e interpretar dados de campanhas de mídia paga e influenciadores, transformando indicadores de performance em relatórios e insights estratégicos para clientes e equipes internas. É essencial ter conhecimento de métricas digitais, plataformas de mídia e livestreaming, com foco no mercado de games e entretenimento.Consolidar, organizar e analisar dados de campanhas de mídia digital e influenciadores, garantindo consistência e qualidade das informações.Monitorar KPIs de mídia, como alcance, impressões, CPM, CPC, CTR, CPV, conversões e demais indicadores de performance.Produzir relatórios e apresentações estratégicas, identificando tendências, oportunidades e recomendações para clientes.Desenvolver análises comparativas entre campanhas, plataformas e formatos, avaliando resultados e eficiência dos investimentos.Analisar a performance de influenciadores e livestreams, considerando métricas de audiência, engajamento, visualizações, espectadores simultâneos e VODs.Requisitos e qualificaçõesGraduação em Publicidade, Marketing, Comunicação, Administração ou áreas correlatas.Experiência em BI, Media Analytics ou análise de performance de campanhas digitais.Conhecimento de métricas e plataformas de mídia paga, como Meta Ads, Google Ads, TikTok Ads e DV360.Familiaridade com métricas de influenciadores e plataformas de livestreaming, como Twitch, Kick e YouTube, incluindo análise de audiência, espectadores simultâneos e VODs.Capacidade analítica, pensamento crítico e habilidade de transformar dados em insights estratégicos.Experiência em agências de publicidade, mídia ou marketing de influência.Inglês avançado.DiferenciaisConhecimento em construção de dashboards utilizando Google Data Studio ou Power BI.Familiaridade com ferramentas de análise de influenciadores, como Sprout Social e Emplifi.Conhecimento do mercado de games, tecnologia e entretenimento.Informações adicionaisRegime híbrido.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-20T18:36:48+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
+   "ativa": true
+  },
   {
    "id": "gupy:12923220",
    "fonte": "Gupy",
@@ -45,7 +64,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -64,7 +83,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -83,7 +102,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -102,7 +121,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -121,7 +140,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -140,7 +159,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -159,7 +178,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -178,7 +197,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -197,7 +216,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -216,7 +235,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -235,7 +254,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -254,7 +273,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -273,7 +292,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -292,7 +311,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -311,7 +330,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -330,7 +349,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -349,7 +368,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -368,7 +387,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -387,7 +406,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -425,7 +444,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -444,7 +463,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -463,7 +482,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -501,7 +520,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -520,7 +539,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -539,7 +558,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -558,7 +577,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -577,7 +596,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -596,7 +615,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -615,7 +634,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-14T16:36:30+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -653,7 +672,7 @@
    "nivel": "junior",
    "motivo_nivel": "pede só 2 ano(s) de experiência",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -672,7 +691,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -710,7 +729,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -729,7 +748,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -748,7 +767,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -767,7 +786,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -786,7 +805,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -805,7 +824,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -824,7 +843,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -881,7 +900,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -900,7 +919,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -919,7 +938,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -957,7 +976,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -976,7 +995,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -995,7 +1014,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1033,7 +1052,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1052,7 +1071,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1071,7 +1090,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1090,7 +1109,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1109,7 +1128,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1128,7 +1147,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1147,7 +1166,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1166,7 +1185,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1185,7 +1204,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1204,7 +1223,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1223,7 +1242,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1261,7 +1280,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-10T17:49:44+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1280,7 +1299,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-10T17:49:44+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1318,7 +1337,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1337,7 +1356,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1356,7 +1375,7 @@
    "nivel": "trainee",
    "motivo_nivel": "título/contrato de trainee ou aprendiz",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1413,7 +1432,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1432,7 +1451,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1451,7 +1470,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-07T16:26:35+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1489,7 +1508,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
-   "ultima_vez": "2026-11-19T18:59:01+00:00",
+   "ultima_vez": "2026-11-20T18:36:48+00:00",
    "ativa": true
   },
   {
@@ -1547,7 +1566,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
    "ultima_vez": "2026-11-19T18:59:01+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12844174",
@@ -1566,7 +1585,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-06T17:29:18+00:00",
    "ultima_vez": "2026-11-19T18:59:01+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12842141",
@@ -1604,7 +1623,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
    "ultima_vez": "2026-11-19T18:59:01+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12841057",
@@ -1623,7 +1642,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
    "ultima_vez": "2026-11-19T18:59:01+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12840930",
@@ -1642,7 +1661,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
    "ultima_vez": "2026-11-19T18:59:01+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12805588",
@@ -1661,7 +1680,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
    "ultima_vez": "2026-11-19T18:59:01+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12719758",
@@ -1680,7 +1699,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
    "ultima_vez": "2026-11-19T18:59:01+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12841759",
@@ -1699,7 +1718,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
    "ultima_vez": "2026-11-19T18:59:01+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12774159",
@@ -1718,7 +1737,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-05T18:00:43+00:00",
    "ultima_vez": "2026-11-19T18:59:01+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "lever:ciandt:54dbb05f-9eae-4747-be01-063fa06e4aa8",

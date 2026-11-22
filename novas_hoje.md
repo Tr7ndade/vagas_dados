@@ -1,2 +1,2 @@
-# 0 vagas novas — 2026-11-21
+# 0 vagas novas — 2026-11-22
 

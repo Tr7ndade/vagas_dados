@@ -1,34 +1,148 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-22T17:49:59+00:00",
+  "atualizado_em": "2026-11-23T22:02:35+00:00",
   "fontes": {
    "gupy": {
     "ok": true,
-    "brutas": 684,
+    "brutas": 687,
     "erros": 0
    },
    "greenhouse": {
     "ok": true,
-    "brutas": 948,
+    "brutas": 942,
     "empresas_com_erro": []
    },
    "lever": {
     "ok": true,
-    "brutas": 151,
+    "brutas": 155,
     "empresas_com_erro": []
    }
   },
-  "brutas": 1783,
-  "aceitas_hoje": 61,
-  "novas_hoje": 0,
+  "brutas": 1784,
+  "aceitas_hoje": 65,
+  "novas_hoje": 6,
   "descartes": {
-   "nível acima de júnior": 101,
-   "nível estagio desativado": 4,
-   "não é de dados": 1061,
-   "antiga": 556
+   "nível acima de júnior": 109,
+   "nível estagio desativado": 7,
+   "não é de dados": 1053,
+   "antiga": 550
   }
  },
  "vagas": [
+  {
+   "id": "gupy:12930910",
+   "fonte": "Gupy",
+   "titulo": "Cientista de Dados",
+   "empresa": "Ipiranga",
+   "local": "Remoto",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-23",
+   "link": "https://ipiranga.gupy.io/job/eyJqb2JJZCI6MTI5MzA5MTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Já pensou em trabalhar na Ipiranga?\nNa Ipiranga acreditamos que pessoas\ncom brilho nos olhos, autênticas e engajadas são nosso diferencial competitivo!\nAtuamos com paixão e propósito, colocando o cliente no centro das nossas\ndecisões. Valorizamos a autonomia, a abertura e a transparência, pois temos\ncerto de que a verdade e o respeito fortalecem relações e geram confiança.\nProporcionamos para nosso time um ambiente flexível, de colaboração e bem-estar\npara plena realização pessoal e profissional. Nosso propósito é “Abastecer a\nvida em movimento”.\nConheça mais sobre a gente:https://portal.ipiranga/wps/portal/ipiranga/a-ipiranga/institucional/carreiras/\nLeia nosso relatório de ESG:https://portal.ipiranga/wps/portal/ipiranga/a-ipiranga/institucional/sustentabilidade\nO que a gente espera de você?\n· \nTemos\nfoco no cliente e integridade é nossa vantagem competitiva #OClienteéaRazão\n· \nConversas\ndifíceis fortalecem nossas relações #SuaVozTemValor\n· \nAutonomia,\nresponsabilidade e inconformismo são essenciais #DeixaComigo\n· \nProcessos\ne Disciplina mudam o nosso resultado #EficiênciaMudaOJogo\n· \nSomos\nseguros, plurais, colaborativos e leves #SomosIpirangaResponsabilidades e atribuições\nMissão:\nAtuar\nna criação e evolução de modelos de dados e soluções analíticas avançadas que\napoiem a tomada de decisão e gerem valor para o negócio. Ser protagonista na\ndisseminação da cultura data driven, promovendo o uso estratégico de dados,\nanálises e modelos estatísticos em toda a empresa.\nAtividade:\nDesenvolver modelos preditivos e analíticos\nutilizando técnicas de Machine Learning, Deep Learning e modelagem estatística.Estruturar, validar e otimizar bases de dados\npara suportar análises e modelos avançados.Transformar dados em insights acionáveis para\napoiar decisões estratégicas e operacionais.Acompanhar a performance dos modelos, garantindo\nsua acurácia, escalabilidade e evolução contínua.Identificar oportunidades de aplicação de\ninteligência artificial e analytics para ganho de eficiência e resultados.Atuar em parceria com áreas de negócio para\nentender desafios e traduzir necessidades em soluções baseadas em dados.Promover boas práticas de análise de dados e\natuar como referência técnica no tema dentro da organização.Produzir estudos, relatórios e recomendações que\ncontribuam para a geração de valor e melhoria dos resultados da companhia.\nRequisitos e qualificações\nPré-requisitos:\nEnsino superior completo em Estatística, Matemática, Física, Engenharias, Ciência da Computação ou áreas correlatas.Sólida experiência atuando como Cientista de Dados, Engenheiro de Machine\nLearning ou em funções correlatas.Domínio\nde Python e das principais bibliotecas de análise e manipulação de dados, como\nPandas, NumPy, SciPy, Scikit-learn e Matplotlib.Experiência com processamento distribuído de dados em larga escala utilizando Spark/PySpark, preferencialmente em ambiente Databricks, incluindo ferramentas de governança de dados, como Unity Catalog.Experiência\ncom Git para versionamento de código e desenvolvimento colaborativo.Vivência\ncom ambientes de nuvem, como Azure, AWS ou Google Cloud Platform.Conhecimento\nem estatística descritiva e fundamentos dos principais algoritmos de Machine\nLearning e Inteligência Artificial.Capacidade\nde compreender desafios de negócio e traduzi-los em soluções analíticas e\nmodelos de dados.Habilidade\npara resolver problemas complexos de forma pragmática, estruturada e orientada\na resultados.Atenção\naos detalhes, garantindo a qualidade e consistência dos dados, análises e\nentregáveis.Perfil\ncolaborativo, com boa comunicação e capacidade de influenciar diferentes\npúblicos.Capacidade\nde orientar profissionais menos experientes, compartilhando conhecimento e boas\npráticas.\nInformações adicionaisO que a gente te oferece?🕗 Horário flexível💙 Auxílio filho com deficiência💰 Programa de Remuneração Variável🏦 Previdência Privada💸 Adicional por tempo de serviço🧘🏻‍♀️ Terapia Online & Orientação Nutricional👶🏻 Cesta natalidade 📚 Universidade corporativa👓 Reembolso Óculos e Lentes de Contato💊 Auxílio de Medicamentos💉 Auxílio de Vacinas 🏭 Benefícios de mercado: Gympass, VR/VA, VT, Plano de Saúde e Odontológico, Seguro de vida.E aí, topa o desafio?Então se candidata nessa vaga e não deixa essa oportunidade para depois!Acreditamos que a diversidade favorece o ambiente inovador! Estamos de portas abertas para pessoas com desejo de transformação pelo trabalho e dispostas a contribuir para o crescimento e evolução da empresa.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12925225",
+   "fonte": "Gupy",
+   "titulo": "PROFESSOR ASSISTENTE I – CIÊNCIAS DE DADOS E INTELIGÊNCIA ARTIFICAL – IBMEC BARRA DA TIJUCA",
+   "empresa": "Ibmec",
+   "local": "Rio de Janeiro, Rio de Janeiro",
+   "uf": "RJ",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "Docente",
+   "publicada_em": "2026-11-23",
+   "link": "https://ibmec.gupy.io/job/eyJqb2JJZCI6MTI5MjUyMjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "AQUI SUA CARREIRA COMEÇA GRANDE.VENHA SER UMA PROFESSOR ASSISTENTE I NO IBMEC.Temos um projeto grandioso e que requer um time com disposição para pensar de forma original, disruptiva, e com objetivo de resolver as grandes questões de hoje na educação: acesso, tecnologia, customização e o sucesso dos nossos alunos.Somos uma companhia cheia de energia, que já nasceu gigante e com resultados extraordinários.Venha fazer parte desse time!VENHA TRANSFORMAR VIDAS. INCLUSIVE A SUA.\nResponsabilidades e atribuições\nOs principais desafios Professor Assistente I são:Atuar como agente principal de efetivação da proposta pedagógica de nossas Instituições de Ensino, facilitando o processo de aprendizagem e cumprindo todo o programa da disciplina, o número de aulas previsto, despertando o interesse permanente dos alunos para o estudo, a reflexão e a busca de novos conhecimentos;Fazer uso devido do material didático disponível, bem como deve estimular uso do material bibliográfico da disciplina, através da consulta a livros e periódicos existentes na biblioteca, contribuindo para um aprendizado crítico e reflexivo;Cumprir os prazos estabelecidos no calendário acadêmico, bem como com as demandas solicitadas por seu respectivo coordenador de curso;Registrar, por meio de caderneta eletrônica, a frequência, o conteúdo das aulas, os resultados das atividades acadêmicas dos alunos e demais informações referentes aos componentes curriculares em prazo definido no calendário acadêmico;Contribuir para a realização de ações preparatórias para o ENADE;Orientar os alunos nos trabalhos de conclusão de curso;Utilizar metodologias ativas e sala de aula invertida para ministrar as aulas.Requisitos e qualificações\nBuscamos profissionais com:Titulação: MESTRADO;Mandatório Bacharelado/Especialização: CIÊNCIAS DE DADOS E INTELIGÊNCIA ARTIFICAL;\nCapacidade de comunicação, relacionamento com o aluno, adaptação e flexibilidade;Atualização e domínio de conhecimentos teóricos e práticos referentes ao tema;Domínio da ferramenta Microsoft Teams;É indispensável que o candidato tenha currículo Lattes atualizado, este é um dos critérios de eliminação.Observação: A sua alocação preferencial será na unidade que você será contratado e sua disponibilidade de horas deverá se manter nessa unidade.\nInformações adicionais\n🎓Acreditamos na excelência do nosso ensino e, por isso, valorizamos os egressos das nossas instituições em nossos processos seletivos.🔵 Compromisso com a inclusão: todas as nossas vagas também são destinadas a pessoas com deficiência, reforçando o quanto valorizamos a diversidadeDIVERSIDADE: Valorizamos a diversidade e as informações adicionais prestadas nos campos de diversidade são muito importantes para nós, por isso pedimos para que não deixe de responder.",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12916489",
+   "fonte": "Gupy",
+   "titulo": "Engenheiro de Dados JR",
+   "empresa": "Grupo SysMap",
+   "local": "Remoto",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-23",
+   "link": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI5MTY0ODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Você é apaixonado(a) por tecnologia e inovação?💡 No Grupo SysMap – que reúne SysMapSolutions, TriggoLabs e triggo.ai – acreditamos que grandes resultados nascem de pessoas incríveis.Somos uma empresa brasileira de tecnologia que, desde 1999, ajuda organizações a superar desafios complexos e acelerar sua transformação digital. Nossa atuação abrange diversos segmentos, como Telecom, Varejo, Educação, Financeiro, Indústria/Cosméticos e Energia, sempre com foco em soluções inovadoras e de alto impacto. 👉 Candidate-se agora e construa o futuro da tecnologia conosco!Responsabilidades e atribuiçõesProjetar, desenvolver e manter pipelines de ingestão e processamento de dados;Estruturar processos de ETL/ELT;Integrar dados provenientes de múltiplas fontes internas e externas;Garantir a qualidade, a integridade, a segurança e a governança dos dados;Otimizar a performance de bases e fluxos de dados;Documentar arquiteturas e processos;Apoiar as áreas de BI, Analytics e Ciência de Dados;Atuar na resolução de incidentes relacionados a dados;Propor melhorias na arquitetura de dados.Requisitos e qualificaçõesFormação em TI ou Engenharia;Experiência com bancos de dados relacionais e não relacionais;Conhecimento em arquitetura de dados;Programação para processamento de dados;Visão analítica e sistêmica;Organização e documentação técnica.",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ativa": true
+  },
+  {
+   "id": "lever:ciandt:dc14d9a8-cb4b-4028-8544-dc8daa3f5f7c",
+   "fonte": "Lever",
+   "titulo": "[Job-32755] Data Strategist, Brazil",
+   "empresa": "CI&T",
+   "local": "Brazil",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "Homeoffice",
+   "publicada_em": "2026-11-23",
+   "link": "https://jobs.lever.co/ciandt/dc14d9a8-cb4b-4028-8544-dc8daa3f5f7c",
+   "descricao": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data & AI, Martech and Business strategy.\nWe are 8,000 CI&Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.\n",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12922204",
+   "fonte": "Gupy",
+   "titulo": "Desenvolvedor de IA - Power BI",
+   "empresa": "Página de carreira confidencial",
+   "local": "Cabreúva, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-19",
+   "link": "https://paginaconfidencialoficial.gupy.io/job/eyJqb2JJZCI6MTI5MjIyMDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Somos uma das maiores produtoras, transformadoras e recicladoras de plástico. Investimos em inovação sustentável e oferecemos a diversas indústrias soluções em embalagens plásticas completas e inovadoras, além de compostos, resinas recicladas, masterbatches e máquinas, produzidos com as melhores matérias-primas e equipamentos do mercado.Nosso propósito é elevar a qualidade de vida por meio do desenvolvimento de soluções inovadoras e sustentáveis em embalagens, otimizando recursos e apoiando a economia circular para os plásticos.Se você se identifica com a nossa Empresa, venha ser VALGROUP, juntos vamos muito mais longe!#vemtransformaroplasticocomagente\nResponsabilidades e atribuições\nExperiência comprovada como Desenvolvedor de IA. \nRequisitos e qualificaçõesSuperior completo;Desejável Pós Graduação;Horário administrativo;Residir em Cabreúva, Itu ou Salto. \nInformações adicionais\nCesta básica e limpeza, refeição no local, convênio farmácia (Golden Farma), seguro de vida, plano de saúde nacional (Sul América), plano de odontológico nacional (Sul América), Gympass pelo plano de saúde, vale transporte ou fretado, estacionamento no local e programa de participação nos resultados (PPR).",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ativa": true
+  },
+  {
+   "id": "lever:ciandt:e7de1475-a9a0-4cb1-86d0-6bf3bf0914a7",
+   "fonte": "Lever",
+   "titulo": "[Job-32776] Master Geospatial Data Scientist, Brazil",
+   "empresa": "CI&T",
+   "local": "Brazil",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "",
+   "publicada_em": "2026-11-19",
+   "link": "https://jobs.lever.co/ciandt/e7de1475-a9a0-4cb1-86d0-6bf3bf0914a7",
+   "descricao": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data & AI, Martech and Business strategy.\nWe are 8,000 CI&Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.\n\n\nWe're looking for a Senior Data Scientist who combines strong analytical and technical expertise with experience in geospatial data. The ideal candidate is comfortable working independently, leveraging GCP technologies, and delivering impactful insights and models that drive business outcomes.\nRequired qualifications\n* Proven experience as a Data Scientist working on complex analytical and machine learning projects.\n* Strong experience with geospatial analytics and location-based datasets.\n* Hands-on experience with Google Cloud Platform (GCP).\n* Advanced programming skills in Python and R.\n* Strong experience querying and analyzing large datasets using BigQuery.\n* Solid understanding of statistics, predictive modeling, and machine learning techniques.\n* Experience translating business problems into actionable data science solutions.\n* Strong communication and stakeholder management skills.\n* Dataform.\n* Carto.\n* Advanced or Fluent english level.\nNice to have\n* Experience with GIS tools and spatial analysis frameworks.\n* Knowledge of MLOps and model deployment practices.\n* Experience working with cloud-native data science environments.\n* Familiarity with data visualization and dashboarding tools.\n",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ativa": true
+  },
   {
    "id": "gupy:12922865",
    "fonte": "Gupy",
@@ -45,7 +159,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-20T18:36:48+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -64,7 +178,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -83,7 +197,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -102,7 +216,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -121,7 +235,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -140,7 +254,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -159,7 +273,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -178,7 +292,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -197,7 +311,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -216,7 +330,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -235,7 +349,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -254,7 +368,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -273,7 +387,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -292,7 +406,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -311,7 +425,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -330,7 +444,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -349,7 +463,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -368,7 +482,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -387,7 +501,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -406,7 +520,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -444,7 +558,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -463,7 +577,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -482,7 +596,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -521,7 +635,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
    "ultima_vez": "2026-11-22T17:49:59+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12899511",
@@ -539,7 +653,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -558,7 +672,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -577,7 +691,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -596,7 +710,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -615,7 +729,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -634,7 +748,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-14T16:36:30+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -672,7 +786,7 @@
    "nivel": "junior",
    "motivo_nivel": "pede só 2 ano(s) de experiência",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -687,11 +801,11 @@
    "contrato": "CLT",
    "publicada_em": "2026-11-13",
    "link": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI3MzA2NDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
-   "descricao": "Na Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia. Se você é movido pela paixão em criar soluções tecnológicas disruptivas, se busca constantemente desafios que ampliem os limites do possível e se acredita que colocar o cliente em primeiro lugar é a chave para o sucesso, então você está no lugar certo.Queremos pessoas que se destaquem, que pensem fora da caixa e estejam dispostas a desbravar novos horizontes. Aqui, cada ideia é valorizada, cada pergunta é incentivada e cada desafio é encarado como uma oportunidade de aprendizado e crescimento.Junte-se a nós e faça parte de uma cultura vibrante, onde a inovação é alimentada pela curiosidade incessante e onde o respeito pelo cliente permeia todas as nossas ações. Aqui, você terá a liberdade de explorar suas habilidades, colaborar com mentes brilhantes e transformar o futuro da tecnologia.Se você está pronto para fazer parte de uma empresa que acredita que o talento é a chave para o sucesso, envie seu currículo e junte-se à nossa equipe.Estamos ansiosos para conhecer você e impulsionar juntos a próxima geração de soluções tecnológicas.Venha ser um Hit!Responsabilidades e atribuiçõesProjetar modelos de dados nos níveis conceitual, lógico e físico;Acompanhar e orientar equipes durante as atividades de modelagem de dados;Avaliar modelos de dados produzidos pelas equipes de desenvolvimento;Apoiar a identificação e utilização de informações corporativas e compartilhadas;Disseminar os conceitos das entidades representadas nos modelos de dados;Manter atualizados os repositórios de modelos de dados e metadados;Propor melhorias e mudanças na arquitetura corporativa de dados;Realizar análises de impacto das alterações propostas nos modelos de dados corporativos e compartilhados;Elaborar relatórios técnicos e pareceres sobre a utilização de metadados nos níveis conceitual e lógico;Apoiar atividades relacionadas à qualidade de dados e gestão de dados mestres e de referência;Contribuir para a elaboração de vocabulários e glossários corporativos de dados, metodologias de gestão e governança de dados e demais documentos relacionados à gestão de dados.\nRequisitos e qualificaçõesGraduação completa em curso de nível superior na área de Tecnologia;Pós-graduação completa; OU possuir, no mínimo, 6 certificações profissionais na área de atuação e/ou em processos ágeis, emitidas por entidade certificadora reconhecida;Experiência profissional comprovada em atividades relacionadas à especialidade técnica de atuação;Experiência prática em modelagem de dados conceitual, lógica e física;Experiência com Oracle e PostgreSQL;Experiência com arquitetura corporativa de dados e gestão de metadados;Experiência prática em análise de impacto e avaliação de modelos de dados;Experiência com qualidade de dados, gestão de dados mestres e dados de referência;Experiência com gestão e governança de dados.\nInformações adicionaisQuer conhecer todas as nossas vagas? Acesse a nossa página:Hitss - Trabalhe Conoscohttps://globalhitss.gupy.io/https://www.hitss.com/br/https://www.hitss.com/politicas/Importante: Todas as nossas vagas são elegíveis para profissionais com deficiência, equidade de gênero e raça/ etnia.",
+   "descricao": "Na Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia. Se você é movido pela paixão em criar soluções tecnológicas disruptivas, se busca constantemente desafios que ampliem os limites do possível e se acredita que colocar o cliente em primeiro lugar é a chave para o sucesso, então você está no lugar certo.Queremos pessoas que se destaquem, que pensem fora da caixa e estejam dispostas a desbravar novos horizontes. Aqui, cada ideia é valorizada, cada pergunta é incentivada e cada desafio é encarado como uma oportunidade de aprendizado e crescimento.Junte-se a nós e faça parte de uma cultura vibrante, onde a inovação é alimentada pela curiosidade incessante e onde o respeito pelo cliente permeia todas as nossas ações. Aqui, você terá a liberdade de explorar suas habilidades, colaborar com mentes brilhantes e transformar o futuro da tecnologia.Se você está pronto para fazer parte de uma empresa que acredita que o talento é a chave para o sucesso, envie seu currículo e junte-se à nossa equipe.Estamos ansiosos para conhecer você e impulsionar juntos a próxima geração de soluções tecnológicas.Venha ser um Hit!Responsabilidades e atribuiçõesProjetar modelos de dados nos níveis conceitual, lógico e físico;Acompanhar e orientar equipes durante as atividades de modelagem de dados;Avaliar modelos de dados produzidos pelas equipes de desenvolvimento;Apoiar a identificação e utilização de informações corporativas e compartilhadas;Disseminar os conceitos das entidades representadas nos modelos de dados;Manter atualizados os repositórios de modelos de dados e metadados;Propor melhorias e mudanças na arquitetura corporativa de dados;Realizar análises de impacto das alterações propostas nos modelos de dados corporativos e compartilhados;Elaborar relatórios técnicos e pareceres sobre a utilização de metadados nos níveis conceitual e lógico;Apoiar atividades relacionadas à qualidade de dados e gestão de dados mestres e de referência;Contribuir para a elaboração de vocabulários e glossários corporativos de dados, metodologias de gestão e governança de dados e demais documentos relacionados à gestão de dados.\nRequisitos e qualificaçõesGraduação completa em curso de nível superior na área de Tecnologia;Pós-graduação completa oupossuir, no mínimo, 6 certificações profissionais na área de atuação e/ou em processos ágeis, emitidas por entidade certificadora reconhecida(;Experiência profissional comprovada em atividades relacionadas à especialidade técnica de atuação;Experiência prática em modelagem de dados conceitual, lógica e física;Experiência com Oracle e PostgreSQL;Experiência com arquitetura corporativa de dados e gestão de metadados;Experiência prática em análise de impacto e avaliação de modelos de dados;Experiência com qualidade de dados, gestão de dados mestres e dados de referência;Experiência com gestão e governança de dados.\nInformações adicionaisQuer conhecer todas as nossas vagas? Acesse a nossa página:Hitss - Trabalhe Conoscohttps://globalhitss.gupy.io/https://www.hitss.com/br/https://www.hitss.com/politicas/Importante: Todas as nossas vagas são elegíveis para profissionais com deficiência, equidade de gênero e raça/ etnia.",
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -729,7 +843,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -748,7 +862,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -767,7 +881,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -786,7 +900,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -805,7 +919,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -824,7 +938,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -843,7 +957,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -900,7 +1014,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -919,7 +1033,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -938,7 +1052,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -976,7 +1090,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -995,7 +1109,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1014,7 +1128,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1052,7 +1166,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1071,7 +1185,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1090,7 +1204,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1109,7 +1223,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1124,11 +1238,11 @@
    "contrato": "CLT",
    "publicada_em": "2026-11-11",
    "link": "https://rodoil.gupy.io/job/eyJqb2JJZCI6MTI4NzA2MDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
-   "descricao": "Estamos em busca de um(a) Analista de Inteligência de Mercado para atuar na Célula de Inteligência Competitiva (CIC). Este(a) profissional será responsável por transformar dados em informações estratégicas, apoiando a definição de preços, o monitoramento do mercado e a análise de tendências que contribuam para a tomada de decisões do negócio.Buscamos alguém com perfil analítico, colaborativo, que goste de trabalhar com dados e tenha facilidade em se comunicar com diferentes áreas da empresa. Responsabilidades e atribuiçõesManter, atualizar e disponibilizar dados e indicadores por meio de dashboards e painéis gerenciais.Consolidar e analisar informações provenientes de diferentes fontes internas e externas, transformando dados em insights para apoiar decisões estratégicas.Estruturar variáveis e indicadores para composição dos painéis da Inteligência Competitiva.Realizar análises de preços, custos e movimentos de mercado, elaborando cotações diárias e semanais para suporte à equipe comercial.Monitorar concorrentes, tendências de mercado e movimentações dos principais players do segmento.Desenvolver estudos de precificação, margem de contribuição, rentabilidade e comportamento do mercado spot.Analisar a carteira comercial, identificando oportunidades de segmentação, crescimento e melhoria de resultados.Elaborar relatórios gerenciais, estudos e apresentações para apoiar a tomada de decisão.Atuar em parceria com as áreas Comercial e demais setores da empresa, fornecendo suporte analítico para negociações e estratégias de mercado.Propor melhorias em processos, indicadores e ferramentas de análise de dados.Requisitos e qualificaçõesEnsino superior completo em Administração, Economia, Engenharia, Estatística ou áreas correlatas;Experiência prévia em análise de dados, inteligência de mercado, business intelligence (BI) ou áreas relacionadas;Domínio do Excel e conhecimento em ferramentas de visualização de dados, como Power BI ou Tableau;Capacidade de interpretar, correlacionar e transformar dados estratégicos em insights relevantes para o negócio;Boa comunicação, perfil analítico, pro atividade e organização.Para candidatos(as) internos(as): Estar há, no mínimo, 6 meses na RodOil Comunicar a liderança direta sobre a candidaturaInformações adicionaisBenefícios que fazem a diferença!🏥 Assistência Médica e Hospitalar - Plano de saúde com ampla cobertura, com 50% da mensalidade subsidiada pela empresa.🦷 Convênio Odontológico - Plano odontológico com cobertura nacional e opção de inclusão de dependentes.🍴 Vale Refeição - Crédito mensal proporcional aos dias úteis trabalhados, com desconto simbólico de apenas 10% em folha.🛒 Vale Alimentação - Crédito mensal para compra de alimentos, mantido inclusive durante férias e licenças.🚗 Vale Mobilidade - Crédito mensal para transporte e/ou deslocamento, podendo ser utilizado com combustível, aplicativos de mobilidade ou passagens.💙 Seguro de Vida - Seguro com coberturas amplas (morte, invalidez, acidentes e auxílio funeral), 100% custeado pela RodOil.👶 Licenças Parentais Estendidas - 180 dias de licença-maternidade e 20 dias de licença-paternidade, conforme a Lei nº 11.770.🎭 Parceria SESC - Descontos em cultura, esporte, lazer, turismo e serviços odontológicos, extensivos aos dependentes.👶 Auxílio Creche - Reembolso de despesas com creche ou cuidador infantil, mediante solicitação ao RH.👨‍👩‍👧 Salário-Família - Benefício legal concedido conforme faixa salarial e documentação vigente.🌹 Auxílio Funeral - Benefício concedido em caso de falecimento do colaborador ou de seus dependentes legais.⏳ Adicional por Tempo de Serviço - Reconhecimento pela dedicação e permanência na empresa, conforme critérios da convenção coletiva.🎓 Universidade Corporativa - Plataforma de aprendizagem online com cursos, trilhas de desenvolvimento e conteúdos atualizados, 100% custeada pela RodOil, apoiando o crescimento profissional e o aprendizado contínuo.🚑 Convênio Resgate Sul - Assistência emergencial com mensalidade 100% custeada pela empresa para o colaborador.☕ Cozinha Equipada - Espaços com geladeiras e micro-ondas, proporcionando mais conforto nas refeições.🍽️ Convênios e Parcerias - Convênios com restaurantes, além de instituições de ensino e academias e muito mais.🏪 Loja de Conveniência na Sede (TriShop) - Mais praticidade para o dia a dia, com acesso facilitado a produtos essenciais.🧉 Chimarrão - Erva-mate e máquina de água quente à disposição dos colaboradores.☕ Máquina de Café Nestlé - Mais de 10 opções de bebidas, disponíveis a custo simbólico para o colaborador.Todas as nossas vagas também estão abertas para colaboradores(as) da RodOil. Se você já faz parte do nosso time e se identifica com essa oportunidade, candidate-se até o dia 20/11/2026.Valorizamos o protagonismo interno e incentivamos o desenvolvimento das nossas pessoas. Gente é a nossa energia!",
+   "descricao": "Estamos em busca de um(a) Analista de Inteligência de Mercado para atuar na Célula de Inteligência Competitiva (CIC). Este(a) profissional será responsável por transformar dados em informações estratégicas, apoiando a definição de preços, o monitoramento do mercado e a análise de tendências que contribuam para a tomada de decisões do negócio.Buscamos alguém com perfil analítico, colaborativo, que goste de trabalhar com dados e tenha facilidade em se comunicar com diferentes áreas da empresa. \nSe você quer ser protagonista da sua carreira, fazer parte de um time colaborativo e crescer em um ambiente onde gente é a nossa energia, a RodOil pode ser o seu lugar!\nResponsabilidades e atribuiçõesManter, atualizar e disponibilizar dados e indicadores por meio de dashboards e painéis gerenciais.Consolidar e analisar informações provenientes de diferentes fontes internas e externas, transformando dados em insights para apoiar decisões estratégicas.Estruturar variáveis e indicadores para composição dos painéis da Inteligência Competitiva.Realizar análises de preços, custos e movimentos de mercado, elaborando cotações diárias e semanais para suporte à equipe comercial.Monitorar concorrentes, tendências de mercado e movimentações dos principais players do segmento.Desenvolver estudos de precificação, margem de contribuição, rentabilidade e comportamento do mercado spot.Analisar a carteira comercial, identificando oportunidades de segmentação, crescimento e melhoria de resultados.Elaborar relatórios gerenciais, estudos e apresentações para apoiar a tomada de decisão.Atuar em parceria com as áreas Comercial e demais setores da empresa, fornecendo suporte analítico para negociações e estratégias de mercado.Propor melhorias em processos, indicadores e ferramentas de análise de dados.Requisitos e qualificaçõesEnsino superior completo em Administração, Economia, Engenharia, Estatística ou áreas correlatas;Experiência prévia em análise de dados, inteligência de mercado, business intelligence (BI) ou áreas relacionadas;Domínio do Excel e conhecimento em ferramentas de visualização de dados, como Power BI ou Tableau;Capacidade de interpretar, correlacionar e transformar dados estratégicos em insights relevantes para o negócio;Boa comunicação, perfil analítico, pro atividade e organização.Para candidatos(as) internos(as): Estar há, no mínimo, 6 meses na RodOil Comunicar a liderança direta sobre a candidaturaInformações adicionaisBenefícios que fazem a diferença!🏥 Assistência Médica e Hospitalar - Plano de saúde com ampla cobertura, com 50% da mensalidade subsidiada pela empresa.🦷 Convênio Odontológico - Plano odontológico com cobertura nacional e opção de inclusão de dependentes.🍴 Vale Refeição - Crédito mensal proporcional aos dias úteis trabalhados, com desconto simbólico de apenas 10% em folha.🛒 Vale Alimentação - Crédito mensal para compra de alimentos, mantido inclusive durante férias e licenças.🚗 Vale Mobilidade - Crédito mensal para transporte e/ou deslocamento, podendo ser utilizado com combustível, aplicativos de mobilidade ou passagens.💙 Seguro de Vida - Seguro com coberturas amplas (morte, invalidez, acidentes e auxílio funeral), 100% custeado pela RodOil.👶 Licenças Parentais Estendidas - 180 dias de licença-maternidade e 20 dias de licença-paternidade, conforme a Lei nº 11.770.🎭 Parceria SESC - Descontos em cultura, esporte, lazer, turismo e serviços odontológicos, extensivos aos dependentes.👶 Auxílio Creche - Reembolso de despesas com creche ou cuidador infantil, mediante solicitação ao RH.👨‍👩‍👧 Salário-Família - Benefício legal concedido conforme faixa salarial e documentação vigente.🌹 Auxílio Funeral - Benefício concedido em caso de falecimento do colaborador ou de seus dependentes legais.⏳ Adicional por Tempo de Serviço - Reconhecimento pela dedicação e permanência na empresa, conforme critérios da convenção coletiva.🎓 Universidade Corporativa - Plataforma de aprendizagem online com cursos, trilhas de desenvolvimento e conteúdos atualizados, 100% custeada pela RodOil, apoiando o crescimento profissional e o aprendizado contínuo.🚑 Convênio Resgate Sul - Assistência emergencial com mensalidade 100% custeada pela empresa para o colaborador.☕ Cozinha Equipada - Espaços com geladeiras e micro-ondas, proporcionando mais conforto nas refeições.🍽️ Convênios e Parcerias - Convênios com restaurantes, além de instituições de ensino e academias e muito mais.🏪 Loja de Conveniência na Sede (TriShop) - Mais praticidade para o dia a dia, com acesso facilitado a produtos essenciais.🧉 Chimarrão - Erva-mate e máquina de água quente à disposição dos colaboradores.☕ Máquina de Café Nestlé - Mais de 10 opções de bebidas, disponíveis a custo simbólico para o colaborador.Todas as nossas vagas também estão abertas para colaboradores(as) da RodOil. Se você já faz parte do nosso time e se identifica com essa oportunidade, candidate-se até o dia 20/11/2026.Valorizamos o protagonismo interno e incentivamos o desenvolvimento das nossas pessoas",
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1148,7 +1262,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
    "ultima_vez": "2026-11-22T17:49:59+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12868715",
@@ -1166,7 +1280,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1185,7 +1299,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1204,7 +1318,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1223,7 +1337,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1242,7 +1356,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1280,7 +1394,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-10T17:49:44+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1299,7 +1413,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-10T17:49:44+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1337,7 +1451,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1356,7 +1470,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {
@@ -1375,7 +1489,7 @@
    "nivel": "trainee",
    "motivo_nivel": "título/contrato de trainee ou aprendiz",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
-   "ultima_vez": "2026-11-22T17:49:59+00:00",
+   "ultima_vez": "2026-11-23T22:02:35+00:00",
    "ativa": true
   },
   {

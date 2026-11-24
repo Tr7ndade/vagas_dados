@@ -1,34 +1,110 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-23T22:02:35+00:00",
+  "atualizado_em": "2026-11-24T20:39:39+00:00",
   "fontes": {
    "gupy": {
     "ok": true,
-    "brutas": 687,
+    "brutas": 677,
     "erros": 0
    },
    "greenhouse": {
     "ok": true,
-    "brutas": 942,
+    "brutas": 931,
     "empresas_com_erro": []
    },
    "lever": {
     "ok": true,
-    "brutas": 155,
+    "brutas": 147,
     "empresas_com_erro": []
    }
   },
-  "brutas": 1784,
-  "aceitas_hoje": 65,
-  "novas_hoje": 6,
+  "brutas": 1755,
+  "aceitas_hoje": 63,
+  "novas_hoje": 4,
   "descartes": {
-   "nível acima de júnior": 109,
-   "nível estagio desativado": 7,
-   "não é de dados": 1053,
-   "antiga": 550
+   "nível acima de júnior": 106,
+   "nível estagio desativado": 8,
+   "antiga": 549,
+   "não é de dados": 1029
   }
  },
  "vagas": [
+  {
+   "id": "gupy:12936898",
+   "fonte": "Gupy",
+   "titulo": "Atendimento ao Cliente para Coleta de Dados - Catalão/GO (220h)",
+   "empresa": "Montreal | Tecnologia e Inovação",
+   "local": "Catalão, Goiás",
+   "uf": "GO",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-24",
+   "link": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI5MzY4OTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Como Atendimento ao Cliente para Coleta de Dados alocado através da Montreal, você fará parte de uma das melhores empresas de tecnologia para se trabalhar no Brasil!Em 1986, nossa trajetória iniciou com pessoas visionárias que assumiram um compromisso com a tecnologia e sua capacidade de transformar o mundo através dela. Aquele, seria apenas o começo de uma trajetória que levou uma pequena equipe de engenharia apaixonada por inovação a se tornar referência sólida no mercado brasileiro.Responsabilidades e atribuiçõesAtendimento ao público, recepcionando os clientes cidadãos que buscam os serviços de foto digital.Verificação dos dados pessoais do cliente cidadão no início do atendimento.Responsável pela coleta de foto, digitais, assinatura e digitalização de documentos.Orientação sobre as próximas etapas do processo ao cliente.Requisitos e qualificaçõesObrigatório possuir Ensino Médio Completo (será solicitado o diploma e/ou certificado);Possuir noções de informática;Desejável experiência com atendimento ao cliente.Informações adicionaisTipo de contratação: CLT, EfetivoHorário de trabalho: Atuação presencial de segunda à sexta das 08:00 às 17:00 horas Local de trabalho: \nEndereço:\nRua 5, esquina com a Rua Wilson da Paixão, nº 47, Bairro Nossa Senhora Mãe de Deus, Catalão - GO, CEP 75702-230\nVale-refeição ou Alimentação pago por dia trabalhado no cartão Alelo;Vale-transporte desconto de 6% sob o benefício de acordo com a CCT;Plano de Saúde Cooparticipativo;Plano Odontológico;Seguro de Vida;Wellhub;Clube de Vantagens;Auxílio Creche (quando previsto em convenção ou acordo coletivo).",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-24T20:39:39+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12935887",
+   "fonte": "Gupy",
+   "titulo": "ANALISTA DE ENGENHARIA DE DADOS / Data Engineer Analyst",
+   "empresa": "MODEC",
+   "local": "Rio de Janeiro, Rio de Janeiro",
+   "uf": "RJ",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-24",
+   "link": "https://modec-br.gupy.io/job/eyJqb2JJZCI6MTI5MzU4ODcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Responsável por extrair conhecimentos a partir de dados utilizando ferramentas e técnicas em grandes e complexos conjuntos de dados, trabalhando em conjunto com cientistas de dados que executam intrincadas experiências analíticas através de tecnologia de ponta teórica e abordagens aplicadas em operações de O&G em larga escala. \n Responsabilidades e atribuiçõesPrincipais Responsabilidades:Administrar, manter e escalar pipelines de dados que abastecem modelos de Analytics com dados históricos (treino) e dados em tempo real (execução), garantindo disponibilidade e eficiência ponta a ponta;Criar mecanismos de prevenção e monitoramento (observabilidade) para antecipar falhas, instrumentar alertas e assegurar níveis de serviço;Estabelecer e evoluir a governança de dados: políticas, processos e data contracts; classificação e segurança de dados; gestão de metadados, qualidade, linhagem e acesso; implantação e operação de um catálogo de dados e de um glossário de negócios corporativos;Definir e manter um modelo ontológico (semântico) corporativo, padronizando entidades, eventos e relacionamentos entre domínios operacionais e analíticos; promover seu uso via camadas semânticas, taxonomias e mapeamento para modelos físicos;Preparar os dados para uso em massa de IA e Analytics: construir datasets confiáveis, versionados e documentados; padronizar feature stores/tabelas “model-ready”; instrumentar monitoramento de qualidade e drift; e integrar práticas de MLOps/LLMOps ao ciclo de dados;Realizar avaliações de qualidade de dados, identificar problemas, causas raiz e implementar correções sustentáveis no fluxo;Desenhar e construir integrações para recuperar dados de fontes heterogêneas, estruturadas e não estruturadas;Modelar e operar bancos de dados dedicados a aplicações analíticas e operacionais, com foco em escalabilidade e segurança;Colaborar de perto com Cientistas e Analistas de Dados, garantindo fluxo adequado de dados do desenvolvimento à produção e alinhamento de soluções;Contribuir para o conhecimento do time, disseminando práticas, aprendendo novas tecnologias e impulsionando soluções na fronteira da indústria de O&G.Requisitos e qualificaçõesRequisitos e Qualificações: Bacharelado em Ciências da Computação, Engenharia da Computação, Sistemas de Informação, Engenharias ou áreas correlatas.Experiência na plataforma de Big Data como Hadoop, Hbase, Hive, Pig etc;Experiência com serviços Cloud, experiência com serviços AWS tais como S3, Athena, EC2 é um diferencial;Experiência de trabalho com Microsoft SQL Server, Power BI ou pacotes semelhantes de relatórios e BI; Experiência de trabalho com SQL, PL/SQL e linguagens semelhantes;Experiência de trabalho com Python;Conhecimento do processo de desenvolvimento de software ágil e familiaridade com ferramentas de métrica de desempenho; Inglês Avançado ou Fluente;Conhecimento intermediário do Pacote Office\nInformações adicionaisFazer parte da MODEC é ser PROTAGONISTA de uma carreira repleta de DESAFIOS e estar em contato com os mais modernos sistemas de produção em águas profundas, sabendo que sua carreira começa no BRASIL mas seu talento pode te levar para o MUNDO.- Se você quer estar entre os melhores do mercado, esta é sua oportunidade!! - Como uma empresa MULTICULTURAL e que respeita a DIVERSIDADE, encorajamos a candidatura de PCD´s em nossos processos.-----------------------------------------------------------------------------Being part of MODEC means being the PROTAGONIST of a CHALLENGING career and being in touch with the latest deep-water production systems, knowing that your career begins in BRAZIL, but your talent can take you anywhere in the WORLD.- If you want to be one of the greatest in the market, this is your opportunity!! - As a MULTICULTURAL company that respects DIVERSITY, we encourage PWD application in our process.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-24T20:39:39+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12920842",
+   "fonte": "Gupy",
+   "titulo": "Banco de Talentos | Cientista de Dados Itaú",
+   "empresa": "Itaú Unibanco",
+   "local": "São Paulo, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "Banco de talentos",
+   "publicada_em": "2026-11-19",
+   "link": "https://vemproitau.gupy.io/job/eyJqb2JJZCI6MTI5MjA4NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 98 milhões de clientes em 18 países.Somos feitos de pessoas e acreditamos que ter um time com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das diferenças.\nResponsabilidades e atribuiçõesA pessoa Cientista de Dados é responsável por gerar valor para o negócio por meio de métodos estatísticos, modelagem matemática, aprendizado de máquina, experimentação e desenvolvimento de soluções analíticas avançadas, atuando em problemas preditivos, prescritivos e de inteligência analítica. \nRequisitos e qualificações\nRaciocínio estatístico e experimentaçãoResolução de problemas e pensamento analíticoDados e fundamentos computacionaisMachine Learning e Inteligência ArtificialRiscos, governança e IA ResponsávelDecisão Orientada por EvidênciasVisão de NegóciosGestão do Ciclo de Vida de ModelosInformações adicionaisEstamos em constante transformação e esperamos que você nos ajude nessa jornada! Se identificou? Quer fazer parte do nosso time? Inscreva-se no nossa oportunidade.#vemproItaúO Itaú irá utilizar os dados fornecidos para fins de processos seletivos, inclusive em bancos de vagas alocados em plataformas terceiras. Caso deseje solicitar oposição a este uso, ou exercer quaisquer um dos seus direitos, entre em contato através de nossos canais, disponíveis na Política de Privacidade de candidatos do Itaú Unibanco (https://www.itau.com.br/privacidade/candidatos/). Não há necessidade de aceitar, trata-se apenas de uma ciência.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-24T20:39:39+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12867693",
+   "fonte": "Gupy",
+   "titulo": "Especialista em Ciência de Dados I",
+   "empresa": "PagBank",
+   "local": "São Paulo, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-11",
+   "link": "https://pagseguro.gupy.io/job/eyJqb2JJZCI6MTI4Njc2OTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Quando você pensa em carreira, o que vem à sua mente? Propósito? Colaboração? Ser protagonista para fazer a diferença? No PagBank temos tudo isso e muito mais. 💛Estamos em busca de pessoas que vistam a camisa com orgulho. Gente com vontade de facilitar a vida financeira das pessoas e impulsionar negócios!Tá a fim de uma carreira que rende mais? Confira essa oportunidade e #VemProPags!Responsabilidades e atribuiçõesDesenvolver modelos para otimização de processos de banking ou adquirência.Analisar grandes volumes de dados transacionais para identificar padrões, tendências e oportunidades de melhoria nos processos.Implementar algoritmos de segmentação de clientes e predição de comportamento para aumentar a eficiência e a personalização dos serviços oferecidos.Trabalhar em estreita colaboração com equipes de engenharia, produto e negócios para definir e implementar soluções de dados que atendam às necessidades do cliente e da empresa.Fornecer insights complexos de maneira clara e eficaz para stakeholders não técnicos, ajudando na tomada de decisões estratégicas.Mentorar e fornecer orientação técnica para membros da equipe de ciência de dados com menor senioridade.Requisitos e qualificaçõesSuperior completo em Ciências da Computação, Engenharia, Matemática, Estatística ou áreas relacionadas.Experiência com análise de grandes volumes de dados para a geração de insights para times de negócio.Experiência com ferramentas de análise de dados e programação como SQL, Python, R ou bibliotecas de machine learning (TensorFlow, PyTorch, Scikit-Learn, etc.).Habilidade para resolver problemas complexos de maneira criativa e inovadora.Conhecimento de processos de versionamento de código (Git, Github).Habilidade para traduzir dúvidas e necessidades dos times de negócios em requisitos para as análises.",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-24T20:39:39+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
+   "ativa": true
+  },
   {
    "id": "gupy:12930910",
    "fonte": "Gupy",
@@ -45,7 +121,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -65,7 +141,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
    "ultima_vez": "2026-11-23T22:02:35+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12916489",
@@ -84,7 +160,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
    "ultima_vez": "2026-11-23T22:02:35+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "lever:ciandt:dc14d9a8-cb4b-4028-8544-dc8daa3f5f7c",
@@ -102,7 +178,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -121,7 +197,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -140,7 +216,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -159,7 +235,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-20T18:36:48+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -178,7 +254,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -198,7 +274,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
    "ultima_vez": "2026-11-23T22:02:35+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12921085",
@@ -216,7 +292,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -235,7 +311,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -254,7 +330,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -273,7 +349,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -292,7 +368,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -311,7 +387,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -330,7 +406,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -349,7 +425,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -368,7 +444,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -387,7 +463,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -406,7 +482,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -425,7 +501,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -444,7 +520,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -463,7 +539,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -482,7 +558,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -501,7 +577,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -520,7 +596,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -558,7 +634,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -577,7 +653,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -596,7 +672,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -653,7 +729,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -672,7 +748,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -691,7 +767,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -710,7 +786,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -729,7 +805,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -748,7 +824,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-14T16:36:30+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -786,7 +862,7 @@
    "nivel": "junior",
    "motivo_nivel": "pede só 2 ano(s) de experiência",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -805,7 +881,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -843,7 +919,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -862,7 +938,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -881,7 +957,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -900,7 +976,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -919,7 +995,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -938,7 +1014,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -957,7 +1033,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1014,7 +1090,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1033,7 +1109,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1052,7 +1128,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1090,7 +1166,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1109,7 +1185,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1128,7 +1204,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1166,7 +1242,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1185,7 +1261,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1204,7 +1280,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1223,7 +1299,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1242,7 +1318,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1280,7 +1356,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1299,7 +1375,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1318,7 +1394,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1337,7 +1413,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1356,7 +1432,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1394,7 +1470,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-10T17:49:44+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1413,7 +1489,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-10T17:49:44+00:00",
-   "ultima_vez": "2026-11-23T22:02:35+00:00",
+   "ultima_vez": "2026-11-24T20:39:39+00:00",
    "ativa": true
   },
   {
@@ -1452,7 +1528,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
    "ultima_vez": "2026-11-23T22:02:35+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12837197",
@@ -1471,7 +1547,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
    "ultima_vez": "2026-11-23T22:02:35+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12796174",
@@ -1490,7 +1566,7 @@
    "motivo_nivel": "título/contrato de trainee ou aprendiz",
    "primeira_vez": "2026-11-09T20:43:38+00:00",
    "ultima_vez": "2026-11-23T22:02:35+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12859401",

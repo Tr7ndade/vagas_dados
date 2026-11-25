@@ -1,6 +1,9 @@
-# 4 vagas novas — 2026-11-24
+# 7 vagas novas — 2026-11-25
 
-- **Atendimento ao Cliente para Coleta de Dados - Catalão/GO (220h)** · Montreal | Tecnologia e Inovação · Catalão, Goiás · `nao_informado` — [abrir](https://montreal.gupy.io/job/eyJqb2JJZCI6MTI5MzY4OTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **ANALISTA DE ENGENHARIA DE DADOS / Data Engineer Analyst** · MODEC · Rio de Janeiro, Rio de Janeiro · `nao_informado` — [abrir](https://modec-br.gupy.io/job/eyJqb2JJZCI6MTI5MzU4ODcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Banco de Talentos | Cientista de Dados Itaú** · Itaú Unibanco · São Paulo, São Paulo · `nao_informado` — [abrir](https://vemproitau.gupy.io/job/eyJqb2JJZCI6MTI5MjA4NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-- **Especialista em Ciência de Dados I** · PagBank · São Paulo, São Paulo · `junior` — [abrir](https://pagseguro.gupy.io/job/eyJqb2JJZCI6MTI4Njc2OTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Engenheira/Engenheiro de Dados Comercial I** · Votorantim Cimentos · São Paulo, São Paulo · `junior` — [abrir](https://votorantimcimentos.gupy.io/job/eyJqb2JJZCI6MTI5MzUwMDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Administrador de Dados Jr.** · PagBank · São Paulo, São Paulo · `junior` — [abrir](https://pagseguro.gupy.io/job/eyJqb2JJZCI6MTI2MDE2NTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Hitss | Administrador de Banco de Dados – Teradata Vantage** · Hitss Brasil · Remoto · `nao_informado` — [abrir](https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI5NDIwODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Analista de Dados e Performance Jr** · Elinsa do Brasil · Belém, Pará · `junior` — [abrir](https://grupoamperelinsa.gupy.io/job/eyJqb2JJZCI6MTI5NDEyMTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **Data Engineer** · Stefanini Latam · Santiago · `nao_informado` — [abrir](https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5Mzk5NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **BI - Recepcionista Atendente** · Brasal · Uberlândia, Minas Gerais · `nao_informado` — [abrir](https://brasal.gupy.io/job/eyJqb2JJZCI6MTI5MTU5MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+- **[Job-31563] Senior/Master Data Developer (Databricks), Campinas, Brazil (Hybrid)** · CI&T · Campinas, SP · `nao_informado` — [abrir](https://jobs.lever.co/ciandt/13a2a540-1e69-45bf-9ff7-46100468b287)

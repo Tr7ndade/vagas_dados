@@ -1,6 +1,6 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-25T19:56:34+00:00",
+  "atualizado_em": "2026-11-26T19:36:56+00:00",
   "fontes": {
    "gupy": {
     "ok": true,
@@ -9,26 +9,83 @@
    },
    "greenhouse": {
     "ok": true,
-    "brutas": 917,
+    "brutas": 910,
     "empresas_com_erro": []
    },
    "lever": {
     "ok": true,
-    "brutas": 144,
+    "brutas": 150,
     "empresas_com_erro": []
    }
   },
-  "brutas": 1732,
-  "aceitas_hoje": 62,
-  "novas_hoje": 7,
+  "brutas": 1731,
+  "aceitas_hoje": 55,
+  "novas_hoje": 3,
   "descartes": {
-   "nível acima de júnior": 97,
-   "nível estagio desativado": 8,
-   "antiga": 551,
-   "não é de dados": 1014
+   "nível acima de júnior": 99,
+   "nível estagio desativado": 10,
+   "antiga": 554,
+   "não é de dados": 1013
   }
  },
  "vagas": [
+  {
+   "id": "gupy:12949311",
+   "fonte": "Gupy",
+   "titulo": "BANCO DADOS MANUTENÇÃO",
+   "empresa": "Unidas",
+   "local": "Sertãozinho, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-26",
+   "link": "https://unidas.gupy.io/job/eyJqb2JJZCI6MTI5NDkzMTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Atividades destinadas à formação de banco de dados de candidatos para futuras oportunidades nas funções de Mecânico, \nMecânico\nAuxiliar, Eletricista de Autos Linha Pesada, Lavador de Veículos e Borracheiro. Os profissionais atuarão na manutenção preventiva e corretiva da frota, apoio às atividades de oficina, inspeções de equipamentos, lavagem e conservação de veículos, montagem e reparo de pneus, além de contribuir para a segurança, disponibilidade e qualidade operacional dos veículos e equipamentos da empresa.\nResponsabilidades e atribuiçõesEnsino fundamental ou médio (conforme a função), experiência na área será considerada um diferencial, comprometimento, responsabilidade e disponibilidade para atuação em ambiente operacional.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-26T19:36:56+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12941708",
+   "fonte": "Gupy",
+   "titulo": "Analista de Dados – Produtos e Estratégia Comercial",
+   "empresa": "Viacerta Financeira",
+   "local": "Remoto",
+   "uf": null,
+   "brasil": true,
+   "modalidade": "remoto",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-26",
+   "link": "https://viacerta.gupy.io/job/eyJqb2JJZCI6MTI5NDE3MDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "A Viacerta Financeira é uma instituição financeira regulada pelo Banco Central, que oferece financiamentos e empréstimos, com e sem garantia, por meio de redes de varejo, correspondentes bancários, lojas próprias e canais digitais.\nEstamos buscando uma pessoa Analista de Dados para integrar nossa área de Estratégia Comercial, apoiando a evolução dos nossos produtos financeiros e a tomada de decisões orientada por dados.\nNo dia a dia, você terá contato próximo com as áreas Comercial, Precificação, Crédito, Cobrança e Engenharia de Dados, transformando informações em análises que ajudem a entender resultados, identificar oportunidades e direcionar decisões.\nMais do que consultar dados, buscamos alguém com olhar crítico, capaz de questioná-los, compreender o negócio e fazer a ponte entre as necessidades das áreas e os times técnicos.\nResponsabilidades e atribuiçõesNo seu dia a dia, você será responsável por:\nEscrever consultas em SQL para extrair, tratar e preparar os dados necessários para as análises da área;\nModelar e manter visões e tabelas analíticas de consumo (data marts) a partir das camadas tratadas pela Engenharia de Dados;\nDesenvolver estudos e análises sobre a performance de produtos, canais e ações comerciais;\nAnalisar indicadores de risco e recuperação sob a perspectiva de produtos, apoiando discussões e a evolução das ofertas;\nTraduzir necessidades do negócio e evoluções de produtos em demandas claras para a Engenharia de Dados, considerando como as informações serão utilizadas nas análises;\nAvaliar a estrutura dos dados existentes e propor melhorias, como revisão de campos, reorganização de tabelas e padronização de cálculos e regras;\nValidar se os dados entregues estão de acordo com as regras de negócio e adequados para utilização em análises e painéis;\nConstruir, acompanhar e manter painéis recorrentes de indicadores comerciais e de produtos;\nDefinir e manter o catálogo de métricas e regras de negócio da área, incluindo documentação para consumo por ferramentas de Inteligência Artificial, contemplando métricas, fontes, filtros, escopo, limites e interpretação das informações;\nUtilizar ferramentas de IA no dia a dia para ganhar agilidade em consultas, análises e documentação.Requisitos e qualificaçõesObrigatóriosSQL em nível intermediário ou avançado;Excel avançado;Experiência com ferramentas de visualização de dados, preferencialmente Power BI;Conhecimento de Python aplicado à análise de dados;Conhecimentos de estatística básica, incluindo medidas descritivas, distribuições, correlação e noções de amostragem;Experiência ou familiaridade com ferramentas de Inteligência Artificial aplicadas à análise de dados;Ensino superior completo ou em andamento em Estatística, Economia, Engenharia, Administração, Ciência da Computação ou áreas relacionadas.DesejáveisSerá um diferencial se você também tiver:Experiência em instituições financeiras, financeiras de varejo ou promotoras de crédito;Familiaridade com indicadores de crédito e cobrança, como aprovação, inadimplência e rolagem de carteira (roll rate);Experiência com BigQuery ou outro data warehouse em nuvem;Experiência com IA generativa aplicada a fluxos de análise de dados.Competências comportamentaisBuscamos uma pessoa que tenha:Comunicação orientada ao negócio: consiga traduzir análises e dados de forma clara para apoiar quem toma decisões, mostrando o que os números representam na prática;Capacidade analítica: saiba estruturar problemas, questionar informações e identificar o que realmente é relevante nos dados;Proatividade: tenha iniciativa para identificar oportunidades, desvios e problemas antes mesmo de uma solicitação;Senso de urgência e priorização: consiga identificar o que precisa ser tratado primeiro para destravar decisões e acompanhar o ritmo do negócio;Trabalho em equipe: facilidade para atuar de forma próxima e colaborativa com Comercial, Precificação, Crédito, Cobrança e Engenharia de Dados;Responsabilidade e organização: cuidado com qualidade, consistência e confiabilidade das informações utilizadas nas decisões.\nInformações adicionaisNossos Benefícios:🍞 Vale Alimentação;🚌 Vale-transporte;💊 Plano de Saúde Unimed Nacional;💬 Atendimento Psicológico;🔒 Seguro de Vida;🎁 Day Off no mês de aniversário;💰 14º 15º;💰 Participação nos Resultados;💚 TotalPass",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-26T19:36:56+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12945057",
+   "fonte": "Gupy",
+   "titulo": "Assistente administrativo (Dados & Performance)| Exclusiva para Pessoas com deficiência",
+   "empresa": "VENHA SER #SANGUELARANJA 🧡🚀",
+   "local": "São Paulo, São Paulo",
+   "uf": "SP",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-25",
+   "link": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5NDUwNTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "A FCamara está em busca de uma pessoa para atuar como Assistente de Dados & Performance! Buscamos uma pessoa analítica, curiosa e organizada para integrar o time de Sales Excellence, apoiando a gestão comercial por meio de dados, análises, indicadores e melhoria contínua dos processos.Essa pessoa terá um papel importante na transformação de dados em informação relevante para o negócio, apoiando a construção de relatórios, a análise de performance comercial, a identificação de oportunidades de melhoria e o acompanhamento de planos de ação.A posição terá interação constante com diferentes áreas da companhia, como times comerciais, Marketing, Financeiro, Operações e lideranças, contribuindo para conectar informações, dar visibilidade aos resultados e apoiar decisões mais assertivas.Mais do que alguém que saiba produzir relatórios, buscamos uma pessoa que tenha curiosidade para entender o que os números estão contando, questionar resultados, identificar padrões e propor caminhos.Responsabilidades e atribuições Dados, relatórios e indicadoresExtrair, manipular, cruzar, limpar e transformar dados de diferentes fontes.Desenvolver, atualizar e automatizar relatórios, dashboards e indicadores de performance comercial.Garantir consistência, confiabilidade e qualidade das informações utilizadas nas análises.Organizar bases de dados, estruturar informações e apoiar a criação de modelos de acompanhamento.Identificar padrões, tendências, desvios e oportunidades a partir da análise dos dados.Apoiar a evolução das ferramentas e processos de Data & Analytics da área de Sales Excellence.Análise de negócio e performanceAnalisar resultados comerciais, contribuindo para o entendimento da performance, evolução e desvios em relação às metas.Investigar causas e fatores que possam explicar variações nos indicadores.Transformar análises em insights relevantes para o negócio.Propor hipóteses, recomendações e possíveis planos de ação a partir dos dados.Apoiar o acompanhamento da execução dos planos de ação e seus resultados.Preparar análises e materiais que apoiem reuniões de gestão, fóruns de performance e tomadas de decisão.Gestão e acompanhamento comercialApoiar o acompanhamento do pipeline de vendas, oportunidades, forecast, conversão e demais indicadores comerciais.Monitorar informações relacionadas à produtividade, performance, evolução de metas e resultados.Apoiar a identificação de gargalos e oportunidades de melhoria no processo comercial.Contribuir para a organização, padronização e melhoria dos processos e rotinas de Sales Excellence.Garantir a atualização e consistência das informações nos sistemas e ferramentas de gestão comercial.Integração de informações e processosApoiar a integração e conciliação de informações entre sistemas, especialmente CRM e ERP.Participar da construção de uma visão integrada do ciclo de receita, conectando informações desde a criação da oportunidade comercial até o faturamento e recebimento.Identificar inconsistências, lacunas e divergências entre dados comerciais, operacionais e financeiros.Trabalhar em conjunto com diferentes áreas para compreender processos, obter informações e melhorar a qualidade dos dados.Apoiar a evolução dos processos de governança e gestão da informação comercial.Interface com áreas e stakeholdersInteragir com diferentes áreas da companhia para coleta, validação e análise de informações.Apoiar a construção de uma visão integrada do negócio, promovendo colaboração entre áreas.Organizar demandas, alinhamentos e acompanhamentos relacionados às iniciativas de Sales Excellence.Comunicar análises e resultados de forma clara, objetiva e adequada a diferentes públicos.Atuar de forma proativa na identificação de necessidades, buscando soluções e melhorias junto aos stakeholders.\nRequisitos e qualificaçõesConhecimento intermediário de Excel, incluindo manipulação de dados, fórmulas, tabelas dinâmicas e organização de bases.Conhecimento ou experiência com ferramentas de análise, visualização e construção de dashboards, como Power BI.Familiaridade com manipulação, organização, cruzamento e transformação de dados.Raciocínio lógico e analítico, com capacidade para investigar problemas e interpretar informações.Interesse em negócio, indicadores de performance e compreensão de processos comerciais.Boa comunicação verbal e escrita.Organização, atenção aos detalhes e capacidade de lidar com diferentes demandas.Proatividade, curiosidade e autonomia para buscar informações, investigar problemas e aprender.DiferenciaisConhecimento em SQL para consulta e manipulação de bases de dados.Conhecimento em Power Query, Python ou outras ferramentas de transformação e tratamento de dados.Experiência com construção e manutenção de dashboards e indicadores.Familiaridade com CRM, especialmente Zoho.Familiaridade com ERP e processos de faturamento, financeiro ou gestão de receita.Experiência em áreas de Sales Operations, Sales Excellence, Business Intelligence, Analytics ou Performance.Noções de processo",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-26T19:36:56+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
+   "ativa": true
+  },
   {
    "id": "gupy:12935002",
    "fonte": "Gupy",
@@ -45,7 +102,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -64,7 +121,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -83,7 +140,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -102,7 +159,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -121,7 +178,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -140,7 +197,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -159,7 +216,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -178,7 +235,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-24T20:39:39+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -197,7 +254,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-24T20:39:39+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -216,7 +273,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-24T20:39:39+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -236,7 +293,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-24T20:39:39+00:00",
    "ultima_vez": "2026-11-25T19:56:34+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12930910",
@@ -254,7 +311,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -311,7 +368,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -330,7 +387,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -350,7 +407,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
    "ultima_vez": "2026-11-25T19:56:34+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12922865",
@@ -368,7 +425,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-20T18:36:48+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -387,7 +444,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -425,7 +482,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -444,7 +501,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -463,7 +520,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -482,7 +539,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -501,7 +558,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -520,7 +577,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -539,7 +596,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -558,7 +615,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -577,7 +634,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -596,7 +653,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -615,7 +672,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -634,7 +691,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -653,7 +710,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -672,7 +729,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -691,7 +748,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -710,7 +767,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -729,7 +786,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -767,7 +824,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -786,7 +843,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -805,7 +862,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -862,7 +919,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -881,7 +938,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -900,7 +957,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -919,7 +976,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -938,7 +995,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -957,7 +1014,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-14T16:36:30+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -995,7 +1052,7 @@
    "nivel": "junior",
    "motivo_nivel": "pede só 2 ano(s) de experiência",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -1014,7 +1071,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -1052,7 +1109,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -1071,7 +1128,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -1109,7 +1166,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -1128,7 +1185,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -1147,7 +1204,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -1166,7 +1223,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -1223,7 +1280,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -1242,7 +1299,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -1261,7 +1318,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
-   "ultima_vez": "2026-11-25T19:56:34+00:00",
+   "ultima_vez": "2026-11-26T19:36:56+00:00",
    "ativa": true
   },
   {
@@ -1300,7 +1357,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
    "ultima_vez": "2026-11-25T19:56:34+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12863707",
@@ -1319,7 +1376,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
    "ultima_vez": "2026-11-25T19:56:34+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12847233",
@@ -1338,7 +1395,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-12T18:19:26+00:00",
    "ultima_vez": "2026-11-25T19:56:34+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "lever:ciandt:b8e80bdb-9cb8-4eb8-b0dc-50802ffc0ffa",
@@ -1376,7 +1433,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
    "ultima_vez": "2026-11-25T19:56:34+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12794215",
@@ -1395,7 +1452,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
    "ultima_vez": "2026-11-25T19:56:34+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12794387",
@@ -1414,7 +1471,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
    "ultima_vez": "2026-11-25T19:56:34+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12816745",
@@ -1433,7 +1490,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
    "ultima_vez": "2026-11-25T19:56:34+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12870601",
@@ -1452,7 +1509,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-11T17:53:31+00:00",
    "ultima_vez": "2026-11-25T19:56:34+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12714053",

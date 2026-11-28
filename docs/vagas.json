@@ -1,34 +1,72 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-27T19:28:15+00:00",
+  "atualizado_em": "2026-11-28T18:15:13+00:00",
   "fontes": {
    "gupy": {
     "ok": true,
-    "brutas": 672,
+    "brutas": 659,
     "erros": 0
    },
    "greenhouse": {
     "ok": true,
-    "brutas": 907,
+    "brutas": 899,
     "empresas_com_erro": []
    },
    "lever": {
     "ok": true,
-    "brutas": 148,
+    "brutas": 147,
     "empresas_com_erro": []
    }
   },
-  "brutas": 1727,
-  "aceitas_hoje": 51,
-  "novas_hoje": 4,
+  "brutas": 1705,
+  "aceitas_hoje": 45,
+  "novas_hoje": 2,
   "descartes": {
-   "não é de dados": 1007,
-   "nível acima de júnior": 93,
+   "nível acima de júnior": 85,
    "nível estagio desativado": 8,
+   "não é de dados": 999,
    "antiga": 568
   }
  },
  "vagas": [
+  {
+   "id": "gupy:12938825",
+   "fonte": "Gupy",
+   "titulo": "Analista de Dados Junior",
+   "empresa": "Confidencial Geral",
+   "local": "Blumenau, Santa Catarina",
+   "uf": "SC",
+   "brasil": true,
+   "modalidade": "presencial",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-27",
+   "link": "https://vagasconfidenciais2023.gupy.io/job/eyJqb2JJZCI6MTI5Mzg4MjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "Estamos em busca de um Analista de Dados Junior.Responsabilidades e atribuições\nAcompanhar e analisar indicadores de desempenho e resultados da área de Sourcing, identificando desvios, oportunidades e pontos de atenção;Consolidar e interpretar informações de diferentes processos e áreas, garantindo consistência, confiabilidade e visibilidade para a tomada de decisão;Realizar análises comparativas de resultados, desempenho, custos, margens e níveis de atendimento, contribuindo para a identificação de oportunidades e recomendações ao negócio;Identificar oportunidades de melhoria contínua nos processos, contribuindo para maior eficiência, produtividade e assertividade na gestão;Preparar e consolidar informações para apresentações gerenciais, reuniões de acompanhamento e fóruns de decisão;Atuar de forma integrada com diferentes áreas da organização, promovendo alinhamento, compartilhamento de informações e acompanhamento dos resultados.\nRequisitos e qualificações\nFormação técnica ou superior em Administração, Engenharia de Produção, Logística, TI ou áreas correlatas.Experiência em processos de Sourcing, Supply Chain, Planejamento ou áreas relacionadas à cadeia de suprimentos.Boa capacidade analítica, interpretação de dados e visão sistêmica do negócio.Habilidade para consolidar informações, desenvolver análises e transformar dados em recomendações.DiferenciaisConhecimento dos processos de Sourcing e cadeia têxtil;Vivência em planejamento, gestão de indicadores e acompanhamento de resultados;Experiência com análises de performance, custos, margens e eficiência operacional;Vivência na construção de apresentações gerenciais e suporte à tomada de decisão;Conhecimento em processos de melhoria contínua e governança de informações.",
+   "nivel": "junior",
+   "motivo_nivel": "título diz júnior",
+   "primeira_vez": "2026-11-28T18:15:13+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
+   "ativa": true
+  },
+  {
+   "id": "gupy:12937557",
+   "fonte": "Gupy",
+   "titulo": "Analista de Dados de Marketing (Marcas)",
+   "empresa": "Grupo Salta Educação",
+   "local": "Rio de Janeiro, Rio de Janeiro",
+   "uf": "RJ",
+   "brasil": true,
+   "modalidade": "hibrido",
+   "contrato": "CLT",
+   "publicada_em": "2026-11-27",
+   "link": "https://gruposaltaedu.gupy.io/job/eyJqb2JJZCI6MTI5Mzc1NTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "descricao": "O Grupo Salta é um dos maiores grupos de educação básica do Brasil, com mais de 28 marcas de escolas em diferentes regiões do país. Estamos crescendo e buscamos um(a) Analista de Dados para o time de Marketing para uma das nossas marcas. Essa pessoa vai transformar dados em insights estratégicos que orientam as decisões de negócio da escola. Nosso time trabalha de forma colaborativa, com autonomia e foco em resultado, em um ambiente que estimula o aprendizado contínuo. Além disso, você vai trocar com as áreas do Grupo Salta e ter contato com práticas e referências de outras marcas do grupo.\nResponsabilidades e atribuições\nSua missão será:\nEstruturar, analisar e monitorar os indicadores de marketing da marca (budget, performance de campanhas, funil de captação de alunos, entre outros);\nConstruir dashboards e relatórios que apoiem a tomada de decisão das lideranças e das equipes das unidades;\nFazer análises exploratórias e cruzamentos de dados para identificar oportunidades e tendências, principalmente ao longo do ciclo de matrículas;\nTrabalhar junto com o time de mídia paga, traduzindo dados em recomendações práticas;\nMontar e acompanhar o orçamento de marketing, garantindo o controle e a organização das despesas;\nColaborar com diferentes áreas internas e com o Grupo Salta, fazendo a ponte entre os dados e a operação.Requisitos e qualificações\nPara assumir esse desafio, você precisa ter:\nEnsino superior completo (preferencialmente em Administração, Engenharia, Marketing, Economia, Estatística ou áreas correlatas);\nDomínio de Excel e familiaridade com ferramentas de dashboards (ex.: Looker Studio, Power BI);\nCapacidade de organizar e estruturar processos com clareza, consistência e padronização;\nBoa comunicação para trocar o tempo todo com diferentes times, especialmente as lideranças de marketing;\nPerfil analítico, senso crítico e facilidade para transformar números em histórias e recomendações práticas;\nOrganização, atenção aos detalhes e senso de prioridade.\nVocê vai se destacar se:\nJá tiver trabalhado com análise de dados em marketing;\nJá tiver acompanhado um orçamento;\nConhecer métricas de marketing digital e indicadores de campanhas;\nTiver experiência ou interesse no setor de educação;\nTiver facilidade para propor melhorias e repensar processos;\nGostar de trabalhar em um ambiente colaborativo, em que dados e feedbacks guiam as decisões.Informações adicionais🕛 Carga horária de trabalho: 44 horas semanais.💻Trabalho Híbrido: presencial 2x por semana e home office 3x por semana;⬇️ Nós oferecemos:🍽️ Vale-Refeição ou Vale-Alimentação (você decide como dividir);🚍 Vale-Transporte;💡 Auxílio Home Office;💺 Direito a receber um reembolso de até R$400,00 referente à compra de uma cadeira ergonômica, visando beneficiar o trabalho remoto;🩺 Assistência médica e odontológica;📊 Participação nos Lucros e Resultados (PLR);😎 Dress code descontraído;🎂 Day off no mês do aniversário para essa data não passar sem festa;📚 Ambiente Salta de Aprendizagem: Cursos gratuitos sobre liderança e comunicação que vão alavancar sua carreira!;🎁 Parcerias no Salta +Benefícios: T.T Burguer, Chefs Club, PrimePass, Magalu, NetShoes, Ponto Frio, Casas Bahia, Cultura Inglesa, CNA, Ibmec, Le Canton, Budda Spa, entre vários outros!;🧒 Seu filho(a) tem direito a bolsa escolar (consulte a equipe de Gente e Gestão para verificar as regras).Acreditamos que um time diverso é o caminho para cumprir a nossa missão de transformar vidas e o Brasil. Assim, incentivamos a candidatura de pessoas que se identifiquem com grupos minorizados em todas as nossas posições.Fique tranquilo (a) ao cadastrar seus dados na vaga. O Grupo Salta segue a LGPD – Lei Geral de Proteção de Dados (Lei Federal 13.709/2018), que entrou em vigor em agosto de 2020, logo, garantimos responsabilidade ao utilizar seus dados somente em nosso processo seletivo, para fins de cadastro e controle de candidatos.",
+   "nivel": "nao_informado",
+   "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
+   "primeira_vez": "2026-11-28T18:15:13+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
+   "ativa": true
+  },
   {
    "id": "gupy:12949147",
    "fonte": "Gupy",
@@ -45,7 +83,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-27T19:28:15+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -64,7 +102,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-27T19:28:15+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -83,7 +121,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-27T19:28:15+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -102,7 +140,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-27T19:28:15+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -121,7 +159,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-26T19:36:56+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -140,7 +178,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-26T19:36:56+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -178,7 +216,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -197,7 +235,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -216,7 +254,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -235,7 +273,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -254,7 +292,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -273,7 +311,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -292,7 +330,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-25T19:56:34+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -311,7 +349,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-24T20:39:39+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -330,7 +368,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-24T20:39:39+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -349,7 +387,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-24T20:39:39+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -387,7 +425,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -444,7 +482,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -463,7 +501,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-23T22:02:35+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -501,7 +539,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-20T18:36:48+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -520,7 +558,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -558,7 +596,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -578,7 +616,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
    "ultima_vez": "2026-11-27T19:28:15+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12919960",
@@ -596,7 +634,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -615,7 +653,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -634,7 +672,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -653,7 +691,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -672,7 +710,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-19T18:59:01+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -691,7 +729,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -710,7 +748,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -729,7 +767,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -748,7 +786,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -767,7 +805,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -786,7 +824,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -805,7 +843,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -824,7 +862,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-18T18:51:04+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -843,7 +881,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -862,7 +900,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -900,7 +938,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -919,7 +957,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-17T19:10:40+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -995,7 +1033,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -1014,7 +1052,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -1033,7 +1071,7 @@
    "nivel": "junior",
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -1052,7 +1090,7 @@
    "nivel": "nao_informado",
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
-   "ultima_vez": "2026-11-27T19:28:15+00:00",
+   "ultima_vez": "2026-11-28T18:15:13+00:00",
    "ativa": true
   },
   {
@@ -1072,7 +1110,7 @@
    "motivo_nivel": "título diz júnior",
    "primeira_vez": "2026-11-16T20:29:01+00:00",
    "ultima_vez": "2026-11-27T19:28:15+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12891161",
@@ -1091,7 +1129,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-14T16:36:30+00:00",
    "ultima_vez": "2026-11-27T19:28:15+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12841206",
@@ -1129,7 +1167,7 @@
    "motivo_nivel": "pede só 2 ano(s) de experiência",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
    "ultima_vez": "2026-11-27T19:28:15+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12730645",
@@ -1148,7 +1186,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
    "ultima_vez": "2026-11-27T19:28:15+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12888536",
@@ -1186,7 +1224,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
    "ultima_vez": "2026-11-27T19:28:15+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12878852",
@@ -1205,7 +1243,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
    "ultima_vez": "2026-11-27T19:28:15+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12884041",
@@ -1243,7 +1281,7 @@
    "motivo_nivel": "sem nível no título nem sinais de sênior/pleno",
    "primeira_vez": "2026-11-13T17:44:03+00:00",
    "ultima_vez": "2026-11-27T19:28:15+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "id": "gupy:12881456",
